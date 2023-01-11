@@ -1,0 +1,40 @@
+﻿regulation_ID,criterion,value,rule_description
+AT_1,Turnover,9680000 [EUR],2 out of 3
+AT_1,Total Assets,4840000 [EUR],2 out of 3
+AT_1,Employees,50 [Employees],2 out of 3
+AT_2,Turnover,10000000 [EUR],2 out of 3
+AT_2,Total Assets,5000000 [EUR],2 out of 3
+AT_2,Employees,50 [Employees],2 out of 3
+AT_3,National legal form,Genossenschaften ,necessary 
+AT_3,Turnover,9680000 [EUR],2 out of 3
+AT_3,Total Assets,4840000 [EUR],2 out of 3
+AT_3,Employees,50 [Employees],2 out of 3
+AT_4,National legal form,Genossenschaften ,necessary 
+AT_4,Turnover,10000000 [EUR],2 out of 3
+AT_4,Total Assets,5000000 [EUR],2 out of 3
+AT_4,Employees,50 [Employees],2 out of 3
+AT_5,Turnover,700000 [EUR],necessary 
+BE_1 ,NA,NA,all 
+BE_2,National legal form,Société Co-operative,necessary 
+CZ_1,NA,NA,all 
+CZ_2,NA,NA,all 
+CZ_3,Turnover,25000000 [CZK],necessary 
+DK_1,NA,NA,all
+DK_2,National legal form,Andelsselskaber,necessary 
+DK_2,Turnover,14000000 [DKK],2 out of 3
+DK_2,Total Assets,7000000 [DKK],2 out of 3
+DK_2,Employees,10 [Employees],2 out of 3
+EE_1,NA,NA,all
+EE_2,National legal form,Tulundusühistu,necessary 
+EE_3,National legal form,Täisühing,1 out of 2
+EE_3,National legal form,Usaldusühing,1 out of 2
+EE_3,Type of partner,"OÜ, AS, TuÜ",necessary 
+FR_1,NA,NA,All
+FR_2,Total Assets,350000 [EUR],1 out of 3
+FR_2,Turnover ,700000 [EUR],1 out of 3
+FR_2,Employees,10 Employees,1 out of 3
+FR_3 ,Type of partner,All liable  partners are limited liability companies or joint-stock companies ,necessary 
+FR_4,Type of partner,All liable  partners are limited liability companies or joint-stock companies ,necessary 
+FR_4,Total Assets,350000 [EUR],1 out of 3
+FR_4,Turnover ,700000 [EUR],1 out of 3
+FR_4,Employees,10 Employees,1 out of 3

@@ -1,0 +1,24 @@
+﻿regulation_ID,effect,regulation_summary,effective_date,defunct_date
+AT_1,Balance sheet disclosure,"Limited liability companies (AG, GmbH, OHG, KG) have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates ('Kleine Kapitalgesellschaften').",01.06.2008,20.07.2015
+AT_2,Balance sheet disclosure,"Limited liability companies (AG, GmbH, OHG, KG) have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates ('Kleine Kapitalgesellschaften').",21.07.2015,NA
+AT_3,Balance sheet disclosure,Certain partnerships ('Genossenschaften') have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates.,01.06.2008,20.07.2015
+AT_4,Balance sheet disclosure,Certain partnerships ('Genossenschaften') have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates.,21.07.2015,NA
+AT_5,Balance sheet disclosure,Sole proprietorships have to disclose a balance sheet if the meet the size criterion.,NA,NA
+BE_1,Balance sheet disclosure,"All limited liability companies (SA, SCA, SPRL) have to disclose a balance sheet.",NA,NA
+BE_2,Balance sheet disclosure,Certain partnerships ('Société Co-operative') have to make use of double entry bookkeeping and disclose their financial statements.,NA,NA
+BE_3,Balance sheet disclosure,Sole proprietorships generally do not have to disclose their balance sheets.,NA,NA
+CZ_1,Balance sheet disclosure,"All limited liability companies (a.s., s.r.o.) have to disclose a balance sheet.",NA,NA
+CZ_2,Balance sheet disclosure,"All partnerships companies (v.o.s, k.s.) have to disclose a balance sheet.",NA,NA
+CZ_3,Balance sheet disclosure,Sole proprietorships have to disclose a balance sheet if the meet the size criterion.,NA,NA
+DK_1,Balance sheet disclosure,"All limited liability companies (A/S, ApS, P/S) have to disclose a balance sheet.",NA,NA
+DK_2,Balance sheet disclosure,"Certain partnerships ('Andelsselskaber') have to disclose a balance sheet if they meet two out of three size criteria (§ 4 Bekendtgørelse af årsregnskabsloven). For other types of partnerships (I/S, K/S) the publication is gerally not mandatory.",NA,NA
+DK_3,Balance sheet disclosure,Sole proprietorships generally do not have to disclose their balance sheets.,NA,NA
+EE_1,Balance sheet disclosure,All limted liability companies (AS; OÜ) have to disclose financial statements.,NA,NA
+EE_2,Balance sheet disclosure,Certain partnerships ('Tulundusühistu') have to disclose a balance sheet.,NA,NA
+EE_3,Balance sheet disclosure,"Certain partnerships (Täisühing, Usaldusühing) have to disclose a balance sheet if a limited liability company (AS; OÜ) or a certain partnerships ('Tulundusühistu') is a general partner.",NA,NA
+EE_4,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+FR_1,Balance sheet disclosure,"All limted liability companies (SA, SARL, SCA, SAS) have to disclose financial statements.",NA,31.12.2013
+FR_2,Balance sheet disclosure,"Generally limted liability companies (SA, SARL, SCA, SAS) have to disclose financial statements. However, micro entites can provide an extremely simplified version of financial statement. ",01.01.2014,NA
+FR_3,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable  partners are limited liability companies or joint-stock companies.,NA,31.12.2013
+FR_4,Balance sheet disclosure,"Partnerships have to disclose a balance sheet if all liable  partners are limited liability companies or joint-stock companies. However, micro entites can provide an extremely simplified version of financial statement. ",01.01.2014,NA
+FR_5,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
