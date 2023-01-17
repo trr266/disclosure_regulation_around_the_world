@@ -132,3 +132,12 @@ gdp <- data.frame(gdp,
                          share_orbis)
 
 
+######## Save as Excel
+
+library(writexl)
+write_xlsx(list(
+  "year"       = year,
+  "continent"  = continent,
+  "population" = population,
+  "gdp"        = gdp),
+           path = "output/analysis_1.xlsx")
