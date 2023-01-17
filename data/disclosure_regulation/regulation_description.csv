@@ -1,24 +1,179 @@
 ﻿regulation_ID,effect,regulation_summary,effective_date,defunct_date
-AT_1,Balance sheet disclosure,"Limited liability companies (AG, GmbH, OHG, KG) have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates ('Kleine Kapitalgesellschaften').",01.06.2008,20.07.2015
-AT_2,Balance sheet disclosure,"Limited liability companies (AG, GmbH, OHG, KG) have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates ('Kleine Kapitalgesellschaften').",21.07.2015,NA
-AT_3,Balance sheet disclosure,Certain partnerships ('Genossenschaften') have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates.,01.06.2008,20.07.2015
-AT_4,Balance sheet disclosure,Certain partnerships ('Genossenschaften') have to disclose a balance sheet if they meet two of three size criteria for two successive balance sheet dates.,21.07.2015,NA
-AT_5,Balance sheet disclosure,Sole proprietorships have to disclose a balance sheet if the meet the size criterion.,NA,NA
+AT_1,Balance sheet disclosure,"Limited liability companies (AG, GmbH, OHG, KG) generally have to disclose a balance sheet).",NA,NA
+AT_2,Income statement disclosure,"Limited liability companies (AG, GmbH, OHG, KG) have to disclose a income statement if they meet two of three size criteria for two successive balance sheet dates ('Mittelgroße Kapitalgesellschaften').",NA,20.07.2015
+AT_3,Income statement disclosure,"Limited liability companies (AG, GmbH, OHG, KG) have to disclose a income statement if they meet two of three size criteria for two successive balance sheet dates ('Mittelgroße Kapitalgesellschaften').",21.07.2015,NA
+AT_4,Balance sheet disclosure,Certain partnerships ('Genossenschaften') have to disclose a balance sheets. ,NA,NA
+AT_5,Income statement disclosure,Certain partnerships ('Genossenschaften') have to disclose an incomestatement if they meet two of three size criteria for two successive balance sheet dates ('Mittelgroße Kapitalgesellschaften').,NA,20.07.2015
+AT_6,Income statement disclosure,Certain partnerships ('Genossenschaften') have to disclose an incomestatement if they meet two of three size criteria for two successive balance sheet dates ('Mittelgroße Kapitalgesellschaften').,21.07.2015,NA
+AT_7,Balance sheet disclosure,Sole proprietorships generally do not have to disclose their balance sheets.,NA,NA
+AT_8,Income statement disclosure,Sole proprietorships generally do not have to disclose their income statements.,NA,NA
 BE_1,Balance sheet disclosure,"All limited liability companies (SA, SCA, SPRL) have to disclose a balance sheet.",NA,NA
 BE_2,Balance sheet disclosure,Certain partnerships ('Société Co-operative') have to make use of double entry bookkeeping and disclose their financial statements.,NA,NA
 BE_3,Balance sheet disclosure,Sole proprietorships generally do not have to disclose their balance sheets.,NA,NA
+BE_4,Income statement disclosure,"Limited liability companies (SA, SCA, SPRL) have to disclose an income statement.",NA,NA
+BE_5,Income statement disclosure,Certain partnerships ('Société Co-operative') have to disclose an income statement. ,NA,NA
+BE_6,Income statement disclosure,Sole proprietorships generally do not have to disclose an income statement.,NA,NA
 CZ_1,Balance sheet disclosure,"All limited liability companies (a.s., s.r.o.) have to disclose a balance sheet.",NA,NA
 CZ_2,Balance sheet disclosure,"All partnerships companies (v.o.s, k.s.) have to disclose a balance sheet.",NA,NA
-CZ_3,Balance sheet disclosure,Sole proprietorships have to disclose a balance sheet if the meet the size criterion.,NA,NA
+CZ_3,Balance sheet disclosure,Sole proprietorships have to prepare and disclose a balance sheet if they meet a certain threshold.,NA,NA
+CZ_4,Income statement disclosure,"All limited liability companies (a.s., s.r.o.) have to disclose an income statement.",NA,NA
+CZ_5,Income statement disclosure,"All partnerships companies (v.o.s, k.s.) have to disclose an income statement.",NA,NA
+CZ_6,Income statement disclosure,Sole proprietorships have to prepare and disclose a balance sheet if they meet e a certain threshold.,NA,NA
 DK_1,Balance sheet disclosure,"All limited liability companies (A/S, ApS, P/S) have to disclose a balance sheet.",NA,NA
-DK_2,Balance sheet disclosure,"Certain partnerships ('Andelsselskaber') have to disclose a balance sheet if they meet two out of three size criteria (§ 4 Bekendtgørelse af årsregnskabsloven). For other types of partnerships (I/S, K/S) the publication is gerally not mandatory.",NA,NA
-DK_3,Balance sheet disclosure,Sole proprietorships generally do not have to disclose their balance sheets.,NA,NA
+DK_2,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable partners are limited liability firms.,NA,NA
+DK_3,Balance sheet disclosure,Certain partnerships ('Andelsselskaber') have to disclose a balance sheet if they meet two out of three size criteria (§ 4 Bekendtgørelse af årsregnskabsloven).,NA,NA
+DK_4,Balance sheet disclosure,Sole proprietorships generally do not have to disclose their balance sheets.,NA,NA
+DK_5,Income statement disclosure,"All limited liability companies (A/S, ApS, P/S) have to disclose an income statement.",NA,NA
+DK_6,Income statement disclosure,Partnerships have to disclose a income statement if all liable partners are limited liability firms.,NA,NA
+DK_7,Income statement disclosure,Certain partnerships ('Andelsselskaber') have to disclose a income statement if they meet two out of three size criteria (§ 4 Bekendtgørelse af årsregnskabsloven).,NA,NA
+DK_8,Income statement disclosure,Sole proprietorships generally do not have to disclose a income statement.,NA,NA
 EE_1,Balance sheet disclosure,All limted liability companies (AS; OÜ) have to disclose financial statements.,NA,NA
 EE_2,Balance sheet disclosure,Certain partnerships ('Tulundusühistu') have to disclose a balance sheet.,NA,NA
 EE_3,Balance sheet disclosure,"Certain partnerships (Täisühing, Usaldusühing) have to disclose a balance sheet if a limited liability company (AS; OÜ) or a certain partnerships ('Tulundusühistu') is a general partner.",NA,NA
 EE_4,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+EE_5,Income statement disclosure,All limted liability companies (AS; OÜ) have to disclose income statements.,NA,NA
+EE_6,Income statement disclosure,Certain partnerships ('Tulundusühistu') have to disclose an income statement.,NA,NA
+EE_7,Income statement disclosure,"Certain partnerships (Täisühing, Usaldusühing) have to disclose an income statement if a limited liability company (AS; OÜ) or a certain partnerships ('Tulundusühistu') is a general partner.",NA,NA
+EE_8,Income statement disclosure,Sole proprietorships generally do not have to disclose an income statement.,NA,NA
 FR_1,Balance sheet disclosure,"All limted liability companies (SA, SARL, SCA, SAS) have to disclose financial statements.",NA,31.12.2013
-FR_2,Balance sheet disclosure,"Generally limted liability companies (SA, SARL, SCA, SAS) have to disclose financial statements. However, micro entites can provide an extremely simplified version of financial statement. ",01.01.2014,NA
+FR_2,Balance sheet disclosure,"Generally limted liability companies (SA, SARL, SCA, SAS) have to disclose a balance sheet if they meet certain size thresholds. ",01.01.2014,NA
 FR_3,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable  partners are limited liability companies or joint-stock companies.,NA,31.12.2013
-FR_4,Balance sheet disclosure,"Partnerships have to disclose a balance sheet if all liable  partners are limited liability companies or joint-stock companies. However, micro entites can provide an extremely simplified version of financial statement. ",01.01.2014,NA
+FR_4,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable  partners are limited liability companies or joint-stock companies and if they meet a size thrshold.,01.01.2014,NA
 FR_5,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+FR_6,Income statement disclosure,"All limted liability companies (SA, SARL, SCA, SAS) have to disclose income statements.",NA,31.12.2013
+FR_7,Income statement disclosure,"Generally limted liability companies (SA, SARL, SCA, SAS) have to disclose an income statement if they meet certain size thresholds. ",01.01.2014,NA
+FR_8,Income statement disclosure,Partnerships have to disclose a balance sheet if all liable  partners are limited liability companies or joint-stock companies.,NA,31.12.2013
+FR_9,Income statement disclosure,Partnerships have to disclose a income statement if all liable  partners are limited liability companies or joint-stock companies and if they meet a size thrshold.,01.01.2014,NA
+FR_10,Income statement disclosure,Sole proprietorships generally do not have prepare a income statement.,NA,NA
+DE_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,31.12.2012
+DE_2,Balance sheet disclosure,Limited liability firms have to disclose a balance sheet if they meet certain size thresholds. ,01.01.2013,NA
+DE_3,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable partners are limited liability firms and ,NA,NA
+DE_4,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable partners are limited liability firms and if they meet a size threshold.,NA,NA
+DE_5,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+DE_6,Income statement disclosure,Limited liability firms have to disclose a income statement if athey meet a size threshold. ,NA,NA
+DE_7,Income statement disclosure,Partnerships have to disclose an income statement if all liable partners are limited liability firms and if they meet a size threshold.,NA,NA
+DE_8,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+GR_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+GR_2,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable partners are limited liability companies.,NA,NA
+GR_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+GR_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+GR_5,Income statement disclosure,Partnerships have to disclose an income statement if all liable partners are limited liability companies.,NA,NA
+GR_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+IT_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+IT_2,Balance sheet disclosure,Certain types of partnerships ('Cooperativa') have to disclose a balance sheet. ,NA,NA
+IT_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+IT_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+IT_5,Income statement disclosure,Certain types of partnerships ('Cooperativa') have to disclose a balance sheet. ,NA,NA
+IT_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+LT_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+LT_2,Balance sheet disclosure,All Partnerships have to disclose a balance sheet.,NA,NA
+LT_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+LT_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+LT_5,Income statement disclosure,Partnerships have to disclose a balance sheet. ,NA,NA
+LT_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+NL_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+NL_2,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable partners are limited liability companies.,NA,NA
+NL_3,Balance sheet disclosure,Certain partnerships ('Cooperatie ') have to disclose a balance sheet. ,NA,NA
+NL_4,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+NL_5,Income statement disclosure,Limited liability firms have to disclose an income statement if they meet a size threshold.,NA,NA
+NL_6,Income statement disclosure,Partnerships have to disclose an income statement if all liable partners are limited liability companies and they meet a size threshold.,NA,NA
+NL_7,Income statement disclosure,Certain partnerships ('Cooperatie ') have to disclose an income statement if they meet a size theshold.,NA,NA
+NL_8,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+PL_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+PL_2,Balance sheet disclosure,"Certain partnerships ('Spoldzielnia', 'Spolka komandytowa') have to disclose a balance sheet. ",NA,NA
+PL_3,Balance sheet disclosure,Certain partnerships ('Spolka jawna') have to disclose a balance sheet if they meet a size threshold.,NA,NA
+PL_4,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+PL_5,Income statement disclosure,All limited liability firms have to disclose an income statement. ,NA,NA
+PL_6,Income statement disclosure,"Certain partnerships ('Spoldzielnia', 'Spolka komandytowa') have to disclose an income statement. ",NA,NA
+PL_7,Income statement disclosure,Certain partnerships ('Spolka jawna') have to disclose an income statement if they meet a size threshold.,NA,NA
+PL_8,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+PT_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+PT_2,Balance sheet disclosure,Partnerships have to disclose an income statement if all liable partners are limited liability companies and if acertain size threshold is met.,NA,NA
+PT_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+PT_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+PT_5,Income statement disclosure,Partnerships have to disclose an income statement if all liable partners are limited liability companies and if acertain size threshold is met.,NA,NA
+PT_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+RO_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+RO_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+RO_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+RO_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+RO_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+RO_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+SE_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+SE_2,Balance sheet disclosure,Partnerships have to disclose a balance sheet if one or more partners are legal persons.,NA,NA
+SE_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+SE_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+SE_5,Income statement disclosure,Partnerships have to disclose an income statement if one or more partners are legal persons.,NA,NA
+SE_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+SK_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+SK_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+SK_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+SK_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+SK_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+SK_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+SI_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+SI_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+SI_3,Balance sheet disclosure,All sole proprietorships have pdisclose a balance sheet.,NA,NA
+SI_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+SI_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+SI_6,Income statement disclosure,All sole proprietorships have pdisclose an income statement.,NA,NA
+ES_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+ES_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+ES_3,Balance sheet disclosure,All sole proprietorships have pdisclose a balance sheet.,NA,NA
+ES_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+ES_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+ES_6,Income statement disclosure,All sole proprietorships have pdisclose an income statement.,NA,NA
+CY_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+CY_2,Balance sheet disclosure,Partnerships have to disclose a balance sheet if all liable partners are limited liability companies.,NA,NA
+CY_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+CY_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+CY_5,Income statement disclosure,Partnerships have to disclose an income statement if all liable partners are limited liability companies.,NA,NA
+CY_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+HU_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+HU_2,Balance sheet disclosure,Certain types of partnerships ('Polgári jogi társaság’') have to disclose a balance sheet.,NA,NA
+HU_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+HU_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+HU_5,Income statement disclosure,Certain types of partnerships ('Polgári jogi társaság’') have to disclose an income statement .,NA,NA
+HU_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+FI_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+FI_2,Balance sheet disclosure,Partnerships have to disclose a balance sheet if they meet a threshold.,NA,NA
+FI_3,Balance sheet disclosure,Sole Proprietorships have to disclose a balance sheet if they meet a threshold.,NA,NA
+FI_4,Income statement disclosure,All limited liability firms have to disclose an income statement. ,NA,NA
+FI_5,Income statement disclosure,Partnerships have to disclose an income statement if they meet a threshold.,NA,NA
+FI_6,Income statement disclosure,Sole Proprietorships have to disclose an income statement if they meet a threshold.,NA,NA
+IE_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet. ,NA,NA
+IE_2,Balance sheet disclosure,Partnerships generally have to disclose a balance sheet.,NA,NA
+IE_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+IE_4,Income statement disclosure,Limited liability firms have to disclose an income statement if a size threshold is met.,NA,NA
+IE_5,Income statement disclosure,Partnerships have to disclose an income statement if they meet a threshold.,NA,NA
+IE_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+HR_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+HR_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+HR_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+HR_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+HR_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+HR_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+LV_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+LV_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+LV_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+LV_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+LV_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+LV_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+MT_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+MT_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+MT_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+MT_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+MT_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+MT_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+LU_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+LU_2,Balance sheet disclosure,Partnerships generally do not have prepare a balance sheet.,NA,NA
+LU_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+LU_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+LU_5,Income statement disclosure,Partnerships generally do not have prepare an income statement.,NA,NA
+LU_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
+BG_1,Balance sheet disclosure,All limited liability firms have to disclose a balance sheet.,NA,NA
+BG_2,Balance sheet disclosure,All partnerships have to disclose a balance sheet.,NA,NA
+BG_3,Balance sheet disclosure,Sole proprietorships generally do not have prepare a balance sheet.,NA,NA
+BG_4,Income statement disclosure,All limited liability firms have to disclose an income statement.,NA,NA
+BG_5,Income statement disclosure,All partnerships have to disclose an income statement.,NA,NA
+BG_6,Income statement disclosure,Sole proprietorships generally do not have prepare an income statement.,NA,NA
