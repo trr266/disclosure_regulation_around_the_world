@@ -9,7 +9,7 @@ library(dplyr)
 
 
 ###### Load data 
-number_firms_eurostat <- read.csv("data/eurostat_data/number_firms_eurostat_raw.csv")
+number_firms_eurostat <- read.csv("data/raw/eurostat_data/number_firms_eurostat_raw.csv")
 
 
 ###### Adjust variable names
@@ -47,4 +47,4 @@ number_firms_eurostat <- number_firms_eurostat[!number_firms_eurostat$iso2 %in% 
 
 
 ###### Save
-saveRDS(number_firms_eurostat, "data/generated/number_firms_eurostat.rds")
+write.csv(number_firms_eurostat, "data/country_info/number_firms_eurostat.csv")

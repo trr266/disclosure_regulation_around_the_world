@@ -20,11 +20,11 @@ memory.limit(size=50000)
 USE_API <- FALSE
 
 # For local use, you need to set the folder that stores the parquet files
-PARQUET_FOLDER <- "C:/Users/maternaj/Documents/TRR/A01/Repositories/global_transparency/data/parquet_files"
+PARQUET_FOLDER <- "C:/Users/maternaj/Documents/TRR/A01/Repositories/disclosure_regulation_around_the_world/data/raw/parquet_files"
 
 # Load Pfile info
-pfiles_info <- read.csv("data/parquet_files/bvd_parquet_files_info.csv")
-pfiles_schemas <- read.csv("data/parquet_files/bvd_parquet_files_info.csv")
+pfiles_info <- read.csv("data/raw/parquet_files/bvd_parquet_files_info.csv")
+pfiles_schemas <- read.csv("data/raw/parquet_files/bvd_parquet_files_schemas.csv")
 
 
 
@@ -46,7 +46,7 @@ disconnect_duckdb <- function(con){
 
 
 # Load firms with data from eurostat
-number_firms_eurostat <- readRDS("data/generated/number_firms_eurostat.rds")
+number_firms_eurostat <- read.csv("data/country_info/number_firms_eurostat.csv")
 ctries                <- unique(number_firms_eurostat$iso2)
 
 
@@ -69,9 +69,6 @@ for(i in 1:length(ctries)){
   
   financial_info <- pdata("industry_global_financials_and_ratios_eur.parquet")
   
-  financial_info_cols <- {pfiles_schemas %>% 
-      filter(parquet_file == "industry_global_financials_and_ratios_eur.parquet") %>% 
-      pull(name)}
   
   financial_info_cols <- c(# Basic company info
     "BvD ID number",
@@ -164,13 +161,10 @@ for(i in 1:length(ctries)){
   
   # Check if the companies provide a balance sheet. A balance sheet is assumed to be existing if total assets, debt and equity are known
   df$bs <- complete.cases(df$`Total assets`,
-                          df$`Shareholders funds`,
-                          df$`Current liabilities`,
-                          df$`Non-current liabilities`)
+                          df$`Shareholders funds`)
   
-  # Check if the companies provide an income statement. An income statement is assumed to be existing if turnover and profit/loss are known
-  df$is <- complete.cases(df$Sales,
-                          df$`P/L for period [=Net income]`)
+  # Check if the companies provide an income statement. An income statement is assumed to be existing if profit/loss are known
+  df$is <- complete.cases(df$`P/L for period [=Net income]`)
   
   #Count number of available financial statements 
   bs <- df %>%
@@ -261,7 +255,7 @@ for(i in 1:length(ctries)){
 #######
 
 ####### Get standardized legal form from matching table
-orbis_legal_forms <- read.csv("data/county_info/orbis_legal_forms.csv")
+orbis_legal_forms <- read.csv("data/raw/country_info/orbis_legal_forms.csv")
 number_bs_orbis   <- merge(number_bs_orbis, orbis_legal_forms, by=c("iso2", "national_legal_form_orbis"), all.x = T)
 number_is_orbis   <- merge(number_is_orbis, orbis_legal_forms, by=c("iso2", "national_legal_form_orbis"), all.x = T)
 
@@ -298,7 +292,7 @@ number_bs_orbis <- number_bs_orbis[!is.na(number_bs_orbis$legal_form),]
 number_is_orbis <- number_is_orbis[!is.na(number_is_orbis$legal_form),]
 
 ###### Save
-saveRDS(number_bs_orbis, "data/generated/number_bs_orbis.rds")
-saveRDS(number_is_orbis, "data/generated/number_is_orbis.rds")
-saveRDS(number_bs_orbis_natLegForm, "data/generated/number_bs_orbis_natLegForm.rds")
-saveRDS(number_is_orbis_natLegForm, "data/generated/number_is_orbis_natLegForm.rds")
+saveRDS(number_bs_orbis, "data/raw/generated/number_bs_orbis.rds")
+saveRDS(number_is_orbis, "data/raw/generated/number_is_orbis.rds")
+saveRDS(number_bs_orbis_natLegForm, "data/raw/generated/number_bs_orbis_natLegForm.rds")
+saveRDS(number_is_orbis_natLegForm, "data/raw/generated/number_is_orbis_natLegForm.rds")

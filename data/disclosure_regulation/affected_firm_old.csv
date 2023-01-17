@@ -1,0 +1,1275 @@
+iso2,year,legal_form,number_firms_orbis,number_firms_eurostat,number_balance_sheets,number_income_statements,bs_share,is_share
+AT,2010,Limited liability enterprise,115282,87701,110144,6744,0.95543103,0.058500026
+AT,2010,"Partnership, co-operatives, associations, etc.",35984,49790,1235,58,0.034320809,0.001611827
+AT,2010,Sole proprietorship,80749,289324,13,0,0.000160993,0
+AT,2011,Limited liability enterprise,122584,87886,123659,6909,1.008769497,0.056361352
+AT,2011,"Partnership, co-operatives, associations, etc.",38550,49983,1405,64,0.036446174,0.001660182
+AT,2011,Sole proprietorship,85628,292427,16,0,0.000186855,0
+AT,2012,Limited liability enterprise,130130,89614,127255,7133,0.977906709,0.054814416
+AT,2012,"Partnership, co-operatives, associations, etc.",41211,50332,1544,78,0.037465725,0.001892699
+AT,2012,Sole proprietorship,90910,292288,14,0,0.000153998,0
+AT,2013,Limited liability enterprise,139372,93922,131719,7145,0.945089401,0.051265677
+AT,2013,"Partnership, co-operatives, associations, etc.",43855,54077,1550,83,0.035343746,0.001892601
+AT,2013,Sole proprietorship,96416,283681,13,0,0.000134832,0
+AT,2014,Limited liability enterprise,146639,96266,137471,7383,0.937479115,0.050348134
+AT,2014,"Partnership, co-operatives, associations, etc.",46638,51341,1552,80,0.033277585,0.001715339
+AT,2014,Sole proprietorship,102093,272172,12,0,0.00011754,0
+AT,2015,Limited liability enterprise,151423,98777,141806,6544,0.936489173,0.043216684
+AT,2015,"Partnership, co-operatives, associations, etc.",49802,46690,1529,80,0.030701578,0.001606361
+AT,2015,Sole proprietorship,108137,263732,11,1,0.000101723,9.25E-06
+AT,2016,Limited liability enterprise,156305,99480,145657,5927,0.931876779,0.037919452
+AT,2016,"Partnership, co-operatives, associations, etc.",52417,46921,1460,86,0.027853559,0.001640689
+AT,2016,Sole proprietorship,113485,266449,13,6,0.000114553,5.29E-05
+AT,2017,Limited liability enterprise,160725,100554,150308,6264,0.935187432,0.038973402
+AT,2017,"Partnership, co-operatives, associations, etc.",55759,46338,1277,84,0.022902132,0.001506483
+AT,2017,Sole proprietorship,119102,266271,10,4,8.40E-05,3.36E-05
+AT,2018,Limited liability enterprise,167729,102466,155487,6541,0.927013218,0.03899743
+AT,2018,"Partnership, co-operatives, associations, etc.",59089,46576,1226,95,0.020748363,0.001607744
+AT,2018,Sole proprietorship,124412,268284,12,6,9.65E-05,4.82E-05
+AT,2019,Limited liability enterprise,174699,104823,144492,6563,0.827091168,0.037567473
+AT,2019,"Partnership, co-operatives, associations, etc.",62532,46493,1056,93,0.016887354,0.001487239
+AT,2019,Sole proprietorship,129655,262583,10,5,7.71E-05,3.86E-05
+AT,2020,Limited liability enterprise,182419,110943,146224,6200,0.801583168,0.033987688
+AT,2020,"Partnership, co-operatives, associations, etc.",65457,47346,1002,84,0.015307759,0.001283285
+AT,2020,Sole proprietorship,133530,260001,4,2,3.00E-05,1.50E-05
+AT,2021,Limited liability enterprise,193303,NA,35685,1573,0.18460655,0.008137484
+AT,2021,"Partnership, co-operatives, associations, etc.",68669,NA,191,16,0.002781459,0.000233002
+AT,2021,Sole proprietorship,137393,NA,0,0,0,0
+AT,2022,Limited liability enterprise,193970,NA,454,14,0.002340568,7.22E-05
+AT,2022,"Partnership, co-operatives, associations, etc.",69785,NA,1,1,1.43E-05,1.43E-05
+AT,2022,Sole proprietorship,138154,NA,0,0,0,0
+BA,2010,Limited liability enterprise,19015,NA,25837,25835,1.358769393,1.358664212
+BA,2010,"Partnership, co-operatives, associations, etc.",262,NA,289,289,1.103053435,1.103053435
+BA,2010,Sole proprietorship,183,NA,194,194,1.06010929,1.06010929
+BA,2011,Limited liability enterprise,19681,NA,25022,25015,1.271378487,1.271022814
+BA,2011,"Partnership, co-operatives, associations, etc.",264,NA,252,252,0.954545455,0.954545455
+BA,2011,Sole proprietorship,188,NA,6,6,0.031914894,0.031914894
+BA,2012,Limited liability enterprise,20356,NA,26644,8886,1.308901552,0.43652977
+BA,2012,"Partnership, co-operatives, associations, etc.",266,NA,269,129,1.011278195,0.484962406
+BA,2012,Sole proprietorship,196,NA,6,6,0.030612245,0.030612245
+BA,2013,Limited liability enterprise,20877,NA,27005,25756,1.293528764,1.23370216
+BA,2013,"Partnership, co-operatives, associations, etc.",267,NA,258,250,0.966292135,0.936329588
+BA,2013,Sole proprietorship,200,NA,5,5,0.025,0.025
+BA,2014,Limited liability enterprise,21621,NA,25987,25979,1.201933306,1.201563295
+BA,2014,"Partnership, co-operatives, associations, etc.",267,NA,249,249,0.93258427,0.93258427
+BA,2014,Sole proprietorship,208,NA,3,3,0.014423077,0.014423077
+BA,2015,Limited liability enterprise,24502,NA,27007,27001,1.102236552,1.101991674
+BA,2015,"Partnership, co-operatives, associations, etc.",292,NA,258,258,0.883561644,0.883561644
+BA,2015,Sole proprietorship,211,NA,993,993,4.706161137,4.706161137
+BA,2016,Limited liability enterprise,26389,NA,27713,27704,1.05017242,1.049831369
+BA,2016,"Partnership, co-operatives, associations, etc.",326,NA,261,261,0.800613497,0.800613497
+BA,2016,Sole proprietorship,214,NA,867,867,4.051401869,4.051401869
+BA,2017,Limited liability enterprise,28526,32422,26801,26788,0.939528851,0.939073126
+BA,2017,"Partnership, co-operatives, associations, etc.",366,924,265,265,0.724043716,0.724043716
+BA,2017,Sole proprietorship,222,41588,65,65,0.292792793,0.292792793
+BA,2018,Limited liability enterprise,30440,32533,24544,24532,0.80630749,0.805913272
+BA,2018,"Partnership, co-operatives, associations, etc.",368,937,190,190,0.516304348,0.516304348
+BA,2018,Sole proprietorship,225,42418,851,851,3.782222222,3.782222222
+BA,2019,Limited liability enterprise,32279,32079,25133,25121,0.778617677,0.778245918
+BA,2019,"Partnership, co-operatives, associations, etc.",363,914,182,182,0.50137741,0.50137741
+BA,2019,Sole proprietorship,229,42021,872,872,3.807860262,3.807860262
+BA,2020,Limited liability enterprise,32977,NA,27208,27194,0.82505989,0.824635352
+BA,2020,"Partnership, co-operatives, associations, etc.",371,NA,191,191,0.514824798,0.514824798
+BA,2020,Sole proprietorship,231,NA,1146,1146,4.961038961,4.961038961
+BA,2021,Limited liability enterprise,34246,NA,12557,12539,0.36667056,0.366144951
+BA,2021,"Partnership, co-operatives, associations, etc.",376,NA,103,103,0.27393617,0.27393617
+BA,2021,Sole proprietorship,233,NA,1040,1040,4.463519313,4.463519313
+BA,2022,Limited liability enterprise,33975,NA,0,0,0,0
+BA,2022,"Partnership, co-operatives, associations, etc.",371,NA,0,0,0,0
+BA,2022,Sole proprietorship,231,NA,0,0,0,0
+BE,2010,Limited liability enterprise,396479,365106,335327,67141,0.845762323,0.169343143
+BE,2010,"Partnership, co-operatives, associations, etc.",57598,39734,16450,3713,0.285600194,0.064464044
+BE,2010,Sole proprietorship,485405,193010,0,0,0,0
+BE,2011,Limited liability enterprise,423011,376867,346110,71013,0.818205673,0.167875067
+BE,2011,"Partnership, co-operatives, associations, etc.",64491,42170,16271,3730,0.25229877,0.057837528
+BE,2011,Sole proprietorship,518346,193106,0,0,0,0
+BE,2012,Limited liability enterprise,443598,382074,357353,74365,0.805578474,0.167640521
+BE,2012,"Partnership, co-operatives, associations, etc.",71068,44644,15840,3643,0.222885124,0.051260764
+BE,2012,Sole proprietorship,555030,193536,0,0,0,0
+BE,2013,Limited liability enterprise,452113,380098,366164,60259,0.809894871,0.133283051
+BE,2013,"Partnership, co-operatives, associations, etc.",76871,46281,15195,2982,0.197668822,0.038792262
+BE,2013,Sole proprietorship,593307,193813,0,0,0,0
+BE,2014,Limited liability enterprise,458866,382197,368698,56107,0.803498189,0.122273169
+BE,2014,"Partnership, co-operatives, associations, etc.",83730,48289,13437,2583,0.160480115,0.030849158
+BE,2014,Sole proprietorship,638152,203898,0,0,0,0
+BE,2015,Limited liability enterprise,460103,386488,376021,53841,0.817253963,0.11701945
+BE,2015,"Partnership, co-operatives, associations, etc.",89488,50639,12983,2437,0.145080905,0.027232702
+BE,2015,Sole proprietorship,687280,205003,0,0,0,0
+BE,2016,Limited liability enterprise,466763,399359,385643,50130,0.826207304,0.107399258
+BE,2016,"Partnership, co-operatives, associations, etc.",95353,54436,12578,2255,0.131909851,0.023648968
+BE,2016,Sole proprietorship,695435,205592,0,0,0,0
+BE,2017,Limited liability enterprise,477866,409104,395278,47524,0.827173308,0.099450474
+BE,2017,"Partnership, co-operatives, associations, etc.",97927,57994,12139,2088,0.123959684,0.021322005
+BE,2017,Sole proprietorship,698738,205902,0,0,0,0
+BE,2018,Limited liability enterprise,492174,398478,405575,45540,0.824047999,0.092528252
+BE,2018,"Partnership, co-operatives, associations, etc.",103813,61985,11744,1923,0.113126487,0.018523692
+BE,2018,Sole proprietorship,716254,207228,0,0,0,0
+BE,2019,Limited liability enterprise,507037,416485,416818,44174,0.82206624,0.087121847
+BE,2019,"Partnership, co-operatives, associations, etc.",107658,64081,11752,1857,0.10916049,0.017249066
+BE,2019,Sole proprietorship,742888,218518,0,0,0,0
+BE,2020,Limited liability enterprise,523913,430095,427461,41818,0.815900732,0.079818596
+BE,2020,"Partnership, co-operatives, associations, etc.",110031,63946,11471,1721,0.104252438,0.015641047
+BE,2020,Sole proprietorship,738568,222272,0,0,0,0
+BE,2021,Limited liability enterprise,550576,NA,80492,5729,0.146195984,0.010405466
+BE,2021,"Partnership, co-operatives, associations, etc.",115101,NA,1858,230,0.016142345,0.001998245
+BE,2021,Sole proprietorship,752280,NA,0,0,0,0
+BE,2022,Limited liability enterprise,553353,NA,10,2,1.81E-05,3.61E-06
+BE,2022,"Partnership, co-operatives, associations, etc.",114205,NA,1,0,8.76E-06,0
+BE,2022,Sole proprietorship,731276,NA,0,0,0,0
+BG,2010,Limited liability enterprise,297233,193019,46805,46167,0.157469056,0.155322592
+BG,2010,"Partnership, co-operatives, associations, etc.",10243,10914,1436,1427,0.140193303,0.139314654
+BG,2010,Sole proprietorship,559557,119939,1593,4955,0.002846895,0.008855219
+BG,2011,Limited liability enterprise,336902,200668,196257,184369,0.582534387,0.547248161
+BG,2011,"Partnership, co-operatives, associations, etc.",10334,10567,5432,5343,0.525643507,0.517031159
+BG,2011,Sole proprietorship,591175,108702,15127,18349,0.025588024,0.031038187
+BG,2012,Limited liability enterprise,381222,214198,236754,222176,0.621039709,0.582799524
+BG,2012,"Partnership, co-operatives, associations, etc.",10416,10931,5740,5633,0.551075269,0.540802611
+BG,2012,Sole proprietorship,621327,98616,18471,21728,0.029728307,0.034970314
+BG,2013,Limited liability enterprise,424501,226214,249646,234971,0.588092843,0.553522842
+BG,2013,"Partnership, co-operatives, associations, etc.",10458,11300,5501,5399,0.526008797,0.516255498
+BG,2013,Sole proprietorship,628836,89989,17237,20680,0.027410962,0.032886158
+BG,2014,Limited liability enterprise,462932,237966,265446,250236,0.573401709,0.540545912
+BG,2014,"Partnership, co-operatives, associations, etc.",10140,11429,5364,5242,0.528994083,0.516962525
+BG,2014,Sole proprietorship,632723,83405,16377,19457,0.025883364,0.030751213
+BG,2015,Limited liability enterprise,507680,250423,279872,264506,0.551276395,0.521009297
+BG,2015,"Partnership, co-operatives, associations, etc.",10125,11421,5125,5012,0.50617284,0.495012346
+BG,2015,Sole proprietorship,638339,77331,15087,17831,0.023634777,0.027933433
+BG,2016,Limited liability enterprise,555883,264986,295418,280268,0.53143917,0.504185233
+BG,2016,"Partnership, co-operatives, associations, etc.",10113,11065,4946,4827,0.48907347,0.477306437
+BG,2016,Sole proprietorship,654549,71911,13094,15143,0.020004614,0.023135014
+BG,2017,Limited liability enterprise,602249,271368,306028,296622,0.508141981,0.492523856
+BG,2017,"Partnership, co-operatives, associations, etc.",9982,10460,4792,4737,0.480064115,0.474554198
+BG,2017,Sole proprietorship,671728,65902,12170,13785,0.018117452,0.020521699
+BG,2018,Limited liability enterprise,647028,281772,318844,310444,0.492782383,0.479799947
+BG,2018,"Partnership, co-operatives, associations, etc.",9776,10031,4672,4614,0.477905074,0.471972177
+BG,2018,Sole proprietorship,686159,60606,11512,11444,0.016777452,0.01667835
+BG,2019,Limited liability enterprise,689116,285113,330572,323033,0.479704433,0.46876433
+BG,2019,"Partnership, co-operatives, associations, etc.",9680,8593,4499,4447,0.464772727,0.459400826
+BG,2019,Sole proprietorship,698632,55957,11242,11166,0.016091447,0.015982663
+BG,2020,Limited liability enterprise,719379,282130,324299,318760,0.450804096,0.4431044
+BG,2020,"Partnership, co-operatives, associations, etc.",9565,7808,4265,4231,0.445896498,0.442341871
+BG,2020,Sole proprietorship,704445,52438,10609,10544,0.015060083,0.014967812
+BG,2021,Limited liability enterprise,755174,NA,132833,131609,0.17589721,0.174276392
+BG,2021,"Partnership, co-operatives, associations, etc.",9564,NA,2159,2149,0.225742367,0.22469678
+BG,2021,Sole proprietorship,714444,NA,6570,6551,0.009195962,0.009169368
+BG,2022,Limited liability enterprise,768539,NA,0,0,0,0
+BG,2022,"Partnership, co-operatives, associations, etc.",9453,NA,0,0,0,0
+BG,2022,Sole proprietorship,716348,NA,0,0,0,0
+CH,2010,Limited liability enterprise,278850,NA,580,566,0.002079971,0.002029765
+CH,2010,"Partnership, co-operatives, associations, etc.",19629,NA,54,55,0.002751032,0.002801977
+CH,2010,Sole proprietorship,138130,NA,0,0,0,0
+CH,2011,Limited liability enterprise,302129,NA,572,561,0.001893231,0.001856823
+CH,2011,"Partnership, co-operatives, associations, etc.",20461,NA,56,56,0.002736914,0.002736914
+CH,2011,Sole proprietorship,149157,NA,0,0,0,0
+CH,2012,Limited liability enterprise,325560,NA,580,571,0.001781546,0.001753901
+CH,2012,"Partnership, co-operatives, associations, etc.",21472,NA,58,58,0.002701192,0.002701192
+CH,2012,Sole proprietorship,161539,NA,0,0,0,0
+CH,2013,Limited liability enterprise,346391,195117,572,563,0.001651313,0.001625331
+CH,2013,"Partnership, co-operatives, associations, etc.",21977,16123,58,58,0.002639123,0.002639123
+CH,2013,Sole proprietorship,169797,170113,0,0,0,0
+CH,2014,Limited liability enterprise,358925,200325,578,563,0.001610364,0.001568573
+CH,2014,"Partnership, co-operatives, associations, etc.",21493,15721,63,63,0.002931187,0.002931187
+CH,2014,Sole proprietorship,170287,175016,0,0,0,0
+CH,2015,Limited liability enterprise,371176,206329,587,567,0.00158146,0.001527577
+CH,2015,"Partnership, co-operatives, associations, etc.",21184,15176,63,62,0.002973943,0.002926737
+CH,2015,Sole proprietorship,170119,173756,0,0,0,0
+CH,2016,Limited liability enterprise,382646,210827,589,555,0.001539282,0.001450427
+CH,2016,"Partnership, co-operatives, associations, etc.",20896,14631,64,59,0.003062787,0.002823507
+CH,2016,Sole proprietorship,170117,170886,0,0,0,0
+CH,2017,Limited liability enterprise,395179,216048,590,557,0.001492994,0.001409488
+CH,2017,"Partnership, co-operatives, associations, etc.",20727,14313,63,59,0.003039514,0.002846529
+CH,2017,Sole proprietorship,171290,168195,0,0,0,0
+CH,2018,Limited liability enterprise,406771,219244,606,568,0.001489782,0.001396363
+CH,2018,"Partnership, co-operatives, associations, etc.",20736,13751,64,61,0.00308642,0.002941744
+CH,2018,Sole proprietorship,172342,164370,0,0,0,0
+CH,2019,Limited liability enterprise,418879,224738,612,575,0.001461042,0.001372711
+CH,2019,"Partnership, co-operatives, associations, etc.",20767,13482,64,61,0.003081812,0.002937353
+CH,2019,Sole proprietorship,173824,164211,0,0,0,0
+CH,2020,Limited liability enterprise,432204,228995,592,554,0.001369724,0.001281802
+CH,2020,"Partnership, co-operatives, associations, etc.",20825,12739,63,60,0.00302521,0.002881152
+CH,2020,Sole proprietorship,174894,158755,0,0,0,0
+CH,2021,Limited liability enterprise,448500,NA,293,274,0.000653289,0.000610925
+CH,2021,"Partnership, co-operatives, associations, etc.",21083,NA,10,9,0.000474316,0.000426884
+CH,2021,Sole proprietorship,179113,NA,0,0,0,0
+CH,2022,Limited liability enterprise,447725,NA,9,7,2.01E-05,1.56E-05
+CH,2022,"Partnership, co-operatives, associations, etc.",20401,NA,0,0,0,0
+CH,2022,Sole proprietorship,173824,NA,0,0,0,0
+CY,2010,Limited liability enterprise,166093,31514,767,104,0.004617895,0.000626155
+CY,2010,"Partnership, co-operatives, associations, etc.",5833,1544,4,0,0.000685753,0
+CY,2010,Sole proprietorship,2,18406,0,0,0,0
+CY,2011,Limited liability enterprise,182951,32095,781,95,0.004268903,0.000519265
+CY,2011,"Partnership, co-operatives, associations, etc.",5913,1404,4,0,0.000676476,0
+CY,2011,Sole proprietorship,2,17515,0,0,0,0
+CY,2012,Limited liability enterprise,198911,31831,2911,90,0.014634686,0.000452464
+CY,2012,"Partnership, co-operatives, associations, etc.",6018,1520,2,0,0.000332336,0
+CY,2012,Sole proprietorship,3,17776,0,0,0,0
+CY,2013,Limited liability enterprise,208550,30462,4352,89,0.020867897,0.000426756
+CY,2013,"Partnership, co-operatives, associations, etc.",6106,1480,2,0,0.000327547,0
+CY,2013,Sole proprietorship,3,17503,0,0,0,0
+CY,2014,Limited liability enterprise,217952,30362,4067,85,0.018660072,0.000389994
+CY,2014,"Partnership, co-operatives, associations, etc.",6206,1131,0,0,0,0
+CY,2014,Sole proprietorship,3,17741,0,0,0,0
+CY,2015,Limited liability enterprise,225224,30688,2830,83,0.012565268,0.000368522
+CY,2015,"Partnership, co-operatives, associations, etc.",6324,1067,0,0,0,0
+CY,2015,Sole proprietorship,3,18861,0,0,0,0
+CY,2016,Limited liability enterprise,208206,31661,3821,88,0.018352017,0.000422658
+CY,2016,"Partnership, co-operatives, associations, etc.",6417,1037,0,0,0,0
+CY,2016,Sole proprietorship,3,19627,0,0,0,0
+CY,2017,Limited liability enterprise,215912,33542,3632,80,0.016821668,0.000370521
+CY,2017,"Partnership, co-operatives, associations, etc.",6500,1068,0,0,0,0
+CY,2017,Sole proprietorship,3,20619,0,0,0,0
+CY,2018,Limited liability enterprise,183767,32640,3004,79,0.016346787,0.000429892
+CY,2018,"Partnership, co-operatives, associations, etc.",6599,877,0,0,0,0
+CY,2018,Sole proprietorship,3,18632,0,0,0,0
+CY,2019,Limited liability enterprise,190820,37822,1592,80,0.008342941,0.000419243
+CY,2019,"Partnership, co-operatives, associations, etc.",6642,999,0,0,0,0
+CY,2019,Sole proprietorship,3,22015,0,0,0,0
+CY,2020,Limited liability enterprise,198136,38690,407,69,0.002054145,0.000348246
+CY,2020,"Partnership, co-operatives, associations, etc.",6680,368,0,0,0,0
+CY,2020,Sole proprietorship,3,23113,0,0,0,0
+CY,2021,Limited liability enterprise,206567,NA,60,42,0.000290463,0.000203324
+CY,2021,"Partnership, co-operatives, associations, etc.",6716,NA,0,0,0,0
+CY,2021,Sole proprietorship,3,NA,0,0,0,0
+CY,2022,Limited liability enterprise,195392,NA,0,0,0,0
+CY,2022,"Partnership, co-operatives, associations, etc.",6672,NA,0,0,0,0
+CY,2022,Sole proprietorship,3,NA,0,0,0,0
+CZ,2010,Limited liability enterprise,219587,193475,94971,88325,0.432498281,0.402232373
+CZ,2010,"Partnership, co-operatives, associations, etc.",10859,6832,4868,4713,0.44829174,0.434017865
+CZ,2010,Sole proprietorship,759989,769494,1856,1402,0.002442141,0.001844764
+CZ,2011,Limited liability enterprise,237844,204848,87089,78597,0.366160172,0.330456097
+CZ,2011,"Partnership, co-operatives, associations, etc.",11051,6718,3779,3542,0.341960004,0.320513981
+CZ,2011,Sole proprietorship,798964,778386,653,525,0.000817308,0.000657101
+CZ,2012,Limited liability enterprise,256518,213828,88614,79190,0.345449442,0.30871128
+CZ,2012,"Partnership, co-operatives, associations, etc.",11251,6695,3620,3348,0.321749178,0.297573549
+CZ,2012,Sole proprietorship,834532,767086,540,453,0.000647069,0.000542819
+CZ,2013,Limited liability enterprise,272446,220715,91980,79554,0.337608187,0.291999148
+CZ,2013,"Partnership, co-operatives, associations, etc.",11257,6618,3501,3197,0.311006485,0.284001066
+CZ,2013,Sole proprietorship,867884,741288,447,374,0.000515046,0.000430933
+CZ,2014,Limited liability enterprise,291641,233057,94465,76360,0.323908504,0.261828755
+CZ,2014,"Partnership, co-operatives, associations, etc.",11245,6648,3216,2780,0.285993775,0.247220987
+CZ,2014,Sole proprietorship,886876,782340,346,299,0.000390133,0.000337138
+CZ,2015,Limited liability enterprise,313701,235940,102697,85575,0.327372243,0.272791607
+CZ,2015,"Partnership, co-operatives, associations, etc.",11115,6173,3337,2865,0.300224921,0.257759784
+CZ,2015,Sole proprietorship,928956,784242,324,293,0.000348779,0.000315408
+CZ,2016,Limited liability enterprise,339069,247160,147507,145052,0.435035347,0.427794933
+CZ,2016,"Partnership, co-operatives, associations, etc.",10999,5673,5719,5691,0.51995636,0.517410674
+CZ,2016,Sole proprietorship,968129,785050,398,407,0.000411102,0.000420399
+CZ,2017,Limited liability enterprise,367922,257208,152511,147277,0.414519925,0.400294084
+CZ,2017,"Partnership, co-operatives, associations, etc.",10964,5526,5504,5553,0.502006567,0.506475739
+CZ,2017,Sole proprietorship,974955,773927,359,355,0.000368222,0.000364119
+CZ,2018,Limited liability enterprise,397703,268640,146806,142428,0.369134756,0.358126542
+CZ,2018,"Partnership, co-operatives, associations, etc.",11030,5473,5104,5434,0.462737987,0.492656392
+CZ,2018,Sole proprietorship,979953,785741,327,331,0.000333689,0.000337771
+CZ,2019,Limited liability enterprise,421024,279705,142805,132264,0.33918494,0.314148362
+CZ,2019,"Partnership, co-operatives, associations, etc.",10910,5354,4982,5072,0.45664528,0.464894592
+CZ,2019,Sole proprietorship,924784,789367,269,264,0.000290879,0.000285472
+CZ,2020,Limited liability enterprise,443701,287537,123063,111198,0.277355697,0.250614716
+CZ,2020,"Partnership, co-operatives, associations, etc.",10878,5224,4404,4404,0.404853833,0.404853833
+CZ,2020,Sole proprietorship,930149,790969,199,202,0.000213944,0.00021717
+CZ,2021,Limited liability enterprise,468955,NA,21381,20190,0.045592861,0.043053171
+CZ,2021,"Partnership, co-operatives, associations, etc.",10869,NA,762,724,0.070107646,0.066611464
+CZ,2021,Sole proprietorship,932350,NA,33,43,3.54E-05,4.61E-05
+CZ,2022,Limited liability enterprise,476558,NA,13,12,2.73E-05,2.52E-05
+CZ,2022,"Partnership, co-operatives, associations, etc.",10742,NA,0,0,0,0
+CZ,2022,Sole proprietorship,895422,NA,0,0,0,0
+DE,2010,Limited liability enterprise,1132847,584036,676680,52546,0.597326912,0.046384022
+DE,2010,"Partnership, co-operatives, associations, etc.",49725,493909,6809,1464,0.136933132,0.029441931
+DE,2010,Sole proprietorship,130808,1880775,1884,1068,0.014402789,0.008164638
+DE,2011,Limited liability enterprise,1197268,593856,682533,55410,0.570075372,0.046280365
+DE,2011,"Partnership, co-operatives, associations, etc.",52417,488448,6943,1487,0.132457027,0.028368659
+DE,2011,Sole proprietorship,133832,1903413,1853,1025,0.013845717,0.007658856
+DE,2012,Limited liability enterprise,1254126,607263,527673,57197,0.42074959,0.04560706
+DE,2012,"Partnership, co-operatives, associations, etc.",54679,476412,6787,1548,0.124124435,0.028310686
+DE,2012,Sole proprietorship,136604,1914157,1603,1036,0.011734649,0.007583965
+DE,2013,Limited liability enterprise,1279256,595151,469522,57727,0.367027397,0.045125448
+DE,2013,"Partnership, co-operatives, associations, etc.",56827,478603,6771,1527,0.119151108,0.02687103
+DE,2013,Sole proprietorship,139225,1898702,1342,946,0.009639073,0.006794757
+DE,2014,Limited liability enterprise,1322199,605659,426709,24828,0.32272676,0.018777809
+DE,2014,"Partnership, co-operatives, associations, etc.",59163,418524,6312,1033,0.106688302,0.017460237
+DE,2014,Sole proprietorship,141874,1794653,182,26,0.001282828,0.000183261
+DE,2015,Limited liability enterprise,1363727,601645,422702,23349,0.309960865,0.017121462
+DE,2015,"Partnership, co-operatives, associations, etc.",61480,413886,6178,946,0.100487964,0.015387118
+DE,2015,Sole proprietorship,144104,1780368,123,13,0.00085355,9.02E-05
+DE,2016,Limited liability enterprise,1385714,612705,433719,22982,0.312993157,0.016584952
+DE,2016,"Partnership, co-operatives, associations, etc.",60590,412961,5674,961,0.093645816,0.015860703
+DE,2016,Sole proprietorship,138528,1775364,106,12,0.000765188,8.66E-05
+DE,2017,Limited liability enterprise,1426165,622831,471021,22808,0.330271042,0.015992539
+DE,2017,"Partnership, co-operatives, associations, etc.",62264,412790,5658,969,0.090871129,0.015562765
+DE,2017,Sole proprietorship,135003,1766166,88,7,0.000651837,5.19E-05
+DE,2018,Limited liability enterprise,1473950,570711,482738,24805,0.327513145,0.016828929
+DE,2018,"Partnership, co-operatives, associations, etc.",64037,365256,5484,1033,0.085637991,0.016131299
+DE,2018,Sole proprietorship,134922,1757555,78,9,0.000578112,6.67E-05
+DE,2019,Limited liability enterprise,1509266,624689,482382,25419,0.31961364,0.016841962
+DE,2019,"Partnership, co-operatives, associations, etc.",65799,388477,5111,1003,0.077675953,0.015243393
+DE,2019,Sole proprietorship,134675,1719718,54,6,0.000400965,4.46E-05
+DE,2020,Limited liability enterprise,1563985,625719,412029,21267,0.263448179,0.013597957
+DE,2020,"Partnership, co-operatives, associations, etc.",68080,381414,4099,879,0.060208578,0.012911281
+DE,2020,Sole proprietorship,134844,1598835,23,4,0.000170567,2.97E-05
+DE,2021,Limited liability enterprise,1633312,NA,10343,1536,0.006332532,0.00094042
+DE,2021,"Partnership, co-operatives, associations, etc.",70898,NA,167,26,0.002355497,0.000366724
+DE,2021,Sole proprietorship,136445,NA,0,0,0,0
+DE,2022,Limited liability enterprise,1615942,NA,17,5,1.05E-05,3.09E-06
+DE,2022,"Partnership, co-operatives, associations, etc.",71124,NA,0,0,0,0
+DE,2022,Sole proprietorship,135625,NA,0,0,0,0
+DK,2010,Limited liability enterprise,206443,100864,167129,139,0.809564868,0.000673309
+DK,2010,"Partnership, co-operatives, associations, etc.",19958,15501,3642,1,0.182483215,5.01E-05
+DK,2010,Sole proprietorship,175550,96228,0,0,0,0
+DK,2011,Limited liability enterprise,224595,103806,170333,138,0.758400677,0.000614439
+DK,2011,"Partnership, co-operatives, associations, etc.",21396,15508,3658,1,0.170966536,4.67E-05
+DK,2011,Sole proprietorship,188532,98768,0,0,0,0
+DK,2012,Limited liability enterprise,241945,105440,192864,20172,0.797139846,0.083374321
+DK,2012,"Partnership, co-operatives, associations, etc.",23058,15205,3875,1816,0.168054471,0.078757915
+DK,2012,Sole proprietorship,203734,97433,0,0,0,0
+DK,2013,Limited liability enterprise,247113,106566,205184,23581,0.830324588,0.095425979
+DK,2013,"Partnership, co-operatives, associations, etc.",24962,14685,4017,1878,0.160924605,0.075234356
+DK,2013,Sole proprietorship,222404,95046,0,0,0,0
+DK,2014,Limited liability enterprise,254856,109795,213151,23324,0.836358571,0.091518348
+DK,2014,"Partnership, co-operatives, associations, etc.",27003,14346,4175,1843,0.15461245,0.068251676
+DK,2014,Sole proprietorship,244273,93819,0,0,0,0
+DK,2015,Limited liability enterprise,266194,112205,198060,23364,0.744043818,0.087770573
+DK,2015,"Partnership, co-operatives, associations, etc.",29680,14616,4087,1756,0.137702156,0.05916442
+DK,2015,Sole proprietorship,272214,89637,0,0,0,0
+DK,2016,Limited liability enterprise,280175,118142,217993,21070,0.778060141,0.075202998
+DK,2016,"Partnership, co-operatives, associations, etc.",31608,14620,4238,1540,0.13407998,0.048721843
+DK,2016,Sole proprietorship,297762,92180,0,0,0,0
+DK,2017,Limited liability enterprise,292689,124483,230434,20463,0.78729983,0.069913799
+DK,2017,"Partnership, co-operatives, associations, etc.",30532,13981,4356,1434,0.142669986,0.046967116
+DK,2017,Sole proprietorship,303872,91717,0,0,0,0
+DK,2018,Limited liability enterprise,304842,129060,244692,20844,0.802684669,0.068376405
+DK,2018,"Partnership, co-operatives, associations, etc.",29364,13369,4443,1298,0.151307724,0.044203787
+DK,2018,Sole proprietorship,313908,90534,0,0,0,0
+DK,2019,Limited liability enterprise,319281,133122,258431,21625,0.809415531,0.067730307
+DK,2019,"Partnership, co-operatives, associations, etc.",28530,13010,4536,1207,0.158990536,0.042306344
+DK,2019,Sole proprietorship,322061,89985,0,0,0,0
+DK,2020,Limited liability enterprise,335581,136331,273925,24882,0.816270885,0.074146033
+DK,2020,"Partnership, co-operatives, associations, etc.",29032,12289,4596,1146,0.158308074,0.039473684
+DK,2020,Sole proprietorship,333399,88340,0,0,0,0
+DK,2021,Limited liability enterprise,355295,NA,191738,16702,0.539658594,0.047008824
+DK,2021,"Partnership, co-operatives, associations, etc.",29506,NA,3554,901,0.120450078,0.030536162
+DK,2021,Sole proprietorship,345588,NA,0,0,0,0
+DK,2022,Limited liability enterprise,354560,NA,909,112,0.002563741,0.000315884
+DK,2022,"Partnership, co-operatives, associations, etc.",27651,NA,8,0,0.00028932,0
+DK,2022,Sole proprietorship,332954,NA,0,0,0,0
+EE,2010,Limited liability enterprise,2831,56295,2714,2586,0.958671847,0.913458142
+EE,2010,"Partnership, co-operatives, associations, etc.",1488,733,392,342,0.26344086,0.22983871
+EE,2010,Sole proprietorship,24108,13274,0,0,0,0
+EE,2011,Limited liability enterprise,2861,58987,2643,2478,0.923802866,0.866130724
+EE,2011,"Partnership, co-operatives, associations, etc.",1499,743,394,349,0.262841895,0.232821881
+EE,2011,Sole proprietorship,25081,12448,0,0,0,0
+EE,2012,Limited liability enterprise,2894,63328,2571,2412,0.888389772,0.833448514
+EE,2012,"Partnership, co-operatives, associations, etc.",1505,642,388,347,0.257807309,0.230564784
+EE,2012,Sole proprietorship,26028,12032,0,0,0,0
+EE,2013,Limited liability enterprise,2807,66043,2515,2358,0.89597435,0.84004275
+EE,2013,"Partnership, co-operatives, associations, etc.",1507,636,386,346,0.256138023,0.229595222
+EE,2013,Sole proprietorship,27063,12635,0,0,0,0
+EE,2014,Limited liability enterprise,2698,68200,2470,2317,0.915492958,0.858784285
+EE,2014,"Partnership, co-operatives, associations, etc.",1521,641,375,338,0.246548323,0.222222222
+EE,2014,Sole proprietorship,28640,11632,0,0,0,0
+EE,2015,Limited liability enterprise,2663,70712,2423,2275,0.90987608,0.854299662
+EE,2015,"Partnership, co-operatives, associations, etc.",1550,658,411,356,0.26516129,0.229677419
+EE,2015,Sole proprietorship,30337,11399,0,0,0,0
+EE,2016,Limited liability enterprise,2586,73882,2364,2213,0.914153132,0.855761794
+EE,2016,"Partnership, co-operatives, associations, etc.",1566,670,419,369,0.267560664,0.235632184
+EE,2016,Sole proprietorship,32162,11185,0,0,0,0
+EE,2017,Limited liability enterprise,2492,78464,2317,2172,0.929775281,0.871589085
+EE,2017,"Partnership, co-operatives, associations, etc.",1583,680,431,377,0.272267846,0.238155401
+EE,2017,Sole proprietorship,33616,10585,0,0,0,0
+EE,2018,Limited liability enterprise,2431,82570,2252,2118,0.92636775,0.871246401
+EE,2018,"Partnership, co-operatives, associations, etc.",1580,652,443,387,0.280379747,0.244936709
+EE,2018,Sole proprietorship,32732,9873,0,0,0,0
+EE,2019,Limited liability enterprise,2393,85026,2195,2068,0.917258671,0.864187213
+EE,2019,"Partnership, co-operatives, associations, etc.",1575,627,452,388,0.286984127,0.246349206
+EE,2019,Sole proprietorship,32033,9305,0,0,0,0
+EE,2020,Limited liability enterprise,2349,88010,2034,1918,0.865900383,0.816517667
+EE,2020,"Partnership, co-operatives, associations, etc.",1550,636,424,364,0.273548387,0.23483871
+EE,2020,Sole proprietorship,31197,8856,0,0,0,0
+EE,2021,Limited liability enterprise,2318,NA,597,567,0.257549612,0.24460742
+EE,2021,"Partnership, co-operatives, associations, etc.",1551,NA,137,115,0.08833011,0.074145712
+EE,2021,Sole proprietorship,30299,NA,0,0,0,0
+EE,2022,Limited liability enterprise,2292,NA,4,4,0.001745201,0.001745201
+EE,2022,"Partnership, co-operatives, associations, etc.",1534,NA,0,0,0,0
+EE,2022,Sole proprietorship,28833,NA,0,0,0,0
+ES,2010,Limited liability enterprise,1217239,1213318,749617,640941,0.615833867,0.526553126
+ES,2010,"Partnership, co-operatives, associations, etc.",152309,252891,2708,2568,0.017779645,0.016860461
+ES,2011,Limited liability enterprise,1294365,1208308,744753,637840,0.575380978,0.492782175
+ES,2011,"Partnership, co-operatives, associations, etc.",165744,253456,2787,2589,0.016815088,0.015620475
+ES,2012,Limited liability enterprise,1375237,1209684,745667,630687,0.542209815,0.458602408
+ES,2012,"Partnership, co-operatives, associations, etc.",179737,251468,3055,2860,0.016997057,0.015912138
+ES,2013,Limited liability enterprise,1432737,1200936,749507,620347,0.523129507,0.432980373
+ES,2013,"Partnership, co-operatives, associations, etc.",196346,243142,3620,3404,0.018436841,0.017336742
+ES,2014,Limited liability enterprise,1481985,1202427,756836,629051,0.510690729,0.42446516
+ES,2014,"Partnership, co-operatives, associations, etc.",199331,248410,3641,3428,0.0182661,0.017197526
+ES,2015,Limited liability enterprise,1539404,1202576,776418,650437,0.504362727,0.422525211
+ES,2015,"Partnership, co-operatives, associations, etc.",215929,245533,4004,3738,0.018543132,0.017311246
+ES,2016,Limited liability enterprise,1609501,1217098,780993,660798,0.485239214,0.410560789
+ES,2016,"Partnership, co-operatives, associations, etc.",220562,230631,4610,4283,0.020901153,0.019418576
+ES,2017,Limited liability enterprise,1670119,1219112,799476,676447,0.478694033,0.405029222
+ES,2017,"Partnership, co-operatives, associations, etc.",227772,207928,4814,4487,0.02113517,0.019699524
+ES,2018,Limited liability enterprise,1740483,1192694,842336,702724,0.483966807,0.403752292
+ES,2018,"Partnership, co-operatives, associations, etc.",234037,214356,4711,4351,0.020129296,0.018591077
+ES,2019,Limited liability enterprise,1807478,1191693,853363,709821,0.472129121,0.392713494
+ES,2019,"Partnership, co-operatives, associations, etc.",240235,216639,4319,4006,0.01797823,0.016675339
+ES,2020,Limited liability enterprise,1857452,1169237,738642,634923,0.397664112,0.341824715
+ES,2020,"Partnership, co-operatives, associations, etc.",245070,213459,2690,2523,0.010976456,0.010295018
+ES,2021,Limited liability enterprise,1932161,NA,3961,3626,0.002050036,0.001876655
+ES,2021,"Partnership, co-operatives, associations, etc.",248484,NA,38,37,0.000152927,0.000148903
+ES,2022,Limited liability enterprise,1935060,NA,4,4,2.07E-06,2.07E-06
+ES,2022,"Partnership, co-operatives, associations, etc.",248460,NA,0,0,0,0
+FI,2010,Limited liability enterprise,197134,132630,114923,137897,0.582968945,0.699508963
+FI,2010,"Partnership, co-operatives, associations, etc.",41278,40619,1944,2405,0.047095305,0.058263482
+FI,2010,Sole proprietorship,166167,113183,90,96,0.000541624,0.000577732
+FI,2011,Limited liability enterprise,209341,135504,128610,139557,0.614356481,0.666649151
+FI,2011,"Partnership, co-operatives, associations, etc.",42848,41513,2220,2405,0.051811053,0.056128641
+FI,2011,Sole proprietorship,179712,114063,123,126,0.000684428,0.000701122
+FI,2012,Limited liability enterprise,221409,138397,139636,134913,0.630669937,0.609338374
+FI,2012,"Partnership, co-operatives, associations, etc.",44474,40585,2052,2032,0.046139317,0.045689616
+FI,2012,Sole proprietorship,193817,112428,103,106,0.000531429,0.000546908
+FI,2013,Limited liability enterprise,230650,146530,141523,135405,0.613583351,0.587058313
+FI,2013,"Partnership, co-operatives, associations, etc.",45924,31974,2191,2149,0.047709259,0.046794704
+FI,2013,Sole proprietorship,207544,112274,109,110,0.00052519,0.000530008
+FI,2014,Limited liability enterprise,238718,151177,150595,142589,0.630848951,0.597311472
+FI,2014,"Partnership, co-operatives, associations, etc.",47253,30237,2419,2373,0.051192517,0.050219034
+FI,2014,Sole proprietorship,222252,110516,101,101,0.000454439,0.000454439
+FI,2015,Limited liability enterprise,246645,153515,157539,148228,0.638727726,0.600977113
+FI,2015,"Partnership, co-operatives, associations, etc.",47519,29034,2606,2548,0.054841221,0.053620657
+FI,2015,Sole proprietorship,231726,107405,91,93,0.000392705,0.000401336
+FI,2016,Limited liability enterprise,255289,155173,167079,158649,0.654470032,0.621448633
+FI,2016,"Partnership, co-operatives, associations, etc.",47020,27366,2917,2816,0.062037431,0.059889409
+FI,2016,Sole proprietorship,241889,104964,110,111,0.000454754,0.000458888
+FI,2017,Limited liability enterprise,260841,166507,174221,164631,0.667920304,0.631154611
+FI,2017,"Partnership, co-operatives, associations, etc.",41018,26281,3121,3000,0.076088546,0.073138622
+FI,2017,Sole proprietorship,240486,103810,150,152,0.000623737,0.000632053
+FI,2018,Limited liability enterprise,266697,170038,180547,170150,0.676974244,0.637989929
+FI,2018,"Partnership, co-operatives, associations, etc.",39867,25266,3216,3083,0.080668222,0.077332129
+FI,2018,Sole proprietorship,242926,104828,182,183,0.000749199,0.000753316
+FI,2019,Limited liability enterprise,271094,175742,187634,176176,0.692136307,0.649870525
+FI,2019,"Partnership, co-operatives, associations, etc.",38111,24232,3307,3174,0.086772848,0.083283042
+FI,2019,Sole proprietorship,245946,106173,187,185,0.00076033,0.000752198
+FI,2020,Limited liability enterprise,267714,181789,187182,176056,0.699186445,0.657627169
+FI,2020,"Partnership, co-operatives, associations, etc.",36876,22959,3138,3013,0.085095997,0.081706259
+FI,2020,Sole proprietorship,253339,106638,130,130,0.000513146,0.000513146
+FI,2021,Limited liability enterprise,267818,NA,149275,141495,0.557374784,0.528325206
+FI,2021,"Partnership, co-operatives, associations, etc.",35797,NA,1942,1863,0.054250356,0.052043467
+FI,2021,Sole proprietorship,262369,NA,57,57,0.000217251,0.000217251
+FI,2022,Limited liability enterprise,266326,NA,1414,1282,0.005309283,0.004813649
+FI,2022,"Partnership, co-operatives, associations, etc.",32290,NA,9,9,0.000278724,0.000278724
+FI,2022,Sole proprietorship,261671,NA,0,0,0,0
+FR,2010,Limited liability enterprise,1079608,1311570,916326,919706,0.848758068,0.851888834
+FR,2010,"Partnership, co-operatives, associations, etc.",24842,331541,13344,13440,0.537154818,0.541019242
+FR,2010,Sole proprietorship,4479,1304512,471,508,0.105157401,0.113418174
+FR,2011,Limited liability enterprise,1179328,1355222,993263,1001563,0.842227947,0.849265853
+FR,2011,"Partnership, co-operatives, associations, etc.",26379,339412,14053,14323,0.532734372,0.542969787
+FR,2011,Sole proprietorship,5152,1282965,767,798,0.148874224,0.154891304
+FR,2012,Limited liability enterprise,1273310,1387492,1052654,1069708,0.826706772,0.840100211
+FR,2012,"Partnership, co-operatives, associations, etc.",27722,364944,14580,14908,0.52593608,0.537767838
+FR,2012,Sole proprietorship,5718,1286767,1488,1463,0.26023085,0.255858692
+FR,2013,Limited liability enterprise,1354173,1766882,1028151,1043038,0.759246418,0.770239844
+FR,2013,"Partnership, co-operatives, associations, etc.",29147,37697,14349,14570,0.492297664,0.499879919
+FR,2013,Sole proprietorship,6176,1376493,1431,1417,0.231703368,0.229436528
+FR,2014,Limited liability enterprise,1405220,1844187,817942,825115,0.582073981,0.58717852
+FR,2014,"Partnership, co-operatives, associations, etc.",30300,37990,13044,13154,0.43049505,0.434125413
+FR,2014,Sole proprietorship,6502,1532437,1555,1515,0.239157182,0.233005229
+FR,2015,Limited liability enterprise,1429819,1923702,720734,709823,0.504073593,0.496442557
+FR,2015,"Partnership, co-operatives, associations, etc.",30955,37869,12641,12593,0.408366984,0.406816346
+FR,2015,Sole proprietorship,6708,1530481,1667,1661,0.248509243,0.247614788
+FR,2016,Limited liability enterprise,1456567,2012871,677282,596230,0.464985133,0.40933922
+FR,2016,"Partnership, co-operatives, associations, etc.",31723,33997,12518,12149,0.394603285,0.382971346
+FR,2016,Sole proprietorship,6876,1511867,1656,1653,0.240837696,0.240401396
+FR,2017,Limited liability enterprise,1466207,2118929,666411,557805,0.454513585,0.380440825
+FR,2017,"Partnership, co-operatives, associations, etc.",32286,36194,12688,12140,0.392987673,0.376014372
+FR,2017,Sole proprietorship,6962,1595037,1827,1822,0.262424591,0.261706406
+FR,2018,Limited liability enterprise,1467208,2224029,641586,512630,0.437283603,0.349391497
+FR,2018,"Partnership, co-operatives, associations, etc.",32789,35708,12655,11945,0.385952606,0.364299003
+FR,2018,Sole proprietorship,7000,1721936,2004,1998,0.286285714,0.285428571
+FR,2019,Limited liability enterprise,1461776,2344125,625297,478431,0.427765266,0.327294332
+FR,2019,"Partnership, co-operatives, associations, etc.",33253,35254,12777,11965,0.384236009,0.359817159
+FR,2019,Sole proprietorship,7002,1873315,2202,2197,0.314481577,0.313767495
+FR,2020,Limited liability enterprise,1401869,2447796,587231,434792,0.418891494,0.310151662
+FR,2020,"Partnership, co-operatives, associations, etc.",32114,35077,12320,11390,0.383633306,0.354673974
+FR,2020,Sole proprietorship,6866,2027492,2327,2320,0.3389164,0.337896883
+FR,2021,Limited liability enterprise,1355248,NA,162533,109125,0.119928603,0.080520318
+FR,2021,"Partnership, co-operatives, associations, etc.",31311,NA,2305,1854,0.073616301,0.059212417
+FR,2021,Sole proprietorship,6638,NA,784,784,0.118107864,0.118107864
+FR,2022,Limited liability enterprise,1302773,NA,198,157,0.000151983,0.000120512
+FR,2022,"Partnership, co-operatives, associations, etc.",29929,NA,0,0,0,0
+FR,2022,Sole proprietorship,6353,NA,0,0,0,0
+GB,2010,Limited liability enterprise,1940015,1350255,1733836,1375,0.893722987,0.000708757
+GB,2010,"Partnership, co-operatives, associations, etc.",55672,201895,22983,0,0.412828711,0
+GB,2011,Limited liability enterprise,2360353,1380415,1830191,1361,0.775388681,0.000576609
+GB,2011,"Partnership, co-operatives, associations, etc.",69052,192105,27174,0,0.393529514,0
+GB,2012,Limited liability enterprise,2823959,1434745,1937173,1331,0.685977736,0.000471324
+GB,2012,"Partnership, co-operatives, associations, etc.",82501,179945,31160,0,0.377692392,0
+GB,2013,Limited liability enterprise,3063132,1523665,2063386,1361,0.673619681,0.000444316
+GB,2013,"Partnership, co-operatives, associations, etc.",90469,167925,34968,0,0.386519139,0
+GB,2014,Limited liability enterprise,3301093,1640235,2203487,1348,0.667502248,0.00040835
+GB,2014,"Partnership, co-operatives, associations, etc.",95854,155990,37499,0,0.391209548,0
+GB,2015,Limited liability enterprise,3532569,1779175,2386585,1304,0.67559473,0.000369136
+GB,2015,"Partnership, co-operatives, associations, etc.",102078,145820,38085,0,0.373097043,0
+GB,2016,Limited liability enterprise,3799192,1935880,2548611,1289,0.670829745,0.000339283
+GB,2016,"Partnership, co-operatives, associations, etc.",112051,138145,37439,0,0.33412464,0
+GB,2017,Limited liability enterprise,3948383,2032440,2671728,1275,0.676663839,0.000322917
+GB,2017,"Partnership, co-operatives, associations, etc.",113781,131935,36138,0,0.317610146,0
+GB,2018,Limited liability enterprise,4160368,2082930,2773266,1292,0.666591513,0.000310549
+GB,2018,"Partnership, co-operatives, associations, etc.",109009,124910,35580,0,0.326395068,0
+GB,2019,Limited liability enterprise,4286359,NA,2899390,1254,0.676422577,0.000292556
+GB,2019,"Partnership, co-operatives, associations, etc.",109846,NA,35132,0,0.31982958,0
+GB,2020,Limited liability enterprise,4502555,NA,3012948,1193,0.669164064,0.000264961
+GB,2020,"Partnership, co-operatives, associations, etc.",110180,NA,34651,0,0.314494464,0
+GB,2021,Limited liability enterprise,4819030,NA,2288812,1032,0.474952843,0.000214151
+GB,2021,"Partnership, co-operatives, associations, etc.",113869,NA,26108,0,0.229281016,0
+GB,2022,Limited liability enterprise,4510888,NA,111050,73,0.024618213,1.62E-05
+GB,2022,"Partnership, co-operatives, associations, etc.",111253,NA,586,0,0.005267274,0
+GR,2010,Limited liability enterprise,51188,NA,27091,27091,0.529245136,0.529245136
+GR,2010,"Partnership, co-operatives, associations, etc.",51304,NA,604,604,0.011772961,0.011772961
+GR,2010,Sole proprietorship,2772,NA,7,7,0.002525253,0.002525253
+GR,2011,Limited liability enterprise,53361,NA,33063,33062,0.619609827,0.619591087
+GR,2011,"Partnership, co-operatives, associations, etc.",54863,NA,477,477,0.008694384,0.008694384
+GR,2011,Sole proprietorship,15468,NA,9,9,0.000581846,0.000581846
+GR,2012,Limited liability enterprise,55723,NA,30347,30347,0.544604562,0.544604562
+GR,2012,"Partnership, co-operatives, associations, etc.",57869,NA,265,265,0.004579308,0.004579308
+GR,2012,Sole proprietorship,15473,NA,5,5,0.000323144,0.000323144
+GR,2013,Limited liability enterprise,58938,NA,28752,28752,0.487834674,0.487834674
+GR,2013,"Partnership, co-operatives, associations, etc.",60440,NA,183,183,0.003027796,0.003027796
+GR,2013,Sole proprietorship,15478,NA,5,5,0.000323039,0.000323039
+GR,2014,Limited liability enterprise,61844,NA,30343,30343,0.490637734,0.490637734
+GR,2014,"Partnership, co-operatives, associations, etc.",62854,NA,144,144,0.002291024,0.002291024
+GR,2014,Sole proprietorship,15482,NA,5,5,0.000322956,0.000322956
+GR,2015,Limited liability enterprise,65264,51334,28874,28874,0.442418485,0.442418485
+GR,2015,"Partnership, co-operatives, associations, etc.",64977,109260,93,93,0.001431276,0.001431276
+GR,2015,Sole proprietorship,15493,616674,4,4,0.000258181,0.000258181
+GR,2016,Limited liability enterprise,70070,54478,28663,28663,0.409062366,0.409062366
+GR,2016,"Partnership, co-operatives, associations, etc.",67388,107769,28,28,0.000415504,0.000415504
+GR,2016,Sole proprietorship,15574,603727,1,1,6.42E-05,6.42E-05
+GR,2017,Limited liability enterprise,76726,61705,31020,31020,0.404295806,0.404295806
+GR,2017,"Partnership, co-operatives, associations, etc.",70481,109427,21,21,0.000297953,0.000297953
+GR,2017,Sole proprietorship,15596,597736,0,0,0,0
+GR,2018,Limited liability enterprise,79850,74625,31187,31187,0.390569818,0.390569818
+GR,2018,"Partnership, co-operatives, associations, etc.",70490,117268,22,22,0.000312101,0.000312101
+GR,2018,Sole proprietorship,15597,608946,0,0,0,0
+GR,2019,Limited liability enterprise,82786,83658,31564,31564,0.381272196,0.381272196
+GR,2019,"Partnership, co-operatives, associations, etc.",70491,122456,20,20,0.000283724,0.000283724
+GR,2019,Sole proprietorship,15597,620086,0,0,0,0
+GR,2020,Limited liability enterprise,83468,89861,25804,25804,0.309148416,0.309148416
+GR,2020,"Partnership, co-operatives, associations, etc.",68354,128202,12,12,0.000175557,0.000175557
+GR,2020,Sole proprietorship,15597,629962,0,0,0,0
+GR,2021,Limited liability enterprise,83464,NA,1351,1351,0.016186619,0.016186619
+GR,2021,"Partnership, co-operatives, associations, etc.",68354,NA,0,0,0,0
+GR,2021,Sole proprietorship,15598,NA,0,0,0,0
+GR,2022,Limited liability enterprise,83436,NA,1,1,1.20E-05,1.20E-05
+GR,2022,"Partnership, co-operatives, associations, etc.",68354,NA,0,0,0,0
+GR,2022,Sole proprietorship,15598,NA,0,0,0,0
+HR,2010,Limited liability enterprise,103855,NA,87595,87592,0.843435559,0.843406673
+HR,2010,"Partnership, co-operatives, associations, etc.",2132,NA,1525,1525,0.715290807,0.715290807
+HR,2010,Sole proprietorship,54878,NA,5415,5415,0.098673421,0.098673421
+HR,2011,Limited liability enterprise,110044,NA,89239,89236,0.810939261,0.810911999
+HR,2011,"Partnership, co-operatives, associations, etc.",2305,NA,1602,1602,0.695010846,0.695010846
+HR,2011,Sole proprietorship,57915,NA,5434,5434,0.09382716,0.09382716
+HR,2012,Limited liability enterprise,117509,89242,92853,92850,0.790177774,0.790152244
+HR,2012,"Partnership, co-operatives, associations, etc.",2432,1148,1519,1519,0.624588816,0.624588816
+HR,2012,Sole proprietorship,61202,57408,5675,5675,0.092725728,0.092725728
+HR,2013,Limited liability enterprise,128016,89787,94406,94403,0.737454693,0.737431259
+HR,2013,"Partnership, co-operatives, associations, etc.",2469,976,1358,1358,0.550020251,0.550020251
+HR,2013,Sole proprietorship,66440,55037,5645,5645,0.084963877,0.084963877
+HR,2014,Limited liability enterprise,136421,87360,97057,97053,0.711452049,0.711422728
+HR,2014,"Partnership, co-operatives, associations, etc.",2495,762,1265,1265,0.507014028,0.507014028
+HR,2014,Sole proprietorship,71203,58644,5898,5898,0.082833588,0.082833588
+HR,2015,Limited liability enterprise,143038,90793,103024,103021,0.720256156,0.720235182
+HR,2015,"Partnership, co-operatives, associations, etc.",2496,733,1207,1207,0.483573718,0.483573718
+HR,2015,Sole proprietorship,76496,54603,4707,4707,0.061532629,0.061532629
+HR,2016,Limited liability enterprise,150330,95523,105762,105758,0.703532229,0.703505621
+HR,2016,"Partnership, co-operatives, associations, etc.",2494,729,1107,1107,0.443865277,0.443865277
+HR,2016,Sole proprietorship,82309,50929,4093,4093,0.049727247,0.049727247
+HR,2017,Limited liability enterprise,148792,100596,110871,110868,0.745140868,0.745120705
+HR,2017,"Partnership, co-operatives, associations, etc.",1920,686,1090,1090,0.567708333,0.567708333
+HR,2017,Sole proprietorship,89984,47836,3921,3921,0.043574413,0.043574413
+HR,2018,Limited liability enterprise,150784,107153,119147,119145,0.790183309,0.790170045
+HR,2018,"Partnership, co-operatives, associations, etc.",1443,669,1098,1098,0.760914761,0.760914761
+HR,2018,Sole proprietorship,100315,47882,3832,3832,0.038199671,0.038199671
+HR,2019,Limited liability enterprise,154066,108636,122644,122642,0.796048447,0.796035465
+HR,2019,"Partnership, co-operatives, associations, etc.",1387,845,1051,1051,0.757750541,0.757750541
+HR,2019,Sole proprietorship,113971,72135,3655,3655,0.032069562,0.032069562
+HR,2020,Limited liability enterprise,155172,107136,125999,125997,0.811995721,0.811982832
+HR,2020,"Partnership, co-operatives, associations, etc.",1325,1450,1040,1040,0.78490566,0.78490566
+HR,2020,Sole proprietorship,123363,70720,3423,3423,0.02774738,0.02774738
+HR,2021,Limited liability enterprise,160351,NA,120402,120400,0.750865289,0.750852817
+HR,2021,"Partnership, co-operatives, associations, etc.",1285,NA,988,988,0.768871595,0.768871595
+HR,2021,Sole proprietorship,135125,NA,3157,3157,0.023363552,0.023363552
+HR,2022,Limited liability enterprise,149941,NA,0,0,0,0
+HR,2022,"Partnership, co-operatives, associations, etc.",1222,NA,0,0,0,0
+HR,2022,Sole proprietorship,135912,NA,0,0,0,0
+HU,2010,Limited liability enterprise,313679,216762,223281,195531,0.711813669,0.623347435
+HU,2010,"Partnership, co-operatives, associations, etc.",189473,117881,115641,96836,0.610329704,0.511080734
+HU,2010,Sole proprietorship,346263,228725,124,101,0.000358109,0.000291686
+HU,2011,Limited liability enterprise,361097,231175,262318,220163,0.726447464,0.609705979
+HU,2011,"Partnership, co-operatives, associations, etc.",190642,111385,102495,84078,0.537630742,0.441025587
+HU,2011,Sole proprietorship,367344,215329,439,404,0.001195065,0.001099787
+HU,2012,Limited liability enterprise,391079,237839,298716,250628,0.763825212,0.640862844
+HU,2012,"Partnership, co-operatives, associations, etc.",191491,103820,109006,86641,0.569248685,0.452454685
+HU,2012,Sole proprietorship,389912,183090,524,459,0.001343893,0.001177189
+HU,2013,Limited liability enterprise,417349,235766,316004,262539,0.757169659,0.629063446
+HU,2013,"Partnership, co-operatives, associations, etc.",191980,97789,104943,80798,0.546635066,0.420866757
+HU,2013,Sole proprietorship,425904,182370,402,346,0.000943875,0.00081239
+HU,2014,Limited liability enterprise,408193,235959,317710,264148,0.778332798,0.647115458
+HU,2014,"Partnership, co-operatives, associations, etc.",168746,94523,100246,76865,0.594064452,0.455507094
+HU,2014,Sole proprietorship,470580,191576,407,350,0.00086489,0.000743763
+HU,2015,Limited liability enterprise,410095,237318,318725,264486,0.777197966,0.644938368
+HU,2015,"Partnership, co-operatives, associations, etc.",165096,92323,96294,73711,0.583260648,0.446473567
+HU,2015,Sole proprietorship,519107,201480,409,343,0.000787892,0.00066075
+HU,2016,Limited liability enterprise,398363,229597,321531,264934,0.807130682,0.665056745
+HU,2016,"Partnership, co-operatives, associations, etc.",149899,86821,92873,70201,0.619570511,0.468322003
+HU,2016,Sole proprietorship,509295,219089,594,326,0.001166318,0.000640101
+HU,2017,Limited liability enterprise,383428,221687,324124,266733,0.845332109,0.695653421
+HU,2017,"Partnership, co-operatives, associations, etc.",141715,83751,87227,65270,0.615510002,0.460572275
+HU,2017,Sole proprietorship,585111,250542,576,341,0.000984429,0.000582795
+HU,2018,Limited liability enterprise,368241,239231,326771,268709,0.887383534,0.72970962
+HU,2018,"Partnership, co-operatives, associations, etc.",132725,86562,81096,60794,0.611007723,0.45804483
+HU,2018,Sole proprietorship,666130,279533,393,336,0.000589975,0.000504406
+HU,2019,Limited liability enterprise,375330,244028,323600,265646,0.86217462,0.707766499
+HU,2019,"Partnership, co-operatives, associations, etc.",129786,85446,73969,55158,0.569930501,0.42499191
+HU,2019,Sole proprietorship,554528,311598,363,298,0.000654611,0.000537394
+HU,2020,Limited liability enterprise,378322,243563,334362,270615,0.883802687,0.715303366
+HU,2020,"Partnership, co-operatives, associations, etc.",123987,82650,72026,52299,0.580915741,0.421810351
+HU,2020,Sole proprietorship,563198,358944,343,281,0.000609022,0.000498936
+HU,2021,Limited liability enterprise,385930,NA,196458,162048,0.509050864,0.419889617
+HU,2021,"Partnership, co-operatives, associations, etc.",114070,NA,41279,30369,0.361874288,0.266231262
+HU,2021,Sole proprietorship,588659,NA,196,165,0.00033296,0.000280298
+HU,2022,Limited liability enterprise,375186,NA,36,8,9.60E-05,2.13E-05
+HU,2022,"Partnership, co-operatives, associations, etc.",108349,NA,22,0,0.000203048,0
+HU,2022,Sole proprietorship,498867,NA,0,0,0,0
+IE,2010,Limited liability enterprise,146671,97103,108866,72,0.742246252,0.000490895
+IE,2011,Limited liability enterprise,160367,94830,109567,68,0.683226599,0.000424027
+IE,2012,Limited liability enterprise,173265,94721,111869,69,0.645652613,0.000398234
+IE,2013,Limited liability enterprise,175150,NA,114700,68,0.654867257,0.000388239
+IE,2014,Limited liability enterprise,180790,98911,118535,70,0.655650202,0.00038719
+IE,2015,Limited liability enterprise,188419,104564,121944,72,0.647195877,0.000382127
+IE,2016,Limited liability enterprise,200426,109431,127337,71,0.635331743,0.000354245
+IE,2017,Limited liability enterprise,208345,118769,134857,72,0.647277352,0.000345581
+IE,2018,Limited liability enterprise,218890,123691,142639,76,0.651646946,0.000347206
+IE,2019,Limited liability enterprise,227237,NA,149624,75,0.658449108,0.000330052
+IE,2020,Limited liability enterprise,236223,133457,152294,73,0.644704368,0.00030903
+IE,2021,Limited liability enterprise,246223,NA,65439,58,0.265771272,0.000235559
+IE,2022,Limited liability enterprise,244844,NA,762,6,0.003112186,2.45E-05
+IS,2010,Limited liability enterprise,28987,14568,25297,9700,0.872701556,0.334632766
+IS,2010,"Partnership, co-operatives, associations, etc.",53,1131,49,27,0.924528302,0.509433962
+IS,2011,Limited liability enterprise,30422,14803,25782,8997,0.847478798,0.295739925
+IS,2011,"Partnership, co-operatives, associations, etc.",62,1279,57,24,0.919354839,0.387096774
+IS,2012,Limited liability enterprise,31523,15065,26382,9057,0.83691273,0.287314025
+IS,2012,"Partnership, co-operatives, associations, etc.",72,1440,66,23,0.916666667,0.319444444
+IS,2013,Limited liability enterprise,32098,15476,27276,9261,0.849772571,0.288522649
+IS,2013,"Partnership, co-operatives, associations, etc.",84,1586,77,24,0.916666667,0.285714286
+IS,2014,Limited liability enterprise,33085,16181,28375,9273,0.857639414,0.280278072
+IS,2014,"Partnership, co-operatives, associations, etc.",95,1683,84,32,0.884210526,0.336842105
+IS,2015,Limited liability enterprise,34474,16681,29670,9770,0.860648605,0.283401984
+IS,2015,"Partnership, co-operatives, associations, etc.",104,1678,94,36,0.903846154,0.346153846
+IS,2016,Limited liability enterprise,36330,17872,31405,26471,0.864437104,0.728626479
+IS,2016,"Partnership, co-operatives, associations, etc.",106,1764,97,60,0.91509434,0.566037736
+IS,2017,Limited liability enterprise,37632,19027,32954,29608,0.875690901,0.786777211
+IS,2017,"Partnership, co-operatives, associations, etc.",105,1832,96,70,0.914285714,0.666666667
+IS,2018,Limited liability enterprise,38893,19531,33993,31077,0.874013319,0.799038387
+IS,2018,"Partnership, co-operatives, associations, etc.",104,1860,90,69,0.865384615,0.663461538
+IS,2019,Limited liability enterprise,39963,20128,34656,32026,0.867202162,0.801391287
+IS,2019,"Partnership, co-operatives, associations, etc.",105,1897,91,66,0.866666667,0.628571429
+IS,2020,Limited liability enterprise,41311,20824,36098,33762,0.873810849,0.817264167
+IS,2020,"Partnership, co-operatives, associations, etc.",107,1973,91,74,0.85046729,0.691588785
+IS,2021,Limited liability enterprise,40902,NA,7736,7440,0.189135006,0.181898196
+IS,2021,"Partnership, co-operatives, associations, etc.",112,NA,47,45,0.419642857,0.401785714
+IS,2022,Limited liability enterprise,39875,NA,0,0,0,0
+IS,2022,"Partnership, co-operatives, associations, etc.",108,NA,0,0,0,0
+IT,2010,Limited liability enterprise,947900,736604,872898,867792,0.92087562,0.915488976
+IT,2010,"Partnership, co-operatives, associations, etc.",295522,787150,80115,79256,0.271096568,0.268189847
+IT,2010,Sole proprietorship,942793,2461680,0,0,0,0
+IT,2011,Limited liability enterprise,1008778,764623,879109,880801,0.87145933,0.873136607
+IT,2011,"Partnership, co-operatives, associations, etc.",309690,780220,80225,80576,0.259049372,0.260182763
+IT,2011,Sole proprietorship,997701,2425904,0,0,0,0
+IT,2012,Limited liability enterprise,1064133,768836,872486,874142,0.819903151,0.821459348
+IT,2012,"Partnership, co-operatives, associations, etc.",325980,768262,78415,78756,0.240551568,0.241597644
+IT,2012,Sole proprietorship,1085361,2416616,0,0,0,0
+IT,2013,Limited liability enterprise,1084195,795435,872409,874038,0.804660601,0.806163098
+IT,2013,"Partnership, co-operatives, associations, etc.",338013,754948,76167,76854,0.225337487,0.227369953
+IT,2013,Sole proprietorship,1180518,2353836,0,0,0,0
+IT,2014,Limited liability enterprise,1110957,795083,882096,883015,0.793996527,0.794823742
+IT,2014,"Partnership, co-operatives, associations, etc.",352591,723644,73653,74291,0.208890754,0.210700216
+IT,2014,Sole proprietorship,1287159,2327932,0,0,0,0
+IT,2015,Limited liability enterprise,1155562,811477,899276,900794,0.778215275,0.779528922
+IT,2015,"Partnership, co-operatives, associations, etc.",371134,701663,72715,73376,0.195926539,0.197707567
+IT,2015,Sole proprietorship,1406104,2306816,0,0,0,0
+IT,2016,Limited liability enterprise,1207287,844242,917961,918990,0.760350273,0.761202597
+IT,2016,"Partnership, co-operatives, associations, etc.",390153,686460,69027,69635,0.176922899,0.178481262
+IT,2016,Sole proprietorship,1536113,2318892,0,0,0,0
+IT,2017,Limited liability enterprise,1268022,869919,941422,942337,0.742433491,0.743155087
+IT,2017,"Partnership, co-operatives, associations, etc.",407408,659734,65727,66261,0.161329674,0.1626404
+IT,2017,Sole proprietorship,1658480,2309161,0,0,0,0
+IT,2018,Limited liability enterprise,1330877,895173,965813,966849,0.725696665,0.726475099
+IT,2018,"Partnership, co-operatives, associations, etc.",422942,636484,61997,62510,0.146585111,0.147798043
+IT,2018,Sole proprietorship,1793089,2302422,0,0,0,0
+IT,2019,Limited liability enterprise,1385372,915602,985278,986279,0.711201035,0.711923584
+IT,2019,"Partnership, co-operatives, associations, etc.",434427,612274,57932,58415,0.133352669,0.134464478
+IT,2019,Sole proprietorship,1928800,2223939,0,0,0,0
+IT,2020,Limited liability enterprise,1422604,925805,941858,942765,0.662066183,0.662703746
+IT,2020,"Partnership, co-operatives, associations, etc.",442154,581035,50569,51022,0.114369654,0.115394184
+IT,2020,Sole proprietorship,2048438,2270614,0,0,0,0
+IT,2021,Limited liability enterprise,1489448,NA,49718,49728,0.033380152,0.033386865
+IT,2021,"Partnership, co-operatives, associations, etc.",454087,NA,2188,2190,0.00481846,0.004822864
+IT,2021,Sole proprietorship,2178294,NA,0,0,0,0
+IT,2022,Limited liability enterprise,1485279,NA,1,1,6.73E-07,6.73E-07
+IT,2022,"Partnership, co-operatives, associations, etc.",456303,NA,0,0,0,0
+IT,2022,Sole proprietorship,2236616,NA,0,0,0,0
+LT,2010,Limited liability enterprise,75892,55453,6645,6521,0.087558636,0.085924735
+LT,2010,"Partnership, co-operatives, associations, etc.",9336,1644,42,43,0.004498715,0.004605827
+LT,2010,Sole proprietorship,29860,63733,11,10,0.000368386,0.000334896
+LT,2011,Limited liability enterprise,83301,58729,9508,9363,0.114140286,0.112399611
+LT,2011,"Partnership, co-operatives, associations, etc.",9570,1644,76,74,0.007941484,0.007732497
+LT,2011,Sole proprietorship,30364,71613,16,16,0.00052694,0.00052694
+LT,2012,Limited liability enterprise,93871,65171,9291,9097,0.098976255,0.096909589
+LT,2012,"Partnership, co-operatives, associations, etc.",10672,1740,63,60,0.005903298,0.005622189
+LT,2012,Sole proprietorship,30900,83944,30,30,0.000970874,0.000970874
+LT,2013,Limited liability enterprise,100738,60429,10771,10503,0.106920924,0.104260557
+LT,2013,"Partnership, co-operatives, associations, etc.",13009,1486,91,82,0.006995157,0.006303328
+LT,2013,Sole proprietorship,31154,96275,44,44,0.001412339,0.001412339
+LT,2014,Limited liability enterprise,107943,66641,11033,10766,0.102211352,0.099737825
+LT,2014,"Partnership, co-operatives, associations, etc.",14777,1525,155,143,0.010489274,0.009677201
+LT,2014,Sole proprietorship,31738,109586,40,40,0.001260319,0.001260319
+LT,2015,Limited liability enterprise,112584,68137,10586,10310,0.094027571,0.091576068
+LT,2015,"Partnership, co-operatives, associations, etc.",16433,1562,179,172,0.010892716,0.010466744
+LT,2015,Sole proprietorship,31333,116255,40,38,0.001276609,0.001212779
+LT,2016,Limited liability enterprise,116815,71009,11701,11404,0.100166931,0.097624449
+LT,2016,"Partnership, co-operatives, associations, etc.",18486,1505,205,197,0.011089473,0.010656713
+LT,2016,Sole proprietorship,30806,124740,47,47,0.001525677,0.001525677
+LT,2017,Limited liability enterprise,121026,69080,12289,11980,0.101540165,0.098986995
+LT,2017,"Partnership, co-operatives, associations, etc.",21407,965,270,261,0.012612697,0.012192274
+LT,2017,Sole proprietorship,30126,134510,54,54,0.001792472,0.001792472
+LT,2018,Limited liability enterprise,124980,71890,18295,17185,0.146383421,0.137502
+LT,2018,"Partnership, co-operatives, associations, etc.",25426,1006,1162,1053,0.045701251,0.0414143
+LT,2018,Sole proprietorship,29290,139997,603,593,0.020587231,0.020245818
+LT,2019,Limited liability enterprise,128902,75918,65946,58697,0.511597958,0.455361437
+LT,2019,"Partnership, co-operatives, associations, etc.",30351,986,9354,8502,0.308194129,0.280122566
+LT,2019,Sole proprietorship,28731,144848,1195,1177,0.041592705,0.040966204
+LT,2020,Limited liability enterprise,132273,78358,66188,58516,0.500389346,0.442388091
+LT,2020,"Partnership, co-operatives, associations, etc.",36381,914,11924,10902,0.327753498,0.299661911
+LT,2020,Sole proprietorship,28429,150919,546,527,0.019205741,0.018537409
+LT,2021,Limited liability enterprise,131616,NA,648,510,0.004923414,0.003874909
+LT,2021,"Partnership, co-operatives, associations, etc.",43623,NA,231,209,0.005295372,0.004791051
+LT,2021,Sole proprietorship,27598,NA,7,6,0.000253642,0.000217407
+LT,2022,Limited liability enterprise,118171,NA,0,0,0,0
+LT,2022,"Partnership, co-operatives, associations, etc.",43449,NA,0,0,0,0
+LT,2022,Sole proprietorship,24964,NA,0,0,0,0
+LU,2010,Limited liability enterprise,38876,22095,11621,3832,0.298924787,0.098569812
+LU,2010,"Partnership, co-operatives, associations, etc.",3548,1016,158,59,0.044532131,0.016629087
+LU,2010,Sole proprietorship,2108,4500,10,6,0.004743833,0.0028463
+LU,2011,Limited liability enterprise,42514,22957,13679,2953,0.321752834,0.069459472
+LU,2011,"Partnership, co-operatives, associations, etc.",3937,1065,207,50,0.052578105,0.012700025
+LU,2011,Sole proprietorship,2241,4494,16,8,0.00713967,0.003569835
+LU,2012,Limited liability enterprise,46800,23600,14109,2922,0.301474359,0.062435897
+LU,2012,"Partnership, co-operatives, associations, etc.",4354,1073,232,67,0.053284336,0.015388149
+LU,2012,Sole proprietorship,2488,4449,15,11,0.006028939,0.004421222
+LU,2013,Limited liability enterprise,51965,24510,14506,2960,0.279149427,0.056961416
+LU,2013,"Partnership, co-operatives, associations, etc.",4862,1057,229,69,0.047099959,0.014191691
+LU,2013,Sole proprietorship,2736,4656,16,10,0.005847953,0.003654971
+LU,2014,Limited liability enterprise,57540,25589,16878,3092,0.293326382,0.053736531
+LU,2014,"Partnership, co-operatives, associations, etc.",5570,1055,258,80,0.046319569,0.014362657
+LU,2014,Sole proprietorship,3037,4602,15,11,0.004939085,0.003621995
+LU,2015,Limited liability enterprise,63569,26233,50468,7047,0.793908981,0.11085592
+LU,2015,"Partnership, co-operatives, associations, etc.",6501,1082,859,138,0.132133518,0.021227503
+LU,2015,Sole proprietorship,3311,4591,10,6,0.003020236,0.001812141
+LU,2016,Limited liability enterprise,69404,26753,67434,5388,0.971615469,0.077632413
+LU,2016,"Partnership, co-operatives, associations, etc.",7509,1099,1194,127,0.159009189,0.016913038
+LU,2016,Sole proprietorship,3619,4539,12,7,0.003315833,0.001934236
+LU,2017,Limited liability enterprise,75854,27610,70003,5072,0.922864977,0.066865294
+LU,2017,"Partnership, co-operatives, associations, etc.",8612,1102,1260,141,0.146307478,0.016372503
+LU,2017,Sole proprietorship,3949,4882,11,7,0.002785515,0.001772601
+LU,2018,Limited liability enterprise,82934,28603,71011,4926,0.856235078,0.059396629
+LU,2018,"Partnership, co-operatives, associations, etc.",10093,1101,1383,142,0.137025661,0.014069157
+LU,2018,Sole proprietorship,4241,4880,8,3,0.001886348,0.00070738
+LU,2019,Limited liability enterprise,90682,29469,72034,4779,0.794358307,0.052700646
+LU,2019,"Partnership, co-operatives, associations, etc.",11723,1088,1384,122,0.118058517,0.010406892
+LU,2019,Sole proprietorship,4625,4935,11,3,0.002378378,0.000648649
+LU,2020,Limited liability enterprise,98170,29798,70084,4182,0.713904451,0.042599572
+LU,2020,"Partnership, co-operatives, associations, etc.",13910,1055,1347,135,0.096836808,0.009705248
+LU,2020,Sole proprietorship,5102,4415,8,2,0.001568013,0.000392003
+LU,2021,Limited liability enterprise,107617,NA,13584,918,0.12622541,0.008530251
+LU,2021,"Partnership, co-operatives, associations, etc.",16878,NA,290,43,0.017182131,0.002547695
+LU,2021,Sole proprietorship,5709,NA,3,0,0.000525486,0
+LU,2022,Limited liability enterprise,105497,NA,49,3,0.000464468,2.84E-05
+LU,2022,"Partnership, co-operatives, associations, etc.",17797,NA,0,0,0,0
+LU,2022,Sole proprietorship,5841,NA,0,0,0,0
+LV,2010,Limited liability enterprise,98188,57721,64820,48193,0.660162138,0.490823726
+LV,2010,"Partnership, co-operatives, associations, etc.",2241,1251,1513,802,0.675145025,0.357875948
+LV,2010,Sole proprietorship,26636,23678,644,321,0.024177804,0.012051359
+LV,2011,Limited liability enterprise,114962,63503,71843,52786,0.624928237,0.459160418
+LV,2011,"Partnership, co-operatives, associations, etc.",2302,1212,1609,854,0.698957428,0.370981755
+LV,2011,Sole proprietorship,27525,23258,652,321,0.023687557,0.011662125
+LV,2012,Limited liability enterprise,130746,69593,80890,59120,0.618680495,0.452174445
+LV,2012,"Partnership, co-operatives, associations, etc.",2381,1247,1622,846,0.681226375,0.355312894
+LV,2012,Sole proprietorship,28295,22824,618,296,0.021841315,0.010461212
+LV,2013,Limited liability enterprise,144129,73719,87075,63631,0.604146286,0.441486446
+LV,2013,"Partnership, co-operatives, associations, etc.",2454,1272,1618,812,0.659331703,0.330888346
+LV,2013,Sole proprietorship,28255,22032,567,277,0.020067245,0.009803575
+LV,2014,Limited liability enterprise,155868,77640,93867,69040,0.60222111,0.442938897
+LV,2014,"Partnership, co-operatives, associations, etc.",2540,1289,1633,817,0.642913386,0.321653543
+LV,2014,Sole proprietorship,27781,22050,505,259,0.018177891,0.009322919
+LV,2015,Limited liability enterprise,164778,81128,97467,70273,0.591504934,0.426470767
+LV,2015,"Partnership, co-operatives, associations, etc.",2536,2043,1673,775,0.659700315,0.305599369
+LV,2015,Sole proprietorship,26566,27139,461,222,0.017353008,0.008356546
+LV,2016,Limited liability enterprise,169063,83332,98500,72522,0.582623046,0.428964351
+LV,2016,"Partnership, co-operatives, associations, etc.",2542,2258,1630,788,0.64122738,0.309992132
+LV,2016,Sole proprietorship,24752,30803,351,181,0.014180672,0.00731254
+LV,2017,Limited liability enterprise,169206,82063,99484,73482,0.587946054,0.43427538
+LV,2017,"Partnership, co-operatives, associations, etc.",2519,2315,1579,804,0.626836046,0.319174276
+LV,2017,Sole proprietorship,22840,29376,312,173,0.013660245,0.007574431
+LV,2018,Limited liability enterprise,164866,82924,100515,74956,0.60967695,0.454648017
+LV,2018,"Partnership, co-operatives, associations, etc.",2517,2409,1574,828,0.625347636,0.328963051
+LV,2018,Sole proprietorship,21674,28306,294,171,0.01356464,0.007889637
+LV,2019,Limited liability enterprise,154990,82432,99266,75111,0.640467127,0.484618362
+LV,2019,"Partnership, co-operatives, associations, etc.",2506,2210,1520,812,0.606544294,0.324022346
+LV,2019,Sole proprietorship,20853,28025,265,154,0.012708004,0.007385029
+LV,2020,Limited liability enterprise,136308,81072,98737,74806,0.724366875,0.548801244
+LV,2020,"Partnership, co-operatives, associations, etc.",2456,2200,1468,799,0.59771987,0.325325733
+LV,2020,Sole proprietorship,19920,28910,252,150,0.012650602,0.00753012
+LV,2021,Limited liability enterprise,132861,NA,29576,22666,0.222608591,0.170599348
+LV,2021,"Partnership, co-operatives, associations, etc.",2441,NA,497,259,0.20360508,0.106104056
+LV,2021,Sole proprietorship,19541,NA,83,52,0.00424748,0.002661072
+LV,2022,Limited liability enterprise,124523,NA,4,3,3.21E-05,2.41E-05
+LV,2022,"Partnership, co-operatives, associations, etc.",2304,NA,0,0,0,0
+LV,2022,Sole proprietorship,18665,NA,0,0,0,0
+MK,2010,Limited liability enterprise,89371,50276,287,94,0.003211333,0.001051795
+MK,2010,"Partnership, co-operatives, associations, etc.",45,1158,0,0,0,0
+MK,2010,Sole proprietorship,112507,9483,1,1,8.89E-06,8.89E-06
+MK,2011,Limited liability enterprise,95221,50789,387,137,0.00406423,0.001438758
+MK,2011,"Partnership, co-operatives, associations, etc.",45,1547,0,0,0,0
+MK,2011,Sole proprietorship,139836,8177,0,0,0,0
+MK,2012,Limited liability enterprise,99862,49184,52091,51153,0.521629849,0.512236887
+MK,2012,"Partnership, co-operatives, associations, etc.",48,1528,19,19,0.395833333,0.395833333
+MK,2012,Sole proprietorship,168298,9015,25,25,0.000148546,0.000148546
+MK,2013,Limited liability enterprise,102420,48123,48533,47905,0.473862527,0.467730912
+MK,2013,"Partnership, co-operatives, associations, etc.",48,2021,18,18,0.375,0.375
+MK,2013,Sole proprietorship,179231,8348,25,25,0.000139485,0.000139485
+MK,2014,Limited liability enterprise,103670,47840,56966,51855,0.549493585,0.50019292
+MK,2014,"Partnership, co-operatives, associations, etc.",48,1460,18,18,0.375,0.375
+MK,2014,Sole proprietorship,191174,8462,27,27,0.000141233,0.000141233
+MK,2015,Limited liability enterprise,104453,47101,57375,57377,0.549290111,0.549309259
+MK,2015,"Partnership, co-operatives, associations, etc.",49,1410,19,19,0.387755102,0.387755102
+MK,2015,Sole proprietorship,201255,8637,29,29,0.000144096,0.000144096
+MK,2016,Limited liability enterprise,105679,47874,58530,53551,0.553847027,0.506732653
+MK,2016,"Partnership, co-operatives, associations, etc.",49,1437,20,20,0.408163265,0.408163265
+MK,2016,Sole proprietorship,202788,9066,41,38,0.000202182,0.000187388
+MK,2017,Limited liability enterprise,64740,47690,57949,53506,0.895103491,0.826475131
+MK,2017,"Partnership, co-operatives, associations, etc.",47,1409,20,20,0.425531915,0.425531915
+MK,2017,Sole proprietorship,203314,9174,41,40,0.000201659,0.00019674
+MK,2018,Limited liability enterprise,59749,48116,57405,53100,0.960769218,0.888717803
+MK,2018,"Partnership, co-operatives, associations, etc.",45,1378,20,20,0.444444444,0.444444444
+MK,2018,Sole proprietorship,202928,8724,38,37,0.000187259,0.000182331
+MK,2019,Limited liability enterprise,57189,48711,58325,54000,1.01986396,0.944237528
+MK,2019,"Partnership, co-operatives, associations, etc.",43,1368,20,20,0.465116279,0.465116279
+MK,2019,Sole proprietorship,200634,8649,37,34,0.000184415,0.000169463
+MK,2020,Limited liability enterprise,56001,48923,59406,54788,1.060802486,0.978339673
+MK,2020,"Partnership, co-operatives, associations, etc.",43,1316,18,18,0.418604651,0.418604651
+MK,2020,Sole proprietorship,199862,8454,34,31,0.000170117,0.000155107
+MK,2021,Limited liability enterprise,53956,NA,55,54,0.001019349,0.001000815
+MK,2021,"Partnership, co-operatives, associations, etc.",43,NA,0,0,0,0
+MK,2021,Sole proprietorship,198948,NA,0,0,0,0
+MK,2022,Limited liability enterprise,51487,NA,0,0,0,0
+MK,2022,"Partnership, co-operatives, associations, etc.",43,NA,0,0,0,0
+MK,2022,Sole proprietorship,198360,NA,0,0,0,0
+MT,2010,Limited liability enterprise,32017,10375,13856,13856,0.432770091,0.432770091
+MT,2010,"Partnership, co-operatives, associations, etc.",41,2300,2,2,0.048780488,0.048780488
+MT,2011,Limited liability enterprise,35285,10506,13772,13767,0.390307496,0.390165793
+MT,2011,"Partnership, co-operatives, associations, etc.",41,2190,2,2,0.048780488,0.048780488
+MT,2012,Limited liability enterprise,39223,10811,14374,14357,0.366468654,0.366035234
+MT,2012,"Partnership, co-operatives, associations, etc.",44,2107,2,2,0.045454545,0.045454545
+MT,2013,Limited liability enterprise,43468,10557,16704,16686,0.384282691,0.383868593
+MT,2013,"Partnership, co-operatives, associations, etc.",44,2004,1,1,0.022727273,0.022727273
+MT,2014,Limited liability enterprise,47894,11307,18613,18611,0.388629056,0.388587297
+MT,2014,"Partnership, co-operatives, associations, etc.",44,2009,0,0,0,0
+MT,2015,Limited liability enterprise,52385,12087,19542,19543,0.373045719,0.373064809
+MT,2015,"Partnership, co-operatives, associations, etc.",47,1832,0,0,0,0
+MT,2016,Limited liability enterprise,56465,12953,20229,20229,0.358257328,0.358257328
+MT,2016,"Partnership, co-operatives, associations, etc.",51,1980,1,1,0.019607843,0.019607843
+MT,2017,Limited liability enterprise,59754,13432,21892,21888,0.366368779,0.366301838
+MT,2017,"Partnership, co-operatives, associations, etc.",51,2029,1,1,0.019607843,0.019607843
+MT,2018,Limited liability enterprise,63525,12945,21063,21062,0.331570248,0.331554506
+MT,2018,"Partnership, co-operatives, associations, etc.",50,2008,2,2,0.04,0.04
+MT,2019,Limited liability enterprise,55774,12765,18722,18719,0.335676121,0.335622333
+MT,2019,"Partnership, co-operatives, associations, etc.",50,1753,0,0,0,0
+MT,2020,Limited liability enterprise,57005,12994,6666,6661,0.116937111,0.116849399
+MT,2020,"Partnership, co-operatives, associations, etc.",50,1745,1,1,0.02,0.02
+MT,2021,Limited liability enterprise,58898,NA,176,170,0.002988217,0.002886346
+MT,2021,"Partnership, co-operatives, associations, etc.",50,NA,2,2,0.04,0.04
+MT,2022,Limited liability enterprise,53582,NA,1,1,1.87E-05,1.87E-05
+MT,2022,"Partnership, co-operatives, associations, etc.",50,NA,0,0,0,0
+NL,2010,Limited liability enterprise,767239,248326,639101,12321,0.832988156,0.016058881
+NL,2010,"Partnership, co-operatives, associations, etc.",271944,157782,3277,235,0.012050275,0.000864149
+NL,2010,Sole proprietorship,956381,564350,12,0,1.25E-05,0
+NL,2011,Limited liability enterprise,797187,254847,656444,12227,0.823450458,0.015337681
+NL,2011,"Partnership, co-operatives, associations, etc.",277944,159625,3638,262,0.013088968,0.000942636
+NL,2011,Sole proprietorship,1015989,598783,3,1,2.95E-06,9.84E-07
+NL,2012,Limited liability enterprise,827065,257479,670827,12036,0.811093445,0.014552665
+NL,2012,"Partnership, co-operatives, associations, etc.",275215,162178,4004,254,0.014548626,0.000922915
+NL,2012,Sole proprietorship,1030339,621094,1,0,9.71E-07,0
+NL,2013,Limited liability enterprise,864692,262525,686652,11726,0.794100096,0.013560898
+NL,2013,"Partnership, co-operatives, associations, etc.",274666,160670,4306,275,0.015677223,0.001001216
+NL,2013,Sole proprietorship,1076414,628234,2,0,1.86E-06,0
+NL,2014,Limited liability enterprise,890913,267546,700229,11528,0.785967878,0.012939535
+NL,2014,"Partnership, co-operatives, associations, etc.",273477,157300,4543,269,0.016612,0.000983629
+NL,2014,Sole proprietorship,1106738,650688,1,0,9.04E-07,0
+NL,2015,Limited liability enterprise,913113,269373,710562,10502,0.778175319,0.011501315
+NL,2015,"Partnership, co-operatives, associations, etc.",273513,158889,5018,281,0.018346477,0.001027373
+NL,2015,Sole proprietorship,1156618,684429,2,0,1.73E-06,0
+NL,2016,Limited liability enterprise,936685,275222,727816,7407,0.77701255,0.007907674
+NL,2016,"Partnership, co-operatives, associations, etc.",274287,160546,5377,178,0.019603554,0.000648955
+NL,2016,Sole proprietorship,1205984,719488,2,0,1.66E-06,0
+NL,2017,Limited liability enterprise,965366,279378,722328,5822,0.748242635,0.006030873
+NL,2017,"Partnership, co-operatives, associations, etc.",267765,159008,4977,142,0.018587194,0.000530316
+NL,2017,Sole proprietorship,1245334,742340,1,0,8.03E-07,0
+NL,2018,Limited liability enterprise,994481,287706,727973,5549,0.73201298,0.005579795
+NL,2018,"Partnership, co-operatives, associations, etc.",266893,165397,4894,130,0.018336937,0.000487087
+NL,2018,Sole proprietorship,1315619,791307,1,0,7.60E-07,0
+NL,2019,Limited liability enterprise,1021841,295787,746838,5799,0.73087496,0.005675051
+NL,2019,"Partnership, co-operatives, associations, etc.",266965,169213,4844,147,0.018144701,0.000550634
+NL,2019,Sole proprietorship,1401337,850750,1,0,7.14E-07,0
+NL,2020,Limited liability enterprise,1053181,303548,707670,5526,0.671935783,0.005246961
+NL,2020,"Partnership, co-operatives, associations, etc.",267303,172299,4494,134,0.016812381,0.000501304
+NL,2020,Sole proprietorship,1485194,907977,6,5,4.04E-06,3.37E-06
+NL,2021,Limited liability enterprise,1093570,NA,146251,1395,0.133737209,0.001275639
+NL,2021,"Partnership, co-operatives, associations, etc.",265829,NA,1026,46,0.003859624,0.000173044
+NL,2021,Sole proprietorship,1550317,NA,0,0,0,0
+NL,2022,Limited liability enterprise,1083281,NA,188,22,0.000173547,2.03E-05
+NL,2022,"Partnership, co-operatives, associations, etc.",250809,NA,1,1,3.99E-06,3.99E-06
+NL,2022,Sole proprietorship,1550528,NA,0,0,0,0
+NO,2010,Limited liability enterprise,200821,138614,202130,202129,1.006518243,1.006513263
+NO,2010,"Partnership, co-operatives, associations, etc.",22286,21130,3602,3602,0.161626133,0.161626133
+NO,2010,Sole proprietorship,480030,109205,3106,3106,0.006470429,0.006470429
+NO,2011,Limited liability enterprise,208178,144563,208017,208016,0.999226623,0.99922182
+NO,2011,"Partnership, co-operatives, associations, etc.",22307,21097,3557,3557,0.159456673,0.159456673
+NO,2011,Sole proprietorship,508136,109116,3021,3021,0.005945259,0.005945259
+NO,2012,Limited liability enterprise,224930,151680,222784,222783,0.990459254,0.990454808
+NO,2012,"Partnership, co-operatives, associations, etc.",22187,19528,3589,3589,0.161761392,0.161761392
+NO,2012,Sole proprietorship,536299,107829,2923,2923,0.005450318,0.005450318
+NO,2013,Limited liability enterprise,242308,164993,236313,236312,0.975258762,0.975254635
+NO,2013,"Partnership, co-operatives, associations, etc.",21693,17744,3597,3597,0.165813857,0.165813857
+NO,2013,Sole proprietorship,554750,105655,2774,2774,0.005000451,0.005000451
+NO,2014,Limited liability enterprise,257874,169095,249499,249498,0.967522899,0.967519021
+NO,2014,"Partnership, co-operatives, associations, etc.",20378,15721,3551,3551,0.174256551,0.174256551
+NO,2014,Sole proprietorship,569624,103842,2672,2672,0.004690814,0.004690814
+NO,2015,Limited liability enterprise,274164,175253,262560,262560,0.957674968,0.957674968
+NO,2015,"Partnership, co-operatives, associations, etc.",20206,14116,3477,3477,0.172077601,0.172077601
+NO,2015,Sole proprietorship,586251,105835,2533,2533,0.004320675,0.004320675
+NO,2016,Limited liability enterprise,290312,182576,276551,276551,0.952599273,0.952599273
+NO,2016,"Partnership, co-operatives, associations, etc.",20119,13873,3238,3238,0.160942393,0.160942393
+NO,2016,Sole proprietorship,594478,100468,2517,2517,0.004233967,0.004233967
+NO,2017,Limited liability enterprise,310228,187324,289856,289855,0.934332169,0.934328945
+NO,2017,"Partnership, co-operatives, associations, etc.",20103,12143,3019,3019,0.150176591,0.150176591
+NO,2017,Sole proprietorship,607015,98640,2336,2336,0.00384834,0.00384834
+NO,2018,Limited liability enterprise,326381,190079,303025,303024,0.928439462,0.928436398
+NO,2018,"Partnership, co-operatives, associations, etc.",19712,10650,2872,2872,0.145698052,0.145698052
+NO,2018,Sole proprietorship,617324,96869,2286,2286,0.00370308,0.00370308
+NO,2019,Limited liability enterprise,342434,189964,315163,315161,0.920361296,0.920355455
+NO,2019,"Partnership, co-operatives, associations, etc.",19337,10127,2762,2762,0.14283498,0.14283498
+NO,2019,Sole proprietorship,588900,95091,2183,2183,0.003706911,0.003706911
+NO,2020,Limited liability enterprise,360336,195363,329101,329100,0.913317015,0.91331424
+NO,2020,"Partnership, co-operatives, associations, etc.",19051,9376,2665,2665,0.13988767,0.13988767
+NO,2020,Sole proprietorship,476011,93968,2043,2043,0.004291918,0.004291918
+NO,2021,Limited liability enterprise,380814,NA,129311,129308,0.339564722,0.339556844
+NO,2021,"Partnership, co-operatives, associations, etc.",18568,NA,1083,1083,0.058326153,0.058326153
+NO,2021,Sole proprietorship,469276,NA,1289,1289,0.002746784,0.002746784
+NO,2022,Limited liability enterprise,380554,NA,34,34,8.93E-05,8.93E-05
+NO,2022,"Partnership, co-operatives, associations, etc.",18007,NA,1,1,5.55E-05,5.55E-05
+NO,2022,Sole proprietorship,455001,NA,0,0,0,0
+PL,2010,Limited liability enterprise,184804,123207,65319,66387,0.353450142,0.359229237
+PL,2010,"Partnership, co-operatives, associations, etc.",149977,41727,14133,15280,0.094234449,0.101882289
+PL,2010,Sole proprietorship,896006,1792179,370,396,0.000412944,0.000441961
+PL,2011,Limited liability enterprise,204413,131906,70337,70606,0.344092597,0.34540856
+PL,2011,"Partnership, co-operatives, associations, etc.",156544,43814,15300,16343,0.0977361,0.104398763
+PL,2011,Sole proprietorship,936496,1808011,433,463,0.000462362,0.000494396
+PL,2012,Limited liability enterprise,228464,140880,81904,81342,0.358498494,0.356038588
+PL,2012,"Partnership, co-operatives, associations, etc.",166644,45814,17288,18228,0.103742109,0.109382876
+PL,2012,Sole proprietorship,1046685,1803185,478,523,0.00045668,0.000499673
+PL,2013,Limited liability enterprise,256519,155002,85724,83621,0.334181873,0.32598365
+PL,2013,"Partnership, co-operatives, associations, etc.",181551,48391,17915,19097,0.098677507,0.105188074
+PL,2013,Sole proprietorship,1213018,1811856,562,599,0.000463307,0.00049381
+PL,2014,Limited liability enterprise,282622,164195,91724,89138,0.324546568,0.315396537
+PL,2014,"Partnership, co-operatives, associations, etc.",190333,49878,19295,20326,0.101374959,0.106791781
+PL,2014,Sole proprietorship,1390416,1811197,634,676,0.000455979,0.000486185
+PL,2015,Limited liability enterprise,321321,176573,94879,92163,0.295277931,0.286825324
+PL,2015,"Partnership, co-operatives, associations, etc.",200671,52498,20300,21394,0.101160606,0.106612316
+PL,2015,Sole proprietorship,1589893,1830896,845,918,0.000531482,0.000577397
+PL,2016,Limited liability enterprise,362203,186763,83252,85233,0.229849007,0.235318316
+PL,2016,"Partnership, co-operatives, associations, etc.",211679,52454,19907,21464,0.094043339,0.101398816
+PL,2016,Sole proprietorship,1776164,1776289,659,704,0.000371024,0.00039636
+PL,2017,Limited liability enterprise,397319,195813,170502,157530,0.429131252,0.396482423
+PL,2017,"Partnership, co-operatives, associations, etc.",218433,52323,31940,33116,0.146223327,0.151607129
+PL,2017,Sole proprietorship,1819027,1835418,685,732,0.000376575,0.000402413
+PL,2018,Limited liability enterprise,409171,181644,154115,160471,0.376651816,0.392185663
+PL,2018,"Partnership, co-operatives, associations, etc.",212394,58309,30353,33751,0.142908933,0.158907502
+PL,2018,Sole proprietorship,1510352,1761973,662,707,0.000438308,0.000468103
+PL,2019,Limited liability enterprise,428047,184941,154084,166200,0.359969816,0.388275119
+PL,2019,"Partnership, co-operatives, associations, etc.",212584,60326,31080,35573,0.146201031,0.167336206
+PL,2019,Sole proprietorship,1411514,1818922,654,690,0.000463332,0.000488837
+PL,2020,Limited liability enterprise,445879,190593,147184,161562,0.330098524,0.362344941
+PL,2020,"Partnership, co-operatives, associations, etc.",214238,61512,28752,32566,0.134205883,0.152008514
+PL,2020,Sole proprietorship,1388356,1855789,563,590,0.000405516,0.000424963
+PL,2021,Limited liability enterprise,480040,NA,18408,19269,0.038346804,0.040140405
+PL,2021,"Partnership, co-operatives, associations, etc.",211894,NA,3857,4260,0.018202497,0.020104392
+PL,2021,Sole proprietorship,1388354,NA,95,98,6.84E-05,7.06E-05
+PL,2022,Limited liability enterprise,468854,NA,2,2,4.27E-06,4.27E-06
+PL,2022,"Partnership, co-operatives, associations, etc.",207393,NA,0,0,0,0
+PL,2022,Sole proprietorship,1388318,NA,0,0,0,0
+PT,2010,Limited liability enterprise,278464,310650,326913,280182,1.173986584,1.006169559
+PT,2010,"Partnership, co-operatives, associations, etc.",3541,7395,74,58,0.020898051,0.016379554
+PT,2011,Limited liability enterprise,301423,310356,323170,275843,1.072147779,0.915135872
+PT,2011,"Partnership, co-operatives, associations, etc.",3630,7014,80,70,0.022038567,0.019283747
+PT,2012,Limited liability enterprise,324031,304169,331538,277324,1.023167536,0.855856384
+PT,2012,"Partnership, co-operatives, associations, etc.",3720,6559,86,75,0.02311828,0.02016129
+PT,2013,Limited liability enterprise,350563,303491,340135,281507,0.970253564,0.803014009
+PT,2013,"Partnership, co-operatives, associations, etc.",3833,6384,81,70,0.021132272,0.018262458
+PT,2014,Limited liability enterprise,374738,308235,348017,288505,0.928694181,0.769884559
+PT,2014,"Partnership, co-operatives, associations, etc.",3991,6313,75,66,0.018792283,0.016537209
+PT,2015,Limited liability enterprise,380932,315050,358136,296978,0.940157298,0.779608959
+PT,2015,"Partnership, co-operatives, associations, etc.",4102,6130,77,59,0.018771331,0.014383228
+PT,2016,Limited liability enterprise,390266,321977,366939,305677,0.940227947,0.783252961
+PT,2016,"Partnership, co-operatives, associations, etc.",4197,6022,76,60,0.018108173,0.014295926
+PT,2017,Limited liability enterprise,407104,333360,378500,315456,0.929737856,0.774878164
+PT,2017,"Partnership, co-operatives, associations, etc.",4264,5927,76,57,0.01782364,0.01336773
+PT,2018,Limited liability enterprise,426480,349252,391654,326890,0.918340837,0.766483774
+PT,2018,"Partnership, co-operatives, associations, etc.",4272,5864,58,44,0.013576779,0.010299625
+PT,2019,Limited liability enterprise,450264,370978,403854,339591,0.896927136,0.7542042
+PT,2019,"Partnership, co-operatives, associations, etc.",4266,5921,59,42,0.013830286,0.009845288
+PT,2020,Limited liability enterprise,460906,377670,407783,342211,0.884742225,0.742474604
+PT,2020,"Partnership, co-operatives, associations, etc.",4272,8739,49,38,0.011470037,0.008895131
+PT,2021,Limited liability enterprise,472960,NA,1055,896,0.002230633,0.001894452
+PT,2021,"Partnership, co-operatives, associations, etc.",4310,NA,1,1,0.000232019,0.000232019
+PT,2022,Limited liability enterprise,468008,NA,0,0,0,0
+PT,2022,"Partnership, co-operatives, associations, etc.",4315,NA,0,0,0,0
+RO,2010,Limited liability enterprise,729200,445868,486878,486875,0.667687877,0.667683763
+RO,2010,"Partnership, co-operatives, associations, etc.",5867,4300,3954,3954,0.673938981,0.673938981
+RO,2010,Sole proprietorship,243353,0,4,4,1.64E-05,1.64E-05
+RO,2011,Limited liability enterprise,791774,402048,520635,520633,0.65755506,0.657552534
+RO,2011,"Partnership, co-operatives, associations, etc.",6006,3827,3937,3937,0.655511156,0.655511156
+RO,2011,Sole proprietorship,305814,203952,6,6,1.96E-05,1.96E-05
+RO,2012,Limited liability enterprise,854077,425309,550980,550978,0.645117478,0.645115136
+RO,2012,"Partnership, co-operatives, associations, etc.",6153,3801,3963,3963,0.64407606,0.64407606
+RO,2012,Sole proprietorship,365153,218215,4,4,1.10E-05,1.10E-05
+RO,2013,Limited liability enterprise,871933,428611,613032,613028,0.703072369,0.703067782
+RO,2013,"Partnership, co-operatives, associations, etc.",5956,3637,4458,4458,0.748488919,0.748488919
+RO,2013,Sole proprietorship,401722,257735,2,2,4.98E-06,4.98E-06
+RO,2014,Limited liability enterprise,886526,429611,631904,631897,0.712786765,0.712778869
+RO,2014,"Partnership, co-operatives, associations, etc.",5844,3453,4421,4421,0.756502396,0.756502396
+RO,2014,Sole proprietorship,422841,263078,2,2,4.73E-06,4.73E-06
+RO,2015,Limited liability enterprise,802409,433603,634120,634115,0.790270299,0.790264067
+RO,2015,"Partnership, co-operatives, associations, etc.",4873,3336,4170,4170,0.855735686,0.855735686
+RO,2015,Sole proprietorship,431956,258169,0,0,0,0
+RO,2016,Limited liability enterprise,839111,466683,650392,650387,0.775096501,0.775090542
+RO,2016,"Partnership, co-operatives, associations, etc.",4930,3254,4013,4013,0.813995943,0.813995943
+RO,2016,Sole proprietorship,437337,247451,2,2,4.57E-06,4.57E-06
+RO,2017,Limited liability enterprise,900792,485212,682663,682661,0.757847539,0.757845318
+RO,2017,"Partnership, co-operatives, associations, etc.",4932,3119,3868,3867,0.784266018,0.78406326
+RO,2017,Sole proprietorship,424171,245450,0,0,0,0
+RO,2018,Limited liability enterprise,959387,504007,700962,700955,0.730635291,0.730627995
+RO,2018,"Partnership, co-operatives, associations, etc.",5089,3006,3761,3761,0.739044999,0.739044999
+RO,2018,Sole proprietorship,434229,241213,0,0,0,0
+RO,2019,Limited liability enterprise,1014288,513921,719914,719907,0.709772767,0.709765865
+RO,2019,"Partnership, co-operatives, associations, etc.",5149,2845,3608,3608,0.700718586,0.700718586
+RO,2019,Sole proprietorship,433966,231495,0,0,0,0
+RO,2020,Limited liability enterprise,1067138,542204,763284,763277,0.715262693,0.715256134
+RO,2020,"Partnership, co-operatives, associations, etc.",5242,2820,3652,3652,0.696680656,0.696680656
+RO,2020,Sole proprietorship,416819,242211,0,0,0,0
+RO,2021,Limited liability enterprise,1145462,NA,301,293,0.000262776,0.000255792
+RO,2021,"Partnership, co-operatives, associations, etc.",5963,NA,0,0,0,0
+RO,2021,Sole proprietorship,443528,NA,0,0,0,0
+RO,2022,Limited liability enterprise,1138860,NA,0,0,0,0
+RO,2022,"Partnership, co-operatives, associations, etc.",5891,NA,0,0,0,0
+RO,2022,Sole proprietorship,431492,NA,0,0,0,0
+RS,2010,Limited liability enterprise,90013,NA,80980,80980,0.899647829,0.899647829
+RS,2010,"Partnership, co-operatives, associations, etc.",4261,NA,3474,3474,0.815301572,0.815301572
+RS,2010,Sole proprietorship,186183,NA,19472,19472,0.104585274,0.104585274
+RS,2011,Limited liability enterprise,97968,NA,14502,14502,0.148027927,0.148027927
+RS,2011,"Partnership, co-operatives, associations, etc.",4346,NA,351,351,0.080763921,0.080763921
+RS,2011,Sole proprietorship,211794,NA,385,385,0.001817804,0.001817804
+RS,2012,Limited liability enterprise,105346,NA,36556,36556,0.347008904,0.347008904
+RS,2012,"Partnership, co-operatives, associations, etc.",4422,NA,1019,1019,0.230438716,0.230438716
+RS,2012,Sole proprietorship,226870,NA,5463,5463,0.02407987,0.02407987
+RS,2013,Limited liability enterprise,112805,NA,68764,68764,0.609582909,0.609582909
+RS,2013,"Partnership, co-operatives, associations, etc.",4497,NA,2385,2385,0.530353569,0.530353569
+RS,2013,Sole proprietorship,241357,NA,4864,4864,0.02015272,0.02015272
+RS,2014,Limited liability enterprise,120159,NA,66282,66282,0.551619105,0.551619105
+RS,2014,"Partnership, co-operatives, associations, etc.",4554,NA,2270,2270,0.49846289,0.49846289
+RS,2014,Sole proprietorship,258709,NA,75,75,0.000289901,0.000289901
+RS,2015,Limited liability enterprise,127604,NA,61954,61952,0.485517695,0.485502022
+RS,2015,"Partnership, co-operatives, associations, etc.",4635,NA,1594,1594,0.34390507,0.34390507
+RS,2015,Sole proprietorship,286067,NA,128,128,0.000447448,0.000447448
+RS,2016,Limited liability enterprise,135569,NA,85227,85227,0.62866142,0.62866142
+RS,2016,"Partnership, co-operatives, associations, etc.",4690,NA,925,925,0.197228145,0.197228145
+RS,2016,Sole proprietorship,312619,NA,66,66,0.00021112,0.00021112
+RS,2017,Limited liability enterprise,143523,1455,86735,86735,0.604328226,0.604328226
+RS,2017,"Partnership, co-operatives, associations, etc.",4871,119773,2196,2196,0.450831451,0.450831451
+RS,2017,Sole proprietorship,315972,219310,16935,16935,0.053596521,0.053596521
+RS,2018,Limited liability enterprise,151317,1485,88584,88584,0.585420012,0.585420012
+RS,2018,"Partnership, co-operatives, associations, etc.",5014,148925,2176,2176,0.433984842,0.433984842
+RS,2018,Sole proprietorship,315904,233138,17932,17932,0.05676408,0.05676408
+RS,2019,Limited liability enterprise,159596,140908,89591,89591,0.561361187,0.561361187
+RS,2019,"Partnership, co-operatives, associations, etc.",5311,1804,2215,2215,0.417058934,0.417058934
+RS,2019,Sole proprietorship,315780,261333,102277,102277,0.323886883,0.323886883
+RS,2020,Limited liability enterprise,166975,119281,91855,91855,0.550112292,0.550112292
+RS,2020,"Partnership, co-operatives, associations, etc.",5379,2296,2158,2158,0.401189812,0.401189812
+RS,2020,Sole proprietorship,326741,264685,105914,105914,0.324152769,0.324152769
+RS,2021,Limited liability enterprise,164729,NA,236,229,0.001432656,0.001390162
+RS,2021,"Partnership, co-operatives, associations, etc.",5169,NA,1,1,0.000193461,0.000193461
+RS,2021,Sole proprietorship,326674,NA,0,0,0,0
+RS,2022,Limited liability enterprise,164174,NA,0,0,0,0
+RS,2022,"Partnership, co-operatives, associations, etc.",5166,NA,0,0,0,0
+RS,2022,Sole proprietorship,326536,NA,0,0,0,0
+SE,2010,Limited liability enterprise,341460,284463,276799,278163,0.810633749,0.814628361
+SE,2010,"Partnership, co-operatives, associations, etc.",75227,83164,2,2,2.66E-05,2.66E-05
+SE,2010,Sole proprietorship,351962,299794,0,0,0,0
+SE,2011,Limited liability enterprise,382910,312293,281015,283638,0.733893082,0.740743256
+SE,2011,"Partnership, co-operatives, associations, etc.",79808,86836,2,2,2.51E-05,2.51E-05
+SE,2011,Sole proprietorship,372637,316750,0,0,0,0
+SE,2012,Limited liability enterprise,420682,330449,307416,298735,0.730756248,0.710120709
+SE,2012,"Partnership, co-operatives, associations, etc.",84264,85795,2,2,2.37E-05,2.37E-05
+SE,2012,Sole proprietorship,396093,319868,0,0,0,0
+SE,2013,Limited liability enterprise,450487,347015,311132,310046,0.690657,0.688246276
+SE,2013,"Partnership, co-operatives, associations, etc.",85303,66595,2,2,2.34E-05,2.34E-05
+SE,2013,Sole proprietorship,421763,305895,0,0,0,0
+SE,2014,Limited liability enterprise,476956,362135,325245,325562,0.681918248,0.68258288
+SE,2014,"Partnership, co-operatives, associations, etc.",83776,64714,2,2,2.39E-05,2.39E-05
+SE,2014,Sole proprietorship,452707,300409,0,0,0,0
+SE,2015,Limited liability enterprise,506592,380007,344849,345650,0.680723343,0.682304498
+SE,2015,"Partnership, co-operatives, associations, etc.",81630,62073,4,4,4.90E-05,4.90E-05
+SE,2015,Sole proprietorship,475256,298102,0,0,0,0
+SE,2016,Limited liability enterprise,541046,401667,429532,427024,0.793891832,0.789256366
+SE,2016,"Partnership, co-operatives, associations, etc.",79888,60025,4,4,5.01E-05,5.01E-05
+SE,2016,Sole proprietorship,499501,296948,0,0,0,0
+SE,2017,Limited liability enterprise,572143,420421,474357,469013,0.829088182,0.81974786
+SE,2017,"Partnership, co-operatives, associations, etc.",78559,58406,2,2,2.55E-05,2.55E-05
+SE,2017,Sole proprietorship,526121,291085,0,0,0,0
+SE,2018,Limited liability enterprise,596936,438427,502304,498445,0.841470442,0.835005763
+SE,2018,"Partnership, co-operatives, associations, etc.",81146,56406,2,2,2.46E-05,2.46E-05
+SE,2018,Sole proprietorship,556874,284287,0,0,0,0
+SE,2019,Limited liability enterprise,613978,456366,529650,528732,0.862653059,0.861157892
+SE,2019,"Partnership, co-operatives, associations, etc.",83492,55135,2,2,2.40E-05,2.40E-05
+SE,2019,Sole proprietorship,593869,282203,0,0,0,0
+SE,2020,Limited liability enterprise,646348,478737,557323,557118,0.8622646,0.861947434
+SE,2020,"Partnership, co-operatives, associations, etc.",85070,53204,2,2,2.35E-05,2.35E-05
+SE,2020,Sole proprietorship,637412,279285,0,0,0,0
+SE,2021,Limited liability enterprise,677469,NA,238637,238537,0.352247852,0.352100244
+SE,2021,"Partnership, co-operatives, associations, etc.",86331,NA,1,1,1.16E-05,1.16E-05
+SE,2021,Sole proprietorship,681029,NA,0,0,0,0
+SE,2022,Limited liability enterprise,660510,NA,967,967,0.00146402,0.00146402
+SE,2022,"Partnership, co-operatives, associations, etc.",85982,NA,0,0,0,0
+SE,2022,Sole proprietorship,693173,NA,0,0,0,0
+SI,2010,Limited liability enterprise,53809,47974,49140,42706,0.913230129,0.793659053
+SI,2010,"Partnership, co-operatives, associations, etc.",2490,3056,1523,1302,0.611646586,0.522891566
+SI,2010,Sole proprietorship,74607,72437,61852,60163,0.82903749,0.806398863
+SI,2011,Limited liability enterprise,57774,49743,54104,46496,0.936476616,0.804791082
+SI,2011,"Partnership, co-operatives, associations, etc.",2505,2822,1650,1362,0.658682635,0.543712575
+SI,2011,Sole proprietorship,79789,72848,71725,69334,0.898933437,0.8689669
+SI,2012,Limited liability enterprise,62027,51763,57003,48801,0.919003015,0.786770277
+SI,2012,"Partnership, co-operatives, associations, etc.",2515,2621,1407,1135,0.55944334,0.451292247
+SI,2012,Sole proprietorship,85275,73704,71068,68941,0.833397831,0.808454999
+SI,2013,Limited liability enterprise,65476,53633,55654,48241,0.849990836,0.73677378
+SI,2013,"Partnership, co-operatives, associations, etc.",2370,2461,1124,916,0.474261603,0.38649789
+SI,2013,Sole proprietorship,89640,78507,59781,58439,0.666900937,0.651929942
+SI,2014,Limited liability enterprise,68866,55188,61121,52186,0.887535213,0.757790492
+SI,2014,"Partnership, co-operatives, associations, etc.",2208,2321,1115,898,0.504981884,0.406702899
+SI,2014,Sole proprietorship,94589,79929,66583,65200,0.70391906,0.68929791
+SI,2015,Limited liability enterprise,71657,56365,62859,53935,0.877220648,0.75268292
+SI,2015,"Partnership, co-operatives, associations, etc.",2052,2158,1005,806,0.489766082,0.392787524
+SI,2015,Sole proprietorship,102702,82595,61317,60130,0.597038032,0.585480322
+SI,2016,Limited liability enterprise,73439,57193,61092,53383,0.831874072,0.726902599
+SI,2016,"Partnership, co-operatives, associations, etc.",1968,2167,876,712,0.445121951,0.361788618
+SI,2016,Sole proprietorship,115779,84091,56912,56065,0.491557191,0.484241529
+SI,2017,Limited liability enterprise,75089,56824,64019,55345,0.852574944,0.73705869
+SI,2017,"Partnership, co-operatives, associations, etc.",1815,2035,802,643,0.441873278,0.354269972
+SI,2017,Sole proprietorship,124901,83991,54195,53520,0.433903652,0.428499372
+SI,2018,Limited liability enterprise,76104,57225,64675,56425,0.849823925,0.741419636
+SI,2018,"Partnership, co-operatives, associations, etc.",1723,1983,759,651,0.440510737,0.377829367
+SI,2018,Sole proprietorship,131819,87195,52917,52225,0.401436819,0.396187196
+SI,2019,Limited liability enterprise,76829,58047,65177,57221,0.848338518,0.744783871
+SI,2019,"Partnership, co-operatives, associations, etc.",1650,1885,713,612,0.432121212,0.370909091
+SI,2019,Sole proprietorship,136874,89796,51123,50529,0.373504099,0.369164341
+SI,2020,Limited liability enterprise,76681,57881,66206,66205,0.863395104,0.863382063
+SI,2020,"Partnership, co-operatives, associations, etc.",1603,1791,690,690,0.43044292,0.43044292
+SI,2020,Sole proprietorship,139198,91243,49394,49394,0.354847052,0.354847052
+SI,2021,Limited liability enterprise,77586,NA,65285,65283,0.841453355,0.841427577
+SI,2021,"Partnership, co-operatives, associations, etc.",1555,NA,579,579,0.372347267,0.372347267
+SI,2021,Sole proprietorship,143272,NA,48368,48368,0.337595622,0.337595622
+SI,2022,Limited liability enterprise,76050,NA,0,0,0,0
+SI,2022,"Partnership, co-operatives, associations, etc.",1484,NA,0,0,0,0
+SI,2022,Sole proprietorship,141938,NA,0,0,0,0
+SK,2010,Limited liability enterprise,124635,112399,119825,112488,0.961407309,0.902539415
+SK,2010,"Partnership, co-operatives, associations, etc.",1937,2678,1724,1623,0.890036138,0.83789365
+SK,2010,Sole proprietorship,191260,259037,211,85,0.00110321,0.000444421
+SK,2011,Limited liability enterprise,140317,133494,137989,123695,0.983408995,0.881539657
+SK,2011,"Partnership, co-operatives, associations, etc.",2099,4720,1863,1682,0.887565507,0.801333969
+SK,2011,Sole proprietorship,202623,283695,112,64,0.000552751,0.000315858
+SK,2012,Limited liability enterprise,157200,124693,153443,130610,0.976100509,0.830852417
+SK,2012,"Partnership, co-operatives, associations, etc.",2263,4524,1982,1713,0.875828546,0.756959788
+SK,2012,Sole proprietorship,213859,275152,55,50,0.000257179,0.000233799
+SK,2013,Limited liability enterprise,180308,134049,170061,134018,0.943169466,0.743272622
+SK,2013,"Partnership, co-operatives, associations, etc.",2425,1457,2079,1639,0.857319588,0.675876289
+SK,2013,Sole proprietorship,228015,263389,22,15,9.65E-05,6.58E-05
+SK,2014,Limited liability enterprise,190851,144215,175616,91263,0.920173329,0.478189792
+SK,2014,"Partnership, co-operatives, associations, etc.",2578,1711,2121,1414,0.822730799,0.548487199
+SK,2014,Sole proprietorship,243781,292141,17,11,6.97E-05,4.51E-05
+SK,2015,Limited liability enterprise,198812,162703,175361,80505,0.882044343,0.404930286
+SK,2015,"Partnership, co-operatives, associations, etc.",2587,1915,2074,1283,0.801700812,0.495941245
+SK,2015,Sole proprietorship,243118,281853,4,1,1.65E-05,4.11E-06
+SK,2016,Limited liability enterprise,214576,171699,183566,71823,0.85548244,0.334720565
+SK,2016,"Partnership, co-operatives, associations, etc.",2627,1960,2021,1176,0.769318614,0.447658927
+SK,2016,Sole proprietorship,264609,280532,3,1,1.13E-05,3.78E-06
+SK,2017,Limited liability enterprise,232905,180428,193912,66480,0.832579807,0.285438269
+SK,2017,"Partnership, co-operatives, associations, etc.",2683,2012,2052,1136,0.764815505,0.423406634
+SK,2017,Sole proprietorship,293990,298949,2,1,6.80E-06,3.40E-06
+SK,2018,Limited liability enterprise,250681,188748,206562,64416,0.824003415,0.25696403
+SK,2018,"Partnership, co-operatives, associations, etc.",2780,1992,2151,1144,0.773741007,0.411510791
+SK,2018,Sole proprietorship,322133,311323,1,0,3.10E-06,0
+SK,2019,Limited liability enterprise,269921,197370,215611,63471,0.79879298,0.23514658
+SK,2019,"Partnership, co-operatives, associations, etc.",2870,1909,2172,1130,0.756794425,0.393728223
+SK,2019,Sole proprietorship,356851,322374,1,0,2.80E-06,0
+SK,2020,Limited liability enterprise,287257,204124,223611,62126,0.778435338,0.216273233
+SK,2020,"Partnership, co-operatives, associations, etc.",2924,1765,2149,1114,0.73495212,0.380984952
+SK,2020,Sole proprietorship,390423,321787,1,0,2.56E-06,0
+SK,2021,Limited liability enterprise,305786,NA,146612,39081,0.479459491,0.127805066
+SK,2021,"Partnership, co-operatives, associations, etc.",3000,NA,1415,778,0.471666667,0.259333333
+SK,2021,Sole proprietorship,399906,NA,0,0,0,0
+SK,2022,Limited liability enterprise,314845,NA,187,118,0.000593943,0.000374788
+SK,2022,"Partnership, co-operatives, associations, etc.",3030,NA,3,2,0.000990099,0.000660066
+SK,2022,Sole proprietorship,400253,NA,0,0,0,0
+TR,2010,Limited liability enterprise,241215,465482,15899,300,0.065912153,0.001243704
+TR,2010,"Partnership, co-operatives, associations, etc.",37007,51616,153,0,0.004134353,0
+TR,2010,Sole proprietorship,134523,1986101,661,0,0.004913658,0
+TR,2011,Limited liability enterprise,275150,484362,19846,325,0.07212793,0.001181174
+TR,2011,"Partnership, co-operatives, associations, etc.",37210,52911,209,0,0.00561677,0
+TR,2011,Sole proprietorship,168656,2019782,1146,0,0.006794896,0
+TR,2012,Limited liability enterprise,300233,489502,22044,342,0.073422975,0.001139115
+TR,2012,"Partnership, co-operatives, associations, etc.",37546,55419,254,0,0.006765035,0
+TR,2012,Sole proprietorship,205267,2073598,1686,0,0.008213692,0
+TR,2013,Limited liability enterprise,303014,496269,22333,353,0.073702865,0.001164963
+TR,2013,"Partnership, co-operatives, associations, etc.",37137,56599,248,0,0.006677976,0
+TR,2013,Sole proprietorship,198938,2114278,1858,0,0.009339593,0
+TR,2014,Limited liability enterprise,300319,510708,22762,350,0.07579274,0.001165427
+TR,2014,"Partnership, co-operatives, associations, etc.",35089,55083,249,0,0.007096241,0
+TR,2014,Sole proprietorship,193218,2138039,1780,0,0.009212392,0
+TR,2015,Limited liability enterprise,287358,532754,22996,358,0.080025613,0.001245833
+TR,2015,"Partnership, co-operatives, associations, etc.",34207,55763,230,0,0.00672377,0
+TR,2015,Sole proprietorship,185924,2159527,1648,0,0.008863837,0
+TR,2016,Limited liability enterprise,285318,555501,22991,362,0.080580265,0.00126876
+TR,2016,"Partnership, co-operatives, associations, etc.",33300,56608,232,0,0.006966967,0
+TR,2016,Sole proprietorship,181591,2174457,1571,0,0.00865131,0
+TR,2017,Limited liability enterprise,284002,584773,23791,370,0.083770537,0.001302808
+TR,2017,"Partnership, co-operatives, associations, etc.",32767,57390,214,0,0.006530961,0
+TR,2017,Sole proprietorship,178142,2246164,1351,0,0.007583838,0
+TR,2018,Limited liability enterprise,280910,617580,21392,384,0.076152504,0.001366986
+TR,2018,"Partnership, co-operatives, associations, etc.",32378,56846,165,0,0.005096053,0
+TR,2018,Sole proprietorship,175381,2249078,1119,0,0.006380395,0
+TR,2019,Limited liability enterprise,279700,645018,17169,380,0.061383625,0.001358598
+TR,2019,"Partnership, co-operatives, associations, etc.",32311,53901,120,0,0.003713905,0
+TR,2019,Sole proprietorship,174983,2279686,593,0,0.003388901,0
+TR,2020,Limited liability enterprise,278326,674751,12758,387,0.045838333,0.001390456
+TR,2020,"Partnership, co-operatives, associations, etc.",32287,53268,73,0,0.002260972,0
+TR,2020,Sole proprietorship,174716,2322837,332,0,0.001900227,0
+TR,2021,Limited liability enterprise,276761,NA,868,410,0.00313628,0.001481423
+TR,2021,"Partnership, co-operatives, associations, etc.",32276,NA,6,0,0.000185897,0
+TR,2021,Sole proprietorship,174542,NA,17,0,9.74E-05,0
+TR,2022,Limited liability enterprise,275392,NA,1,1,3.63E-06,3.63E-06
+TR,2022,"Partnership, co-operatives, associations, etc.",32267,NA,1,0,3.10E-05,0
+TR,2022,Sole proprietorship,174539,NA,0,0,0,0
