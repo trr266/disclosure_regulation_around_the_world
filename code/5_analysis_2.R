@@ -19,6 +19,75 @@ affected_firms$legal_form[affected_firms$legal_form %in% "Sole proprietorship"] 
 
 
 
+######## Share of firms by legal form
+
+df <- affected_firms %>% 
+  filter(year == 2020) %>% 
+  group_by(legal_form) %>%
+  summarize("number_of_firms" = sum(number_firms_eurostat, na.rm =T))
+
+df$number_of_firms[df$legal_form %in% "Limited liability enterprises"]  / sum(df$number_of_firms)
+df$number_of_firms[df$legal_form %in% "Partnerships, co-operatives, associations, etc."]  / sum(df$number_of_firms)
+df$number_of_firms[df$legal_form %in% "Sole proprietorships"]  / sum(df$number_of_firms)
+
+
+
+######## Figure 1
+
+df <- affected_firms %>% 
+  filter(year < 2021) %>% 
+  group_by(year, legal_form) %>%
+  summarize("number_firms_eurostat" = sum(number_firms_eurostat, na.rm =T),
+            "number_bs" = sum(number_balance_sheets, na.rm = T),
+            "number_is" = sum(number_income_statements, na.rm = T))
+
+
+
+df$bs_share <- df$number_bs/df$number_firms_eurostat
+df$is_share <- df$number_is/df$number_firms_eurostat
+df$bs_share[df$bs_share > 1] <- 1
+
+df$year <- as.character(df$year)  
+names(df)[names(df) == 'legal_form'] <- 'Legal Form'
+bs_plot <- ggplot(df, aes(x=year, y=bs_share, group=`Legal Form`)) +
+  geom_point(aes(color = `Legal Form`, shape = `Legal Form`)) + 
+  ylim(0, 1) +
+  xlab("Year") +
+  ylab("Share of fimrs disclosing a balance sheet") +
+  scale_x_discrete(breaks = c("2010", "2012", "2014", "2016", "2018", "2020"))+ 
+  theme(axis.text = element_text(size = 7),
+        axis.title = element_text(size = 7),
+        legend.title = element_text(size = 7),
+        legend.text = element_text(size = 7))
+
+
+is_plot <- ggplot(df, aes(x=year, y=is_share, group=`Legal Form`)) +
+  geom_point(aes(color = `Legal Form`, shape = `Legal Form`)) + 
+  ylim(0, 1) +
+  xlab("Year") +
+  ylab("Share of fimrs disclosing an income statement") +
+  scale_x_discrete(breaks = c("2010", "2012", "2014", "2016", "2018", "2020"))+ 
+  theme(axis.text = element_text(size = 7),
+        axis.title = element_text(size = 7),
+        legend.title = element_text(size = 7),
+        legend.text = element_text(size = 7))
+
+plot1 <- ggarrange(bs_plot, 
+                     is_plot,
+                     nrow = 2,
+                     legend = "right",
+                     common.legend = TRUE) 
+
+
+ggsave("output/plot1.jpeg",
+       width = 16,
+       height = 11,
+       unit = "cm")
+
+
+
+
+
 
 ######## Austria
 
