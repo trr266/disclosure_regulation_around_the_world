@@ -21,11 +21,11 @@ memory.limit(size=50000)
 USE_API <- FALSE
 
 # For local use, you need to set the folder that stores the parquet files
-PARQUET_FOLDER <- "C:/Users/maternaj/Documents/TRR/A01/Repositories/global_transparency/data/parquet_files"
+PARQUET_FOLDER <- "C:/Users/maternaj/Documents/TRR/A01/Repositories/disclosure_regulation_around_the_world/data/raw/parquet_files"
 
 # Load Pfile info
-pfiles_info <- read.csv("data/parquet_files/bvd_parquet_files_info.csv")
-pfiles_schemas <- read.csv("data/parquet_files/bvd_parquet_files_info.csv")
+pfiles_info <- read.csv("data/raw/parquet_files/bvd_parquet_files_info.csv")
+pfiles_schemas <- read.csv("data/raw/parquet_files/bvd_parquet_files_schemas.csv")
 
 
 
