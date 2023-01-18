@@ -8,7 +8,7 @@ Our datasets can be found in the data folder:
 - `data/disclosure_regulation` Data on disclosure regulation in the European Union
 - `data/ifrs_adoption` Data on IFRS adoption around the globe
 
-The output can be found in the output file. The measures have been calculated using the code provided in the 'code' folder:
+The results of analysis 1 as well as all plots from analysis 2 are in the output foler. All codes can be found in the 'code' folder:
 
 - `code/corp_trans_measures/1a_number_firms_eurostat.R` Processes the number of firms by legal form provided by Eurostat
 - `code/corp_trans_measures/1b_number_firms_orbis.R` Estimates the number of 'active' firms in the ORBIS database
@@ -17,6 +17,6 @@ The output can be found in the output file. The measures have been calculated us
 - `code/corp_trans_measures/4_analysis_1.R` Produces the statistics for analysis 1
 - `code/corp_trans_measures/5_analysis_2.R` Produces the plots and statistics for analysis 2
 
-The measures have are based on ORBIS parquet files which ware currently available to TRR 266 members only. 
+The ORBIS data used in the analysis is currently available to TRR 266 members only. 
 
 
