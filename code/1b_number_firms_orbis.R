@@ -215,7 +215,7 @@ number_firms_orbis_natLegForm <- output
 
 
 ####### Get standardized legal form from matching table
-orbis_legal_forms <- read.csv("data/county_info/orbis_legal_forms.csv")
+orbis_legal_forms <- read.csv("data/raw/country_info/orbis_legal_forms.csv")
 number_firms_orbis<- merge(output, orbis_legal_forms, by=c("iso2", "national_legal_form_orbis"), all.x = T)
 
 
