@@ -7,7 +7,7 @@ ctry_profiles            <- read.csv("data/country_info/ctry_profiles.csv")
 number_firms_stat_office <- read.csv("data/country_info/number_firms_stat_office.csv")
 number_firms_orbis       <- read.csv("data/country_info/number_firms_orbis.csv")
 worldbank_data           <- read.csv("data/country_info/worldbank_data.csv")
-
+eu_oecd_ctries           <- read.csv("data/country_info/eu_oecd_ctries.csv")
 
 ###############################################
 # Investigate and clean data
@@ -100,6 +100,18 @@ continent <- df %>%
             "firms_orbis_yes"  = sum(!is.na(number_firms_orbis)),
             "share_office"     = sum(!is.na(number_firms_stat_office)) / length(iso2),
             "share_orbis"      = sum(!is.na(number_firms_orbis)) / length(iso2))
+
+
+oecd_eu <- df %>%
+  filter(iso2 %in% eu_oecd_ctries$iso2) %>%
+  summarize("continent"          = "EU_OECD",
+            "obs" = length(iso2),
+            "firms_office_yes" = sum(!is.na(number_firms_stat_office)),
+            "firms_orbis_yes"  = sum(!is.na(number_firms_orbis)),
+            "share_office"     = sum(!is.na(number_firms_stat_office)) / length(iso2),
+            "share_orbis"      = sum(!is.na(number_firms_orbis)) / length(iso2))
+
+continent <- rbind(continent, oecd_eu)
 
 
 ######## Observations by population

@@ -46,9 +46,9 @@ disconnect_duckdb <- function(con){
 
 
 
-# Load firms with data from eurostat
-number_firms_eurostat <- readRDS("data/generated/number_firms_eurostat.rds")
-ctries                <- unique(number_firms_eurostat$iso2)
+# Load OECD and EU countries
+ctries                <- read.csv("data/country_info/eu_oecd_ctries.csv")
+ctries                <- unique(ctries$iso2)
 
 
 
@@ -222,10 +222,10 @@ number_firms_orbis<- merge(output, orbis_legal_forms, by=c("iso2", "national_leg
 
 ###### Rename legal forms
 number_firms_orbis$legal_form <- NA
-number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Private limited companies"]   <- "Limited liability enterprise"
-number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Public limited companies"]    <- "Limited liability enterprise"
-number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Partnerships"]                <- "Partnership, co-operatives, associations, etc."
-number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Sole traders/proprietorships"]<- "Sole proprietorship"
+number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Private limited companies"]   <- "private_limited_liability"
+number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Public limited companies"]    <- "public_limited_liability"
+number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Partnerships"]                <- "partnerships"
+number_firms_orbis$legal_form[number_firms_orbis$standardised_legal_form_orbis %in% "Sole traders/proprietorships"]<- "sole_proprietorships"
 
 
 ####### Sum by standardized legal form
@@ -240,6 +240,6 @@ number_firms_orbis <- number_firms_orbis[!is.na(number_firms_orbis$legal_form),]
 
 
 ###### Save
-saveRDS(number_firms_orbis, "data/generated/number_firms_orbis.rds")
-saveRDS(output, "data/generated/number_firms_orbis_natLegForm.rds")
+saveRDS(number_firms_orbis, "data/raw/generated/number_firms_orbis.rds")
+saveRDS(output, "data/raw/generated/number_firms_orbis_natLegForm.rds")
 

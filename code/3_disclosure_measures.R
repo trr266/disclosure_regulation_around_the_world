@@ -6,12 +6,14 @@
 ######## Load data
 number_firms_orbis    <- readRDS("data/raw/generated/number_firms_orbis.rds")
 number_firms_eurostat <- readRDS("data/raw/generated/number_firms_eurostat.rds")
+number_firms_worldbank<- readRDS("data/raw/generated/number_firms_worldbank.rds")
 number_bs_orbis       <- readRDS("data/raw/generated/number_bs_orbis.rds")
 number_is_orbis       <- readRDS("data/raw/generated/number_is_orbis.rds")
 
 
 ######## Merge
 disclosure_measures <- merge(number_firms_orbis, number_firms_eurostat, by = c("iso2", "year", "legal_form"), all = T)
+disclosure_measures <- merge(disclosure_measures, number_firms_worldbank, by = c("iso2", "year", "legal_form"), all.x = T)
 disclosure_measures <- merge(disclosure_measures, number_bs_orbis, by = c("iso2", "year", "legal_form"), all.x = T)
 disclosure_measures <- merge(disclosure_measures, number_is_orbis, by = c("iso2", "year", "legal_form"), all.x = T)
 disclosure_measures <- disclosure_measures[disclosure_measures$year > 2009,]

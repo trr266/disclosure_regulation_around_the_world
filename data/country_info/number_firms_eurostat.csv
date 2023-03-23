@@ -1,1269 +1,1269 @@
 "","year","iso2","legal_form","number_firms_eurostat"
-"1",2004,"AT","Limited liability enterprise",62801
-"2",2005,"AT","Limited liability enterprise",65376
-"3",2006,"AT","Limited liability enterprise",68530
-"4",2007,"AT","Limited liability enterprise",79397
-"5",2008,"AT","Limited liability enterprise",82751
-"6",2009,"AT","Limited liability enterprise",85277
-"7",2010,"AT","Limited liability enterprise",87701
-"8",2011,"AT","Limited liability enterprise",87886
-"9",2012,"AT","Limited liability enterprise",89614
-"10",2013,"AT","Limited liability enterprise",93922
-"11",2014,"AT","Limited liability enterprise",96266
-"12",2015,"AT","Limited liability enterprise",98777
-"13",2016,"AT","Limited liability enterprise",99480
-"14",2017,"AT","Limited liability enterprise",100554
-"15",2018,"AT","Limited liability enterprise",102466
-"16",2019,"AT","Limited liability enterprise",104823
-"17",2020,"AT","Limited liability enterprise",110943
-"18",2017,"BA","Limited liability enterprise",32422
-"19",2018,"BA","Limited liability enterprise",32533
-"20",2019,"BA","Limited liability enterprise",32079
-"21",2008,"BE","Limited liability enterprise",306589
-"22",2009,"BE","Limited liability enterprise",354494
-"23",2010,"BE","Limited liability enterprise",365106
-"24",2011,"BE","Limited liability enterprise",376867
-"25",2012,"BE","Limited liability enterprise",382074
-"26",2013,"BE","Limited liability enterprise",380098
-"27",2014,"BE","Limited liability enterprise",382197
-"28",2015,"BE","Limited liability enterprise",386488
-"29",2016,"BE","Limited liability enterprise",399359
-"30",2017,"BE","Limited liability enterprise",409104
-"31",2018,"BE","Limited liability enterprise",398478
-"32",2019,"BE","Limited liability enterprise",416485
-"33",2020,"BE","Limited liability enterprise",430095
-"34",2008,"BG","Limited liability enterprise",140327
-"35",2009,"BG","Limited liability enterprise",183482
-"36",2010,"BG","Limited liability enterprise",193019
-"37",2011,"BG","Limited liability enterprise",200668
-"38",2012,"BG","Limited liability enterprise",214198
-"39",2013,"BG","Limited liability enterprise",226214
-"40",2014,"BG","Limited liability enterprise",237966
-"41",2015,"BG","Limited liability enterprise",250423
-"42",2016,"BG","Limited liability enterprise",264986
-"43",2017,"BG","Limited liability enterprise",271368
-"44",2018,"BG","Limited liability enterprise",281772
-"45",2019,"BG","Limited liability enterprise",285113
-"46",2020,"BG","Limited liability enterprise",282130
-"47",2013,"CH","Limited liability enterprise",195117
-"48",2014,"CH","Limited liability enterprise",200325
-"49",2015,"CH","Limited liability enterprise",206329
-"50",2016,"CH","Limited liability enterprise",210827
-"51",2017,"CH","Limited liability enterprise",216048
-"52",2018,"CH","Limited liability enterprise",219244
-"53",2019,"CH","Limited liability enterprise",224738
-"54",2020,"CH","Limited liability enterprise",228995
-"55",2008,"CY","Limited liability enterprise",31666
-"56",2009,"CY","Limited liability enterprise",31989
-"57",2010,"CY","Limited liability enterprise",31514
-"58",2011,"CY","Limited liability enterprise",32095
-"59",2012,"CY","Limited liability enterprise",31831
-"60",2013,"CY","Limited liability enterprise",30462
-"61",2014,"CY","Limited liability enterprise",30362
-"62",2015,"CY","Limited liability enterprise",30688
-"63",2016,"CY","Limited liability enterprise",31661
-"64",2017,"CY","Limited liability enterprise",33542
-"65",2018,"CY","Limited liability enterprise",32640
-"66",2019,"CY","Limited liability enterprise",37822
-"67",2020,"CY","Limited liability enterprise",38690
-"68",2008,"CZ","Limited liability enterprise",168102
-"69",2009,"CZ","Limited liability enterprise",180965
-"70",2010,"CZ","Limited liability enterprise",193475
-"71",2011,"CZ","Limited liability enterprise",204848
-"72",2012,"CZ","Limited liability enterprise",213828
-"73",2013,"CZ","Limited liability enterprise",220715
-"74",2014,"CZ","Limited liability enterprise",233057
-"75",2015,"CZ","Limited liability enterprise",235940
-"76",2016,"CZ","Limited liability enterprise",247160
-"77",2017,"CZ","Limited liability enterprise",257208
-"78",2018,"CZ","Limited liability enterprise",268640
-"79",2019,"CZ","Limited liability enterprise",279705
-"80",2020,"CZ","Limited liability enterprise",287537
-"81",2008,"DE","Limited liability enterprise",564821
-"82",2009,"DE","Limited liability enterprise",572633
-"83",2010,"DE","Limited liability enterprise",584036
-"84",2011,"DE","Limited liability enterprise",593856
-"85",2012,"DE","Limited liability enterprise",607263
-"86",2013,"DE","Limited liability enterprise",595151
-"87",2014,"DE","Limited liability enterprise",605659
-"88",2015,"DE","Limited liability enterprise",601645
-"89",2016,"DE","Limited liability enterprise",612705
-"90",2017,"DE","Limited liability enterprise",622831
-"91",2018,"DE","Limited liability enterprise",570711
-"92",2019,"DE","Limited liability enterprise",624689
-"93",2020,"DE","Limited liability enterprise",625719
-"94",2009,"DK","Limited liability enterprise",97546
-"95",2010,"DK","Limited liability enterprise",100864
-"96",2011,"DK","Limited liability enterprise",103806
-"97",2012,"DK","Limited liability enterprise",105440
-"98",2013,"DK","Limited liability enterprise",106566
-"99",2014,"DK","Limited liability enterprise",109795
-"100",2015,"DK","Limited liability enterprise",112205
-"101",2016,"DK","Limited liability enterprise",118142
-"102",2017,"DK","Limited liability enterprise",124483
-"103",2018,"DK","Limited liability enterprise",129060
-"104",2019,"DK","Limited liability enterprise",133122
-"105",2020,"DK","Limited liability enterprise",136331
-"106",2008,"EE","Limited liability enterprise",54442
-"107",2009,"EE","Limited liability enterprise",54838
-"108",2010,"EE","Limited liability enterprise",56295
-"109",2011,"EE","Limited liability enterprise",58987
-"110",2012,"EE","Limited liability enterprise",63328
-"111",2013,"EE","Limited liability enterprise",66043
-"112",2014,"EE","Limited liability enterprise",68200
-"113",2015,"EE","Limited liability enterprise",70712
-"114",2016,"EE","Limited liability enterprise",73882
-"115",2017,"EE","Limited liability enterprise",78464
-"116",2018,"EE","Limited liability enterprise",82570
-"117",2019,"EE","Limited liability enterprise",85026
-"118",2020,"EE","Limited liability enterprise",88010
-"119",2015,"GR","Limited liability enterprise",51334
-"120",2016,"GR","Limited liability enterprise",54478
-"121",2017,"GR","Limited liability enterprise",61705
-"122",2018,"GR","Limited liability enterprise",74625
-"123",2019,"GR","Limited liability enterprise",83658
-"124",2020,"GR","Limited liability enterprise",89861
-"125",2008,"ES","Limited liability enterprise",1262226
-"126",2009,"ES","Limited liability enterprise",1235074
-"127",2010,"ES","Limited liability enterprise",1213318
-"128",2011,"ES","Limited liability enterprise",1208308
-"129",2012,"ES","Limited liability enterprise",1209684
-"130",2013,"ES","Limited liability enterprise",1200936
-"131",2014,"ES","Limited liability enterprise",1202427
-"132",2015,"ES","Limited liability enterprise",1202576
-"133",2016,"ES","Limited liability enterprise",1217098
-"134",2017,"ES","Limited liability enterprise",1219112
-"135",2018,"ES","Limited liability enterprise",1192694
-"136",2019,"ES","Limited liability enterprise",1191693
-"137",2020,"ES","Limited liability enterprise",1169237
-"158",2008,"FI","Limited liability enterprise",127300
-"159",2009,"FI","Limited liability enterprise",130599
-"160",2010,"FI","Limited liability enterprise",132630
-"161",2011,"FI","Limited liability enterprise",135504
-"162",2012,"FI","Limited liability enterprise",138397
-"163",2013,"FI","Limited liability enterprise",146530
-"164",2014,"FI","Limited liability enterprise",151177
-"165",2015,"FI","Limited liability enterprise",153515
-"166",2016,"FI","Limited liability enterprise",155173
-"167",2017,"FI","Limited liability enterprise",166507
-"168",2018,"FI","Limited liability enterprise",170038
-"169",2019,"FI","Limited liability enterprise",175742
-"170",2020,"FI","Limited liability enterprise",181789
-"171",2008,"FR","Limited liability enterprise",1231727
-"172",2009,"FR","Limited liability enterprise",1271972
-"173",2010,"FR","Limited liability enterprise",1311570
-"174",2011,"FR","Limited liability enterprise",1355222
-"175",2012,"FR","Limited liability enterprise",1387492
-"176",2013,"FR","Limited liability enterprise",1766882
-"177",2014,"FR","Limited liability enterprise",1844187
-"178",2015,"FR","Limited liability enterprise",1923702
-"179",2016,"FR","Limited liability enterprise",2012871
-"180",2017,"FR","Limited liability enterprise",2118929
-"181",2018,"FR","Limited liability enterprise",2224029
-"182",2019,"FR","Limited liability enterprise",2344125
-"183",2020,"FR","Limited liability enterprise",2447796
-"184",2012,"HR","Limited liability enterprise",89242
-"185",2013,"HR","Limited liability enterprise",89787
-"186",2014,"HR","Limited liability enterprise",87360
-"187",2015,"HR","Limited liability enterprise",90793
-"188",2016,"HR","Limited liability enterprise",95523
-"189",2017,"HR","Limited liability enterprise",100596
-"190",2018,"HR","Limited liability enterprise",107153
-"191",2019,"HR","Limited liability enterprise",108636
-"192",2020,"HR","Limited liability enterprise",107136
-"193",2008,"HU","Limited liability enterprise",187906
-"194",2009,"HU","Limited liability enterprise",201596
-"195",2010,"HU","Limited liability enterprise",216762
-"196",2011,"HU","Limited liability enterprise",231175
-"197",2012,"HU","Limited liability enterprise",237839
-"198",2013,"HU","Limited liability enterprise",235766
-"199",2014,"HU","Limited liability enterprise",235959
-"200",2015,"HU","Limited liability enterprise",237318
-"201",2016,"HU","Limited liability enterprise",229597
-"202",2017,"HU","Limited liability enterprise",221687
-"203",2018,"HU","Limited liability enterprise",239231
-"204",2019,"HU","Limited liability enterprise",244028
-"205",2020,"HU","Limited liability enterprise",243563
-"206",2008,"IE","Limited liability enterprise",94498
-"207",2009,"IE","Limited liability enterprise",99270
-"208",2010,"IE","Limited liability enterprise",97103
-"209",2011,"IE","Limited liability enterprise",94830
-"210",2012,"IE","Limited liability enterprise",94721
-"211",2014,"IE","Limited liability enterprise",98911
-"212",2015,"IE","Limited liability enterprise",104564
-"213",2016,"IE","Limited liability enterprise",109431
-"214",2017,"IE","Limited liability enterprise",118769
-"215",2018,"IE","Limited liability enterprise",123691
-"216",2020,"IE","Limited liability enterprise",133457
-"217",2008,"IS","Limited liability enterprise",13741
-"218",2009,"IS","Limited liability enterprise",14300
-"219",2010,"IS","Limited liability enterprise",14568
-"220",2011,"IS","Limited liability enterprise",14803
-"221",2012,"IS","Limited liability enterprise",15065
-"222",2013,"IS","Limited liability enterprise",15476
-"223",2014,"IS","Limited liability enterprise",16181
-"224",2015,"IS","Limited liability enterprise",16681
-"225",2016,"IS","Limited liability enterprise",17872
-"226",2017,"IS","Limited liability enterprise",19027
-"227",2018,"IS","Limited liability enterprise",19531
-"228",2019,"IS","Limited liability enterprise",20128
-"229",2020,"IS","Limited liability enterprise",20824
-"230",2008,"IT","Limited liability enterprise",715796
-"231",2009,"IT","Limited liability enterprise",715527
-"232",2010,"IT","Limited liability enterprise",736604
-"233",2011,"IT","Limited liability enterprise",764623
-"234",2012,"IT","Limited liability enterprise",768836
-"235",2013,"IT","Limited liability enterprise",795435
-"236",2014,"IT","Limited liability enterprise",795083
-"237",2015,"IT","Limited liability enterprise",811477
-"238",2016,"IT","Limited liability enterprise",844242
-"239",2017,"IT","Limited liability enterprise",869919
-"240",2018,"IT","Limited liability enterprise",895173
-"241",2019,"IT","Limited liability enterprise",915602
-"242",2020,"IT","Limited liability enterprise",925805
-"243",2008,"LT","Limited liability enterprise",50110
-"244",2009,"LT","Limited liability enterprise",52973
-"245",2010,"LT","Limited liability enterprise",55453
-"246",2011,"LT","Limited liability enterprise",58729
-"247",2012,"LT","Limited liability enterprise",65171
-"248",2013,"LT","Limited liability enterprise",60429
-"249",2014,"LT","Limited liability enterprise",66641
-"250",2015,"LT","Limited liability enterprise",68137
-"251",2016,"LT","Limited liability enterprise",71009
-"252",2017,"LT","Limited liability enterprise",69080
-"253",2018,"LT","Limited liability enterprise",71890
-"254",2019,"LT","Limited liability enterprise",75918
-"255",2020,"LT","Limited liability enterprise",78358
-"256",2008,"LU","Limited liability enterprise",20438
-"257",2009,"LU","Limited liability enterprise",21276
-"258",2010,"LU","Limited liability enterprise",22095
-"259",2011,"LU","Limited liability enterprise",22957
-"260",2012,"LU","Limited liability enterprise",23600
-"261",2013,"LU","Limited liability enterprise",24510
-"262",2014,"LU","Limited liability enterprise",25589
-"263",2015,"LU","Limited liability enterprise",26233
-"264",2016,"LU","Limited liability enterprise",26753
-"265",2017,"LU","Limited liability enterprise",27610
-"266",2018,"LU","Limited liability enterprise",28603
-"267",2019,"LU","Limited liability enterprise",29469
-"268",2020,"LU","Limited liability enterprise",29798
-"269",2008,"LV","Limited liability enterprise",55211
-"270",2009,"LV","Limited liability enterprise",55799
-"271",2010,"LV","Limited liability enterprise",57721
-"272",2011,"LV","Limited liability enterprise",63503
-"273",2012,"LV","Limited liability enterprise",69593
-"274",2013,"LV","Limited liability enterprise",73719
-"275",2014,"LV","Limited liability enterprise",77640
-"276",2015,"LV","Limited liability enterprise",81128
-"277",2016,"LV","Limited liability enterprise",83332
-"278",2017,"LV","Limited liability enterprise",82063
-"279",2018,"LV","Limited liability enterprise",82924
-"280",2019,"LV","Limited liability enterprise",82432
-"281",2020,"LV","Limited liability enterprise",81072
-"282",2009,"MK","Limited liability enterprise",49545
-"283",2010,"MK","Limited liability enterprise",50276
-"284",2011,"MK","Limited liability enterprise",50789
-"285",2012,"MK","Limited liability enterprise",49184
-"286",2013,"MK","Limited liability enterprise",48123
-"287",2014,"MK","Limited liability enterprise",47840
-"288",2015,"MK","Limited liability enterprise",47101
-"289",2016,"MK","Limited liability enterprise",47874
-"290",2017,"MK","Limited liability enterprise",47690
-"291",2018,"MK","Limited liability enterprise",48116
-"292",2019,"MK","Limited liability enterprise",48711
-"293",2020,"MK","Limited liability enterprise",48923
-"294",2010,"MT","Limited liability enterprise",10375
-"295",2011,"MT","Limited liability enterprise",10506
-"296",2012,"MT","Limited liability enterprise",10811
-"297",2013,"MT","Limited liability enterprise",10557
-"298",2014,"MT","Limited liability enterprise",11307
-"299",2015,"MT","Limited liability enterprise",12087
-"300",2016,"MT","Limited liability enterprise",12953
-"301",2017,"MT","Limited liability enterprise",13432
-"302",2018,"MT","Limited liability enterprise",12945
-"303",2019,"MT","Limited liability enterprise",12765
-"304",2020,"MT","Limited liability enterprise",12994
-"305",2007,"NL","Limited liability enterprise",223295
-"306",2009,"NL","Limited liability enterprise",248222
-"307",2010,"NL","Limited liability enterprise",248326
-"308",2011,"NL","Limited liability enterprise",254847
-"309",2012,"NL","Limited liability enterprise",257479
-"310",2013,"NL","Limited liability enterprise",262525
-"311",2014,"NL","Limited liability enterprise",267546
-"312",2015,"NL","Limited liability enterprise",269373
-"313",2016,"NL","Limited liability enterprise",275222
-"314",2017,"NL","Limited liability enterprise",279378
-"315",2018,"NL","Limited liability enterprise",287706
-"316",2019,"NL","Limited liability enterprise",295787
-"317",2020,"NL","Limited liability enterprise",303548
-"318",2008,"NO","Limited liability enterprise",137404
-"319",2009,"NO","Limited liability enterprise",139815
-"320",2010,"NO","Limited liability enterprise",138614
-"321",2011,"NO","Limited liability enterprise",144563
-"322",2012,"NO","Limited liability enterprise",151680
-"323",2013,"NO","Limited liability enterprise",164993
-"324",2014,"NO","Limited liability enterprise",169095
-"325",2015,"NO","Limited liability enterprise",175253
-"326",2016,"NO","Limited liability enterprise",182576
-"327",2017,"NO","Limited liability enterprise",187324
-"328",2018,"NO","Limited liability enterprise",190079
-"329",2019,"NO","Limited liability enterprise",189964
-"330",2020,"NO","Limited liability enterprise",195363
-"331",2008,"PL","Limited liability enterprise",116279
-"332",2009,"PL","Limited liability enterprise",121360
-"333",2010,"PL","Limited liability enterprise",123207
-"334",2011,"PL","Limited liability enterprise",131906
-"335",2012,"PL","Limited liability enterprise",140880
-"336",2013,"PL","Limited liability enterprise",155002
-"337",2014,"PL","Limited liability enterprise",164195
-"338",2015,"PL","Limited liability enterprise",176573
-"339",2016,"PL","Limited liability enterprise",186763
-"340",2017,"PL","Limited liability enterprise",195813
-"341",2018,"PL","Limited liability enterprise",181644
-"342",2019,"PL","Limited liability enterprise",184941
-"343",2020,"PL","Limited liability enterprise",190593
-"344",2004,"PT","Limited liability enterprise",297622
-"345",2005,"PT","Limited liability enterprise",300304
-"346",2006,"PT","Limited liability enterprise",300353
-"347",2007,"PT","Limited liability enterprise",312165
-"348",2008,"PT","Limited liability enterprise",318887
-"349",2009,"PT","Limited liability enterprise",316408
-"350",2010,"PT","Limited liability enterprise",310650
-"351",2011,"PT","Limited liability enterprise",310356
-"352",2012,"PT","Limited liability enterprise",304169
-"353",2013,"PT","Limited liability enterprise",303491
-"354",2014,"PT","Limited liability enterprise",308235
-"355",2015,"PT","Limited liability enterprise",315050
-"356",2016,"PT","Limited liability enterprise",321977
-"357",2017,"PT","Limited liability enterprise",333360
-"358",2018,"PT","Limited liability enterprise",349252
-"359",2019,"PT","Limited liability enterprise",370978
-"360",2020,"PT","Limited liability enterprise",377670
-"361",2008,"RO","Limited liability enterprise",507685
-"362",2009,"RO","Limited liability enterprise",493434
-"363",2010,"RO","Limited liability enterprise",445868
-"364",2011,"RO","Limited liability enterprise",402048
-"365",2012,"RO","Limited liability enterprise",425309
-"366",2013,"RO","Limited liability enterprise",428611
-"367",2014,"RO","Limited liability enterprise",429611
-"368",2015,"RO","Limited liability enterprise",433603
-"369",2016,"RO","Limited liability enterprise",466683
-"370",2017,"RO","Limited liability enterprise",485212
-"371",2018,"RO","Limited liability enterprise",504007
-"372",2019,"RO","Limited liability enterprise",513921
-"373",2020,"RO","Limited liability enterprise",542204
-"374",2017,"RS","Limited liability enterprise",1455
-"375",2018,"RS","Limited liability enterprise",1485
-"376",2019,"RS","Limited liability enterprise",140908
-"377",2020,"RS","Limited liability enterprise",119281
-"378",2008,"SE","Limited liability enterprise",263978
-"379",2009,"SE","Limited liability enterprise",272186
-"380",2010,"SE","Limited liability enterprise",284463
-"381",2011,"SE","Limited liability enterprise",312293
-"382",2012,"SE","Limited liability enterprise",330449
-"383",2013,"SE","Limited liability enterprise",347015
-"384",2014,"SE","Limited liability enterprise",362135
-"385",2015,"SE","Limited liability enterprise",380007
-"386",2016,"SE","Limited liability enterprise",401667
-"387",2017,"SE","Limited liability enterprise",420421
-"388",2018,"SE","Limited liability enterprise",438427
-"389",2019,"SE","Limited liability enterprise",456366
-"390",2020,"SE","Limited liability enterprise",478737
-"391",2004,"SI","Limited liability enterprise",33028
-"392",2005,"SI","Limited liability enterprise",34613
-"393",2006,"SI","Limited liability enterprise",36450
-"394",2007,"SI","Limited liability enterprise",38906
-"395",2008,"SI","Limited liability enterprise",42511
-"396",2009,"SI","Limited liability enterprise",45573
-"397",2010,"SI","Limited liability enterprise",47974
-"398",2011,"SI","Limited liability enterprise",49743
-"399",2012,"SI","Limited liability enterprise",51763
-"400",2013,"SI","Limited liability enterprise",53633
-"401",2014,"SI","Limited liability enterprise",55188
-"402",2015,"SI","Limited liability enterprise",56365
-"403",2016,"SI","Limited liability enterprise",57193
-"404",2017,"SI","Limited liability enterprise",56824
-"405",2018,"SI","Limited liability enterprise",57225
-"406",2019,"SI","Limited liability enterprise",58047
-"407",2020,"SI","Limited liability enterprise",57881
-"408",2008,"SK","Limited liability enterprise",77271
-"409",2009,"SK","Limited liability enterprise",92548
-"410",2010,"SK","Limited liability enterprise",112399
-"411",2011,"SK","Limited liability enterprise",133494
-"412",2012,"SK","Limited liability enterprise",124693
-"413",2013,"SK","Limited liability enterprise",134049
-"414",2014,"SK","Limited liability enterprise",144215
-"415",2015,"SK","Limited liability enterprise",162703
-"416",2016,"SK","Limited liability enterprise",171699
-"417",2017,"SK","Limited liability enterprise",180428
-"418",2018,"SK","Limited liability enterprise",188748
-"419",2019,"SK","Limited liability enterprise",197370
-"420",2020,"SK","Limited liability enterprise",204124
-"421",2009,"TR","Limited liability enterprise",456256
-"422",2010,"TR","Limited liability enterprise",465482
-"423",2011,"TR","Limited liability enterprise",484362
-"424",2012,"TR","Limited liability enterprise",489502
-"425",2013,"TR","Limited liability enterprise",496269
-"426",2014,"TR","Limited liability enterprise",510708
-"427",2015,"TR","Limited liability enterprise",532754
-"428",2016,"TR","Limited liability enterprise",555501
-"429",2017,"TR","Limited liability enterprise",584773
-"430",2018,"TR","Limited liability enterprise",617580
-"431",2019,"TR","Limited liability enterprise",645018
-"432",2020,"TR","Limited liability enterprise",674751
-"433",2008,"GB","Limited liability enterprise",1422640
-"434",2009,"GB","Limited liability enterprise",1403980
-"435",2010,"GB","Limited liability enterprise",1350255
-"436",2011,"GB","Limited liability enterprise",1380415
-"437",2012,"GB","Limited liability enterprise",1434745
-"438",2013,"GB","Limited liability enterprise",1523665
-"439",2014,"GB","Limited liability enterprise",1640235
-"440",2015,"GB","Limited liability enterprise",1779175
-"441",2016,"GB","Limited liability enterprise",1935880
-"442",2017,"GB","Limited liability enterprise",2032440
-"443",2018,"GB","Limited liability enterprise",2082930
-"444",2004,"AT","Partnership, co-operatives, associations, etc.",41404
-"445",2005,"AT","Partnership, co-operatives, associations, etc.",42337
-"446",2006,"AT","Partnership, co-operatives, associations, etc.",43060
-"447",2007,"AT","Partnership, co-operatives, associations, etc.",47988
-"448",2008,"AT","Partnership, co-operatives, associations, etc.",49019
-"449",2009,"AT","Partnership, co-operatives, associations, etc.",49368
-"450",2010,"AT","Partnership, co-operatives, associations, etc.",49790
-"451",2011,"AT","Partnership, co-operatives, associations, etc.",49983
-"452",2012,"AT","Partnership, co-operatives, associations, etc.",50332
-"453",2013,"AT","Partnership, co-operatives, associations, etc.",54077
-"454",2014,"AT","Partnership, co-operatives, associations, etc.",51341
-"455",2015,"AT","Partnership, co-operatives, associations, etc.",46690
-"456",2016,"AT","Partnership, co-operatives, associations, etc.",46921
-"457",2017,"AT","Partnership, co-operatives, associations, etc.",46338
-"458",2018,"AT","Partnership, co-operatives, associations, etc.",46576
-"459",2019,"AT","Partnership, co-operatives, associations, etc.",46493
-"460",2020,"AT","Partnership, co-operatives, associations, etc.",47346
-"461",2017,"BA","Partnership, co-operatives, associations, etc.",924
-"462",2018,"BA","Partnership, co-operatives, associations, etc.",937
-"463",2019,"BA","Partnership, co-operatives, associations, etc.",914
-"464",2008,"BE","Partnership, co-operatives, associations, etc.",30244
-"465",2009,"BE","Partnership, co-operatives, associations, etc.",37933
-"466",2010,"BE","Partnership, co-operatives, associations, etc.",39734
-"467",2011,"BE","Partnership, co-operatives, associations, etc.",42170
-"468",2012,"BE","Partnership, co-operatives, associations, etc.",44644
-"469",2013,"BE","Partnership, co-operatives, associations, etc.",46281
-"470",2014,"BE","Partnership, co-operatives, associations, etc.",48289
-"471",2015,"BE","Partnership, co-operatives, associations, etc.",50639
-"472",2016,"BE","Partnership, co-operatives, associations, etc.",54436
-"473",2017,"BE","Partnership, co-operatives, associations, etc.",57994
-"474",2018,"BE","Partnership, co-operatives, associations, etc.",61985
-"475",2019,"BE","Partnership, co-operatives, associations, etc.",64081
-"476",2020,"BE","Partnership, co-operatives, associations, etc.",63946
-"477",2008,"BG","Partnership, co-operatives, associations, etc.",9683
-"478",2009,"BG","Partnership, co-operatives, associations, etc.",11348
-"479",2010,"BG","Partnership, co-operatives, associations, etc.",10914
-"480",2011,"BG","Partnership, co-operatives, associations, etc.",10567
-"481",2012,"BG","Partnership, co-operatives, associations, etc.",10931
-"482",2013,"BG","Partnership, co-operatives, associations, etc.",11300
-"483",2014,"BG","Partnership, co-operatives, associations, etc.",11429
-"484",2015,"BG","Partnership, co-operatives, associations, etc.",11421
-"485",2016,"BG","Partnership, co-operatives, associations, etc.",11065
-"486",2017,"BG","Partnership, co-operatives, associations, etc.",10460
-"487",2018,"BG","Partnership, co-operatives, associations, etc.",10031
-"488",2019,"BG","Partnership, co-operatives, associations, etc.",8593
-"489",2020,"BG","Partnership, co-operatives, associations, etc.",7808
-"490",2013,"CH","Partnership, co-operatives, associations, etc.",16123
-"491",2014,"CH","Partnership, co-operatives, associations, etc.",15721
-"492",2015,"CH","Partnership, co-operatives, associations, etc.",15176
-"493",2016,"CH","Partnership, co-operatives, associations, etc.",14631
-"494",2017,"CH","Partnership, co-operatives, associations, etc.",14313
-"495",2018,"CH","Partnership, co-operatives, associations, etc.",13751
-"496",2019,"CH","Partnership, co-operatives, associations, etc.",13482
-"497",2020,"CH","Partnership, co-operatives, associations, etc.",12739
-"498",2008,"CY","Partnership, co-operatives, associations, etc.",1945
-"499",2009,"CY","Partnership, co-operatives, associations, etc.",1730
-"500",2010,"CY","Partnership, co-operatives, associations, etc.",1544
-"501",2011,"CY","Partnership, co-operatives, associations, etc.",1404
-"502",2012,"CY","Partnership, co-operatives, associations, etc.",1520
-"503",2013,"CY","Partnership, co-operatives, associations, etc.",1480
-"504",2014,"CY","Partnership, co-operatives, associations, etc.",1131
-"505",2015,"CY","Partnership, co-operatives, associations, etc.",1067
-"506",2016,"CY","Partnership, co-operatives, associations, etc.",1037
-"507",2017,"CY","Partnership, co-operatives, associations, etc.",1068
-"508",2018,"CY","Partnership, co-operatives, associations, etc.",877
-"509",2019,"CY","Partnership, co-operatives, associations, etc.",999
-"510",2020,"CY","Partnership, co-operatives, associations, etc.",368
-"511",2008,"CZ","Partnership, co-operatives, associations, etc.",6864
-"512",2009,"CZ","Partnership, co-operatives, associations, etc.",6823
-"513",2010,"CZ","Partnership, co-operatives, associations, etc.",6832
-"514",2011,"CZ","Partnership, co-operatives, associations, etc.",6718
-"515",2012,"CZ","Partnership, co-operatives, associations, etc.",6695
-"516",2013,"CZ","Partnership, co-operatives, associations, etc.",6618
-"517",2014,"CZ","Partnership, co-operatives, associations, etc.",6648
-"518",2015,"CZ","Partnership, co-operatives, associations, etc.",6173
-"519",2016,"CZ","Partnership, co-operatives, associations, etc.",5673
-"520",2017,"CZ","Partnership, co-operatives, associations, etc.",5526
-"521",2018,"CZ","Partnership, co-operatives, associations, etc.",5473
-"522",2019,"CZ","Partnership, co-operatives, associations, etc.",5354
-"523",2020,"CZ","Partnership, co-operatives, associations, etc.",5224
-"524",2008,"DE","Partnership, co-operatives, associations, etc.",481633
-"525",2009,"DE","Partnership, co-operatives, associations, etc.",482360
-"526",2010,"DE","Partnership, co-operatives, associations, etc.",493909
-"527",2011,"DE","Partnership, co-operatives, associations, etc.",488448
-"528",2012,"DE","Partnership, co-operatives, associations, etc.",476412
-"529",2013,"DE","Partnership, co-operatives, associations, etc.",478603
-"530",2014,"DE","Partnership, co-operatives, associations, etc.",418524
-"531",2015,"DE","Partnership, co-operatives, associations, etc.",413886
-"532",2016,"DE","Partnership, co-operatives, associations, etc.",412961
-"533",2017,"DE","Partnership, co-operatives, associations, etc.",412790
-"534",2018,"DE","Partnership, co-operatives, associations, etc.",365256
-"535",2019,"DE","Partnership, co-operatives, associations, etc.",388477
-"536",2020,"DE","Partnership, co-operatives, associations, etc.",381414
-"537",2009,"DK","Partnership, co-operatives, associations, etc.",15764
-"538",2010,"DK","Partnership, co-operatives, associations, etc.",15501
-"539",2011,"DK","Partnership, co-operatives, associations, etc.",15508
-"540",2012,"DK","Partnership, co-operatives, associations, etc.",15205
-"541",2013,"DK","Partnership, co-operatives, associations, etc.",14685
-"542",2014,"DK","Partnership, co-operatives, associations, etc.",14346
-"543",2015,"DK","Partnership, co-operatives, associations, etc.",14616
-"544",2016,"DK","Partnership, co-operatives, associations, etc.",14620
-"545",2017,"DK","Partnership, co-operatives, associations, etc.",13981
-"546",2018,"DK","Partnership, co-operatives, associations, etc.",13369
-"547",2019,"DK","Partnership, co-operatives, associations, etc.",13010
-"548",2020,"DK","Partnership, co-operatives, associations, etc.",12289
-"549",2008,"EE","Partnership, co-operatives, associations, etc.",628
-"550",2009,"EE","Partnership, co-operatives, associations, etc.",651
-"551",2010,"EE","Partnership, co-operatives, associations, etc.",733
-"552",2011,"EE","Partnership, co-operatives, associations, etc.",743
-"553",2012,"EE","Partnership, co-operatives, associations, etc.",642
-"554",2013,"EE","Partnership, co-operatives, associations, etc.",636
-"555",2014,"EE","Partnership, co-operatives, associations, etc.",641
-"556",2015,"EE","Partnership, co-operatives, associations, etc.",658
-"557",2016,"EE","Partnership, co-operatives, associations, etc.",670
-"558",2017,"EE","Partnership, co-operatives, associations, etc.",680
-"559",2018,"EE","Partnership, co-operatives, associations, etc.",652
-"560",2019,"EE","Partnership, co-operatives, associations, etc.",627
-"561",2020,"EE","Partnership, co-operatives, associations, etc.",636
-"562",2015,"GR","Partnership, co-operatives, associations, etc.",109260
-"563",2016,"GR","Partnership, co-operatives, associations, etc.",107769
-"564",2017,"GR","Partnership, co-operatives, associations, etc.",109427
-"565",2018,"GR","Partnership, co-operatives, associations, etc.",117268
-"566",2019,"GR","Partnership, co-operatives, associations, etc.",122456
-"567",2020,"GR","Partnership, co-operatives, associations, etc.",128202
-"568",2008,"ES","Partnership, co-operatives, associations, etc.",257327
-"569",2009,"ES","Partnership, co-operatives, associations, etc.",257710
-"570",2010,"ES","Partnership, co-operatives, associations, etc.",252891
-"571",2011,"ES","Partnership, co-operatives, associations, etc.",253456
-"572",2012,"ES","Partnership, co-operatives, associations, etc.",251468
-"573",2013,"ES","Partnership, co-operatives, associations, etc.",243142
-"574",2014,"ES","Partnership, co-operatives, associations, etc.",248410
-"575",2015,"ES","Partnership, co-operatives, associations, etc.",245533
-"576",2016,"ES","Partnership, co-operatives, associations, etc.",230631
-"577",2017,"ES","Partnership, co-operatives, associations, etc.",207928
-"578",2018,"ES","Partnership, co-operatives, associations, etc.",214356
-"579",2019,"ES","Partnership, co-operatives, associations, etc.",216639
-"580",2020,"ES","Partnership, co-operatives, associations, etc.",213459
-"601",2008,"FI","Partnership, co-operatives, associations, etc.",38961
-"602",2009,"FI","Partnership, co-operatives, associations, etc.",38685
-"603",2010,"FI","Partnership, co-operatives, associations, etc.",40619
-"604",2011,"FI","Partnership, co-operatives, associations, etc.",41513
-"605",2012,"FI","Partnership, co-operatives, associations, etc.",40585
-"606",2013,"FI","Partnership, co-operatives, associations, etc.",31974
-"607",2014,"FI","Partnership, co-operatives, associations, etc.",30237
-"608",2015,"FI","Partnership, co-operatives, associations, etc.",29034
-"609",2016,"FI","Partnership, co-operatives, associations, etc.",27366
-"610",2017,"FI","Partnership, co-operatives, associations, etc.",26281
-"611",2018,"FI","Partnership, co-operatives, associations, etc.",25266
-"612",2019,"FI","Partnership, co-operatives, associations, etc.",24232
-"613",2020,"FI","Partnership, co-operatives, associations, etc.",22959
-"614",2008,"FR","Partnership, co-operatives, associations, etc.",299947
-"615",2009,"FR","Partnership, co-operatives, associations, etc.",312196
-"616",2010,"FR","Partnership, co-operatives, associations, etc.",331541
-"617",2011,"FR","Partnership, co-operatives, associations, etc.",339412
-"618",2012,"FR","Partnership, co-operatives, associations, etc.",364944
-"619",2013,"FR","Partnership, co-operatives, associations, etc.",37697
-"620",2014,"FR","Partnership, co-operatives, associations, etc.",37990
-"621",2015,"FR","Partnership, co-operatives, associations, etc.",37869
-"622",2016,"FR","Partnership, co-operatives, associations, etc.",33997
-"623",2017,"FR","Partnership, co-operatives, associations, etc.",36194
-"624",2018,"FR","Partnership, co-operatives, associations, etc.",35708
-"625",2019,"FR","Partnership, co-operatives, associations, etc.",35254
-"626",2020,"FR","Partnership, co-operatives, associations, etc.",35077
-"627",2012,"HR","Partnership, co-operatives, associations, etc.",1148
-"628",2013,"HR","Partnership, co-operatives, associations, etc.",976
-"629",2014,"HR","Partnership, co-operatives, associations, etc.",762
-"630",2015,"HR","Partnership, co-operatives, associations, etc.",733
-"631",2016,"HR","Partnership, co-operatives, associations, etc.",729
-"632",2017,"HR","Partnership, co-operatives, associations, etc.",686
-"633",2018,"HR","Partnership, co-operatives, associations, etc.",669
-"634",2019,"HR","Partnership, co-operatives, associations, etc.",845
-"635",2020,"HR","Partnership, co-operatives, associations, etc.",1450
-"636",2008,"HU","Partnership, co-operatives, associations, etc.",133455
-"637",2009,"HU","Partnership, co-operatives, associations, etc.",124565
-"638",2010,"HU","Partnership, co-operatives, associations, etc.",117881
-"639",2011,"HU","Partnership, co-operatives, associations, etc.",111385
-"640",2012,"HU","Partnership, co-operatives, associations, etc.",103820
-"641",2013,"HU","Partnership, co-operatives, associations, etc.",97789
-"642",2014,"HU","Partnership, co-operatives, associations, etc.",94523
-"643",2015,"HU","Partnership, co-operatives, associations, etc.",92323
-"644",2016,"HU","Partnership, co-operatives, associations, etc.",86821
-"645",2017,"HU","Partnership, co-operatives, associations, etc.",83751
-"646",2018,"HU","Partnership, co-operatives, associations, etc.",86562
-"647",2019,"HU","Partnership, co-operatives, associations, etc.",85446
-"648",2020,"HU","Partnership, co-operatives, associations, etc.",82650
-"649",2008,"IE","Partnership, co-operatives, associations, etc.",14820
-"650",2009,"IE","Partnership, co-operatives, associations, etc.",15605
-"651",2010,"IE","Partnership, co-operatives, associations, etc.",16210
-"652",2011,"IE","Partnership, co-operatives, associations, etc.",16450
-"653",2012,"IE","Partnership, co-operatives, associations, etc.",16304
-"654",2014,"IE","Partnership, co-operatives, associations, etc.",9336
-"655",2015,"IE","Partnership, co-operatives, associations, etc.",9311
-"656",2016,"IE","Partnership, co-operatives, associations, etc.",8962
-"657",2017,"IE","Partnership, co-operatives, associations, etc.",9361
-"658",2018,"IE","Partnership, co-operatives, associations, etc.",9941
-"659",2020,"IE","Partnership, co-operatives, associations, etc.",6464
-"660",2008,"IS","Partnership, co-operatives, associations, etc.",895
-"661",2009,"IS","Partnership, co-operatives, associations, etc.",896
-"662",2010,"IS","Partnership, co-operatives, associations, etc.",1131
-"663",2011,"IS","Partnership, co-operatives, associations, etc.",1279
-"664",2012,"IS","Partnership, co-operatives, associations, etc.",1440
-"665",2013,"IS","Partnership, co-operatives, associations, etc.",1586
-"666",2014,"IS","Partnership, co-operatives, associations, etc.",1683
-"667",2015,"IS","Partnership, co-operatives, associations, etc.",1678
-"668",2016,"IS","Partnership, co-operatives, associations, etc.",1764
-"669",2017,"IS","Partnership, co-operatives, associations, etc.",1832
-"670",2018,"IS","Partnership, co-operatives, associations, etc.",1860
-"671",2019,"IS","Partnership, co-operatives, associations, etc.",1897
-"672",2020,"IS","Partnership, co-operatives, associations, etc.",1973
-"673",2008,"IT","Partnership, co-operatives, associations, etc.",811555
-"674",2009,"IT","Partnership, co-operatives, associations, etc.",793139
-"675",2010,"IT","Partnership, co-operatives, associations, etc.",787150
-"676",2011,"IT","Partnership, co-operatives, associations, etc.",780220
-"677",2012,"IT","Partnership, co-operatives, associations, etc.",768262
-"678",2013,"IT","Partnership, co-operatives, associations, etc.",754948
-"679",2014,"IT","Partnership, co-operatives, associations, etc.",723644
-"680",2015,"IT","Partnership, co-operatives, associations, etc.",701663
-"681",2016,"IT","Partnership, co-operatives, associations, etc.",686460
-"682",2017,"IT","Partnership, co-operatives, associations, etc.",659734
-"683",2018,"IT","Partnership, co-operatives, associations, etc.",636484
-"684",2019,"IT","Partnership, co-operatives, associations, etc.",612274
-"685",2020,"IT","Partnership, co-operatives, associations, etc.",581035
-"686",2008,"LT","Partnership, co-operatives, associations, etc.",1520
-"687",2009,"LT","Partnership, co-operatives, associations, etc.",1552
-"688",2010,"LT","Partnership, co-operatives, associations, etc.",1644
-"689",2011,"LT","Partnership, co-operatives, associations, etc.",1644
-"690",2012,"LT","Partnership, co-operatives, associations, etc.",1740
-"691",2013,"LT","Partnership, co-operatives, associations, etc.",1486
-"692",2014,"LT","Partnership, co-operatives, associations, etc.",1525
-"693",2015,"LT","Partnership, co-operatives, associations, etc.",1562
-"694",2016,"LT","Partnership, co-operatives, associations, etc.",1505
-"695",2017,"LT","Partnership, co-operatives, associations, etc.",965
-"696",2018,"LT","Partnership, co-operatives, associations, etc.",1006
-"697",2019,"LT","Partnership, co-operatives, associations, etc.",986
-"698",2020,"LT","Partnership, co-operatives, associations, etc.",914
-"699",2008,"LU","Partnership, co-operatives, associations, etc.",987
-"700",2009,"LU","Partnership, co-operatives, associations, etc.",995
-"701",2010,"LU","Partnership, co-operatives, associations, etc.",1016
-"702",2011,"LU","Partnership, co-operatives, associations, etc.",1065
-"703",2012,"LU","Partnership, co-operatives, associations, etc.",1073
-"704",2013,"LU","Partnership, co-operatives, associations, etc.",1057
-"705",2014,"LU","Partnership, co-operatives, associations, etc.",1055
-"706",2015,"LU","Partnership, co-operatives, associations, etc.",1082
-"707",2016,"LU","Partnership, co-operatives, associations, etc.",1099
-"708",2017,"LU","Partnership, co-operatives, associations, etc.",1102
-"709",2018,"LU","Partnership, co-operatives, associations, etc.",1101
-"710",2019,"LU","Partnership, co-operatives, associations, etc.",1088
-"711",2020,"LU","Partnership, co-operatives, associations, etc.",1055
-"712",2008,"LV","Partnership, co-operatives, associations, etc.",1749
-"713",2009,"LV","Partnership, co-operatives, associations, etc.",1155
-"714",2010,"LV","Partnership, co-operatives, associations, etc.",1251
-"715",2011,"LV","Partnership, co-operatives, associations, etc.",1212
-"716",2012,"LV","Partnership, co-operatives, associations, etc.",1247
-"717",2013,"LV","Partnership, co-operatives, associations, etc.",1272
-"718",2014,"LV","Partnership, co-operatives, associations, etc.",1289
-"719",2015,"LV","Partnership, co-operatives, associations, etc.",2043
-"720",2016,"LV","Partnership, co-operatives, associations, etc.",2258
-"721",2017,"LV","Partnership, co-operatives, associations, etc.",2315
-"722",2018,"LV","Partnership, co-operatives, associations, etc.",2409
-"723",2019,"LV","Partnership, co-operatives, associations, etc.",2210
-"724",2020,"LV","Partnership, co-operatives, associations, etc.",2200
-"725",2009,"MK","Partnership, co-operatives, associations, etc.",1150
-"726",2010,"MK","Partnership, co-operatives, associations, etc.",1158
-"727",2011,"MK","Partnership, co-operatives, associations, etc.",1547
-"728",2012,"MK","Partnership, co-operatives, associations, etc.",1528
-"729",2013,"MK","Partnership, co-operatives, associations, etc.",2021
-"730",2014,"MK","Partnership, co-operatives, associations, etc.",1460
-"731",2015,"MK","Partnership, co-operatives, associations, etc.",1410
-"732",2016,"MK","Partnership, co-operatives, associations, etc.",1437
-"733",2017,"MK","Partnership, co-operatives, associations, etc.",1409
-"734",2018,"MK","Partnership, co-operatives, associations, etc.",1378
-"735",2019,"MK","Partnership, co-operatives, associations, etc.",1368
-"736",2020,"MK","Partnership, co-operatives, associations, etc.",1316
-"737",2010,"MT","Partnership, co-operatives, associations, etc.",2300
-"738",2011,"MT","Partnership, co-operatives, associations, etc.",2190
-"739",2012,"MT","Partnership, co-operatives, associations, etc.",2107
-"740",2013,"MT","Partnership, co-operatives, associations, etc.",2004
-"741",2014,"MT","Partnership, co-operatives, associations, etc.",2009
-"742",2015,"MT","Partnership, co-operatives, associations, etc.",1832
-"743",2016,"MT","Partnership, co-operatives, associations, etc.",1980
-"744",2017,"MT","Partnership, co-operatives, associations, etc.",2029
-"745",2018,"MT","Partnership, co-operatives, associations, etc.",2008
-"746",2019,"MT","Partnership, co-operatives, associations, etc.",1753
-"747",2020,"MT","Partnership, co-operatives, associations, etc.",1745
-"748",2007,"NL","Partnership, co-operatives, associations, etc.",140075
-"749",2009,"NL","Partnership, co-operatives, associations, etc.",141333
-"750",2010,"NL","Partnership, co-operatives, associations, etc.",157782
-"751",2011,"NL","Partnership, co-operatives, associations, etc.",159625
-"752",2012,"NL","Partnership, co-operatives, associations, etc.",162178
-"753",2013,"NL","Partnership, co-operatives, associations, etc.",160670
-"754",2014,"NL","Partnership, co-operatives, associations, etc.",157300
-"755",2015,"NL","Partnership, co-operatives, associations, etc.",158889
-"756",2016,"NL","Partnership, co-operatives, associations, etc.",160546
-"757",2017,"NL","Partnership, co-operatives, associations, etc.",159008
-"758",2018,"NL","Partnership, co-operatives, associations, etc.",165397
-"759",2019,"NL","Partnership, co-operatives, associations, etc.",169213
-"760",2020,"NL","Partnership, co-operatives, associations, etc.",172299
-"761",2008,"NO","Partnership, co-operatives, associations, etc.",19801
-"762",2009,"NO","Partnership, co-operatives, associations, etc.",21044
-"763",2010,"NO","Partnership, co-operatives, associations, etc.",21130
-"764",2011,"NO","Partnership, co-operatives, associations, etc.",21097
-"765",2012,"NO","Partnership, co-operatives, associations, etc.",19528
-"766",2013,"NO","Partnership, co-operatives, associations, etc.",17744
-"767",2014,"NO","Partnership, co-operatives, associations, etc.",15721
-"768",2015,"NO","Partnership, co-operatives, associations, etc.",14116
-"769",2016,"NO","Partnership, co-operatives, associations, etc.",13873
-"770",2017,"NO","Partnership, co-operatives, associations, etc.",12143
-"771",2018,"NO","Partnership, co-operatives, associations, etc.",10650
-"772",2019,"NO","Partnership, co-operatives, associations, etc.",10127
-"773",2020,"NO","Partnership, co-operatives, associations, etc.",9376
-"774",2008,"PL","Partnership, co-operatives, associations, etc.",39767
-"775",2009,"PL","Partnership, co-operatives, associations, etc.",41210
-"776",2010,"PL","Partnership, co-operatives, associations, etc.",41727
-"777",2011,"PL","Partnership, co-operatives, associations, etc.",43814
-"778",2012,"PL","Partnership, co-operatives, associations, etc.",45814
-"779",2013,"PL","Partnership, co-operatives, associations, etc.",48391
-"780",2014,"PL","Partnership, co-operatives, associations, etc.",49878
-"781",2015,"PL","Partnership, co-operatives, associations, etc.",52498
-"782",2016,"PL","Partnership, co-operatives, associations, etc.",52454
-"783",2017,"PL","Partnership, co-operatives, associations, etc.",52323
-"784",2018,"PL","Partnership, co-operatives, associations, etc.",58309
-"785",2019,"PL","Partnership, co-operatives, associations, etc.",60326
-"786",2020,"PL","Partnership, co-operatives, associations, etc.",61512
-"787",2004,"PT","Partnership, co-operatives, associations, etc.",8331
-"788",2005,"PT","Partnership, co-operatives, associations, etc.",8308
-"789",2006,"PT","Partnership, co-operatives, associations, etc.",7991
-"790",2007,"PT","Partnership, co-operatives, associations, etc.",8114
-"791",2008,"PT","Partnership, co-operatives, associations, etc.",8037
-"792",2009,"PT","Partnership, co-operatives, associations, etc.",7796
-"793",2010,"PT","Partnership, co-operatives, associations, etc.",7395
-"794",2011,"PT","Partnership, co-operatives, associations, etc.",7014
-"795",2012,"PT","Partnership, co-operatives, associations, etc.",6559
-"796",2013,"PT","Partnership, co-operatives, associations, etc.",6384
-"797",2014,"PT","Partnership, co-operatives, associations, etc.",6313
-"798",2015,"PT","Partnership, co-operatives, associations, etc.",6130
-"799",2016,"PT","Partnership, co-operatives, associations, etc.",6022
-"800",2017,"PT","Partnership, co-operatives, associations, etc.",5927
-"801",2018,"PT","Partnership, co-operatives, associations, etc.",5864
-"802",2019,"PT","Partnership, co-operatives, associations, etc.",5921
-"803",2020,"PT","Partnership, co-operatives, associations, etc.",8739
-"804",2008,"RO","Partnership, co-operatives, associations, etc.",5068
-"805",2009,"RO","Partnership, co-operatives, associations, etc.",4693
-"806",2010,"RO","Partnership, co-operatives, associations, etc.",4300
-"807",2011,"RO","Partnership, co-operatives, associations, etc.",3827
-"808",2012,"RO","Partnership, co-operatives, associations, etc.",3801
-"809",2013,"RO","Partnership, co-operatives, associations, etc.",3637
-"810",2014,"RO","Partnership, co-operatives, associations, etc.",3453
-"811",2015,"RO","Partnership, co-operatives, associations, etc.",3336
-"812",2016,"RO","Partnership, co-operatives, associations, etc.",3254
-"813",2017,"RO","Partnership, co-operatives, associations, etc.",3119
-"814",2018,"RO","Partnership, co-operatives, associations, etc.",3006
-"815",2019,"RO","Partnership, co-operatives, associations, etc.",2845
-"816",2020,"RO","Partnership, co-operatives, associations, etc.",2820
-"817",2017,"RS","Partnership, co-operatives, associations, etc.",119773
-"818",2018,"RS","Partnership, co-operatives, associations, etc.",148925
-"819",2019,"RS","Partnership, co-operatives, associations, etc.",1804
-"820",2020,"RS","Partnership, co-operatives, associations, etc.",2296
-"821",2008,"SE","Partnership, co-operatives, associations, etc.",87229
-"822",2009,"SE","Partnership, co-operatives, associations, etc.",84294
-"823",2010,"SE","Partnership, co-operatives, associations, etc.",83164
-"824",2011,"SE","Partnership, co-operatives, associations, etc.",86836
-"825",2012,"SE","Partnership, co-operatives, associations, etc.",85795
-"826",2013,"SE","Partnership, co-operatives, associations, etc.",66595
-"827",2014,"SE","Partnership, co-operatives, associations, etc.",64714
-"828",2015,"SE","Partnership, co-operatives, associations, etc.",62073
-"829",2016,"SE","Partnership, co-operatives, associations, etc.",60025
-"830",2017,"SE","Partnership, co-operatives, associations, etc.",58406
-"831",2018,"SE","Partnership, co-operatives, associations, etc.",56406
-"832",2019,"SE","Partnership, co-operatives, associations, etc.",55135
-"833",2020,"SE","Partnership, co-operatives, associations, etc.",53204
-"834",2004,"SI","Partnership, co-operatives, associations, etc.",3815
-"835",2005,"SI","Partnership, co-operatives, associations, etc.",3795
-"836",2006,"SI","Partnership, co-operatives, associations, etc.",3689
-"837",2007,"SI","Partnership, co-operatives, associations, etc.",3521
-"838",2008,"SI","Partnership, co-operatives, associations, etc.",3395
-"839",2009,"SI","Partnership, co-operatives, associations, etc.",3214
-"840",2010,"SI","Partnership, co-operatives, associations, etc.",3056
-"841",2011,"SI","Partnership, co-operatives, associations, etc.",2822
-"842",2012,"SI","Partnership, co-operatives, associations, etc.",2621
-"843",2013,"SI","Partnership, co-operatives, associations, etc.",2461
-"844",2014,"SI","Partnership, co-operatives, associations, etc.",2321
-"845",2015,"SI","Partnership, co-operatives, associations, etc.",2158
-"846",2016,"SI","Partnership, co-operatives, associations, etc.",2167
-"847",2017,"SI","Partnership, co-operatives, associations, etc.",2035
-"848",2018,"SI","Partnership, co-operatives, associations, etc.",1983
-"849",2019,"SI","Partnership, co-operatives, associations, etc.",1885
-"850",2020,"SI","Partnership, co-operatives, associations, etc.",1791
-"851",2008,"SK","Partnership, co-operatives, associations, etc.",3166
-"852",2009,"SK","Partnership, co-operatives, associations, etc.",2353
-"853",2010,"SK","Partnership, co-operatives, associations, etc.",2678
-"854",2011,"SK","Partnership, co-operatives, associations, etc.",4720
-"855",2012,"SK","Partnership, co-operatives, associations, etc.",4524
-"856",2013,"SK","Partnership, co-operatives, associations, etc.",1457
-"857",2014,"SK","Partnership, co-operatives, associations, etc.",1711
-"858",2015,"SK","Partnership, co-operatives, associations, etc.",1915
-"859",2016,"SK","Partnership, co-operatives, associations, etc.",1960
-"860",2017,"SK","Partnership, co-operatives, associations, etc.",2012
-"861",2018,"SK","Partnership, co-operatives, associations, etc.",1992
-"862",2019,"SK","Partnership, co-operatives, associations, etc.",1909
-"863",2020,"SK","Partnership, co-operatives, associations, etc.",1765
-"864",2009,"TR","Partnership, co-operatives, associations, etc.",51473
-"865",2010,"TR","Partnership, co-operatives, associations, etc.",51616
-"866",2011,"TR","Partnership, co-operatives, associations, etc.",52911
-"867",2012,"TR","Partnership, co-operatives, associations, etc.",55419
-"868",2013,"TR","Partnership, co-operatives, associations, etc.",56599
-"869",2014,"TR","Partnership, co-operatives, associations, etc.",55083
-"870",2015,"TR","Partnership, co-operatives, associations, etc.",55763
-"871",2016,"TR","Partnership, co-operatives, associations, etc.",56608
-"872",2017,"TR","Partnership, co-operatives, associations, etc.",57390
-"873",2018,"TR","Partnership, co-operatives, associations, etc.",56846
-"874",2019,"TR","Partnership, co-operatives, associations, etc.",53901
-"875",2020,"TR","Partnership, co-operatives, associations, etc.",53268
-"876",2008,"GB","Partnership, co-operatives, associations, etc.",228960
-"877",2009,"GB","Partnership, co-operatives, associations, etc.",216420
-"878",2010,"GB","Partnership, co-operatives, associations, etc.",201895
-"879",2011,"GB","Partnership, co-operatives, associations, etc.",192105
-"880",2012,"GB","Partnership, co-operatives, associations, etc.",179945
-"881",2013,"GB","Partnership, co-operatives, associations, etc.",167925
-"882",2014,"GB","Partnership, co-operatives, associations, etc.",155990
-"883",2015,"GB","Partnership, co-operatives, associations, etc.",145820
-"884",2016,"GB","Partnership, co-operatives, associations, etc.",138145
-"885",2017,"GB","Partnership, co-operatives, associations, etc.",131935
-"886",2018,"GB","Partnership, co-operatives, associations, etc.",124910
-"887",2004,"AT","Sole proprietorship",199706
-"888",2005,"AT","Sole proprietorship",206173
-"889",2006,"AT","Sole proprietorship",211344
-"890",2007,"AT","Sole proprietorship",267306
-"891",2008,"AT","Sole proprietorship",276346
-"892",2009,"AT","Sole proprietorship",283273
-"893",2010,"AT","Sole proprietorship",289324
-"894",2011,"AT","Sole proprietorship",292427
-"895",2012,"AT","Sole proprietorship",292288
-"896",2013,"AT","Sole proprietorship",283681
-"897",2014,"AT","Sole proprietorship",272172
-"898",2015,"AT","Sole proprietorship",263732
-"899",2016,"AT","Sole proprietorship",266449
-"900",2017,"AT","Sole proprietorship",266271
-"901",2018,"AT","Sole proprietorship",268284
-"902",2019,"AT","Sole proprietorship",262583
-"903",2020,"AT","Sole proprietorship",260001
-"904",2017,"BA","Sole proprietorship",41588
-"905",2018,"BA","Sole proprietorship",42418
-"906",2019,"BA","Sole proprietorship",42021
-"907",2008,"BE","Sole proprietorship",184802
-"908",2009,"BE","Sole proprietorship",193155
-"909",2010,"BE","Sole proprietorship",193010
-"910",2011,"BE","Sole proprietorship",193106
-"911",2012,"BE","Sole proprietorship",193536
-"912",2013,"BE","Sole proprietorship",193813
-"913",2014,"BE","Sole proprietorship",203898
-"914",2015,"BE","Sole proprietorship",205003
-"915",2016,"BE","Sole proprietorship",205592
-"916",2017,"BE","Sole proprietorship",205902
-"917",2018,"BE","Sole proprietorship",207228
-"918",2019,"BE","Sole proprietorship",218518
-"919",2020,"BE","Sole proprietorship",222272
-"920",2008,"BG","Sole proprietorship",121262
-"921",2009,"BG","Sole proprietorship",132817
-"922",2010,"BG","Sole proprietorship",119939
-"923",2011,"BG","Sole proprietorship",108702
-"924",2012,"BG","Sole proprietorship",98616
-"925",2013,"BG","Sole proprietorship",89989
-"926",2014,"BG","Sole proprietorship",83405
-"927",2015,"BG","Sole proprietorship",77331
-"928",2016,"BG","Sole proprietorship",71911
-"929",2017,"BG","Sole proprietorship",65902
-"930",2018,"BG","Sole proprietorship",60606
-"931",2019,"BG","Sole proprietorship",55957
-"932",2020,"BG","Sole proprietorship",52438
-"933",2013,"CH","Sole proprietorship",170113
-"934",2014,"CH","Sole proprietorship",175016
-"935",2015,"CH","Sole proprietorship",173756
-"936",2016,"CH","Sole proprietorship",170886
-"937",2017,"CH","Sole proprietorship",168195
-"938",2018,"CH","Sole proprietorship",164370
-"939",2019,"CH","Sole proprietorship",164211
-"940",2020,"CH","Sole proprietorship",158755
-"941",2008,"CY","Sole proprietorship",25488
-"942",2009,"CY","Sole proprietorship",23659
-"943",2010,"CY","Sole proprietorship",18406
-"944",2011,"CY","Sole proprietorship",17515
-"945",2012,"CY","Sole proprietorship",17776
-"946",2013,"CY","Sole proprietorship",17503
-"947",2014,"CY","Sole proprietorship",17741
-"948",2015,"CY","Sole proprietorship",18861
-"949",2016,"CY","Sole proprietorship",19627
-"950",2017,"CY","Sole proprietorship",20619
-"951",2018,"CY","Sole proprietorship",18632
-"952",2019,"CY","Sole proprietorship",22015
-"953",2020,"CY","Sole proprietorship",23113
-"954",2008,"CZ","Sole proprietorship",665498
-"955",2009,"CZ","Sole proprietorship",745972
-"956",2010,"CZ","Sole proprietorship",769494
-"957",2011,"CZ","Sole proprietorship",778386
-"958",2012,"CZ","Sole proprietorship",767086
-"959",2013,"CZ","Sole proprietorship",741288
-"960",2014,"CZ","Sole proprietorship",782340
-"961",2015,"CZ","Sole proprietorship",784242
-"962",2016,"CZ","Sole proprietorship",785050
-"963",2017,"CZ","Sole proprietorship",773927
-"964",2018,"CZ","Sole proprietorship",785741
-"965",2019,"CZ","Sole proprietorship",789367
-"966",2020,"CZ","Sole proprietorship",790969
-"967",2008,"DE","Sole proprietorship",1925765
-"968",2009,"DE","Sole proprietorship",1882209
-"969",2010,"DE","Sole proprietorship",1880775
-"970",2011,"DE","Sole proprietorship",1903413
-"971",2012,"DE","Sole proprietorship",1914157
-"972",2013,"DE","Sole proprietorship",1898702
-"973",2014,"DE","Sole proprietorship",1794653
-"974",2015,"DE","Sole proprietorship",1780368
-"975",2016,"DE","Sole proprietorship",1775364
-"976",2017,"DE","Sole proprietorship",1766166
-"977",2018,"DE","Sole proprietorship",1757555
-"978",2019,"DE","Sole proprietorship",1719718
-"979",2020,"DE","Sole proprietorship",1598835
-"980",2009,"DK","Sole proprietorship",96935
-"981",2010,"DK","Sole proprietorship",96228
-"982",2011,"DK","Sole proprietorship",98768
-"983",2012,"DK","Sole proprietorship",97433
-"984",2013,"DK","Sole proprietorship",95046
-"985",2014,"DK","Sole proprietorship",93819
-"986",2015,"DK","Sole proprietorship",89637
-"987",2016,"DK","Sole proprietorship",92180
-"988",2017,"DK","Sole proprietorship",91717
-"989",2018,"DK","Sole proprietorship",90534
-"990",2019,"DK","Sole proprietorship",89985
-"991",2020,"DK","Sole proprietorship",88340
-"992",2008,"EE","Sole proprietorship",19542
-"993",2009,"EE","Sole proprietorship",17245
-"994",2010,"EE","Sole proprietorship",13274
-"995",2011,"EE","Sole proprietorship",12448
-"996",2012,"EE","Sole proprietorship",12032
-"997",2013,"EE","Sole proprietorship",12635
-"998",2014,"EE","Sole proprietorship",11632
-"999",2015,"EE","Sole proprietorship",11399
-"1000",2016,"EE","Sole proprietorship",11185
-"1001",2017,"EE","Sole proprietorship",10585
-"1002",2018,"EE","Sole proprietorship",9873
-"1003",2019,"EE","Sole proprietorship",9305
-"1004",2020,"EE","Sole proprietorship",8856
-"1005",2015,"GR","Sole proprietorship",616674
-"1006",2016,"GR","Sole proprietorship",603727
-"1007",2017,"GR","Sole proprietorship",597736
-"1008",2018,"GR","Sole proprietorship",608946
-"1009",2019,"GR","Sole proprietorship",620086
-"1010",2020,"GR","Sole proprietorship",629962
-"1011",2008,"ES","Sole proprietorship",1767298
-"1012",2009,"ES","Sole proprietorship",1701391
-"1013",2010,"ES","Sole proprietorship",1635807
-"1014",2011,"ES","Sole proprietorship",1594676
-"1015",2012,"ES","Sole proprietorship",1551291
-"1016",2013,"ES","Sole proprietorship",1507737
-"1017",2014,"ES","Sole proprietorship",1493071
-"1018",2015,"ES","Sole proprietorship",1522838
-"1019",2016,"ES","Sole proprietorship",1578508
-"1020",2017,"ES","Sole proprietorship",1607147
-"1021",2018,"ES","Sole proprietorship",1655939
-"1022",2019,"ES","Sole proprietorship",1688266
-"1023",2020,"ES","Sole proprietorship",1669945
-"1044",2008,"FI","Sole proprietorship",114327
-"1045",2009,"FI","Sole proprietorship",113920
-"1046",2010,"FI","Sole proprietorship",113183
-"1047",2011,"FI","Sole proprietorship",114063
-"1048",2012,"FI","Sole proprietorship",112428
-"1049",2013,"FI","Sole proprietorship",112274
-"1050",2014,"FI","Sole proprietorship",110516
-"1051",2015,"FI","Sole proprietorship",107405
-"1052",2016,"FI","Sole proprietorship",104964
-"1053",2017,"FI","Sole proprietorship",103810
-"1054",2018,"FI","Sole proprietorship",104828
-"1055",2019,"FI","Sole proprietorship",106173
-"1056",2020,"FI","Sole proprietorship",106638
-"1057",2008,"FR","Sole proprietorship",1138568
-"1058",2009,"FR","Sole proprietorship",1232685
-"1059",2010,"FR","Sole proprietorship",1304512
-"1060",2011,"FR","Sole proprietorship",1282965
-"1061",2012,"FR","Sole proprietorship",1286767
-"1062",2013,"FR","Sole proprietorship",1376493
-"1063",2014,"FR","Sole proprietorship",1532437
-"1064",2015,"FR","Sole proprietorship",1530481
-"1065",2016,"FR","Sole proprietorship",1511867
-"1066",2017,"FR","Sole proprietorship",1595037
-"1067",2018,"FR","Sole proprietorship",1721936
-"1068",2019,"FR","Sole proprietorship",1873315
-"1069",2020,"FR","Sole proprietorship",2027492
-"1070",2012,"HR","Sole proprietorship",57408
-"1071",2013,"HR","Sole proprietorship",55037
-"1072",2014,"HR","Sole proprietorship",58644
-"1073",2015,"HR","Sole proprietorship",54603
-"1074",2016,"HR","Sole proprietorship",50929
-"1075",2017,"HR","Sole proprietorship",47836
-"1076",2018,"HR","Sole proprietorship",47882
-"1077",2019,"HR","Sole proprietorship",72135
-"1078",2020,"HR","Sole proprietorship",70720
-"1079",2008,"HU","Sole proprietorship",254021
-"1080",2009,"HU","Sole proprietorship",233253
-"1081",2010,"HU","Sole proprietorship",228725
-"1082",2011,"HU","Sole proprietorship",215329
-"1083",2012,"HU","Sole proprietorship",183090
-"1084",2013,"HU","Sole proprietorship",182370
-"1085",2014,"HU","Sole proprietorship",191576
-"1086",2015,"HU","Sole proprietorship",201480
-"1087",2016,"HU","Sole proprietorship",219089
-"1088",2017,"HU","Sole proprietorship",250542
-"1089",2018,"HU","Sole proprietorship",279533
-"1090",2019,"HU","Sole proprietorship",311598
-"1091",2020,"HU","Sole proprietorship",358944
-"1092",2008,"IE","Sole proprietorship",93765
-"1093",2009,"IE","Sole proprietorship",84366
-"1094",2010,"IE","Sole proprietorship",82118
-"1095",2011,"IE","Sole proprietorship",77775
-"1096",2012,"IE","Sole proprietorship",74505
-"1097",2014,"IE","Sole proprietorship",130002
-"1098",2015,"IE","Sole proprietorship",134968
-"1099",2016,"IE","Sole proprietorship",131640
-"1100",2017,"IE","Sole proprietorship",143036
-"1101",2018,"IE","Sole proprietorship",136712
-"1102",2020,"IE","Sole proprietorship",138941
-"1103",2008,"IS","Sole proprietorship",8471
-"1104",2009,"IS","Sole proprietorship",8045
-"1105",2010,"IS","Sole proprietorship",8075
-"1106",2011,"IS","Sole proprietorship",7855
-"1107",2012,"IS","Sole proprietorship",7659
-"1108",2013,"IS","Sole proprietorship",7565
-"1109",2014,"IS","Sole proprietorship",7783
-"1110",2015,"IS","Sole proprietorship",7680
-"1111",2016,"IS","Sole proprietorship",8017
-"1112",2017,"IS","Sole proprietorship",7936
-"1113",2018,"IS","Sole proprietorship",7690
-"1114",2019,"IS","Sole proprietorship",7850
-"1115",2020,"IS","Sole proprietorship",7512
-"1116",2008,"IT","Sole proprietorship",2526956
-"1117",2009,"IT","Sole proprietorship",2489430
-"1118",2010,"IT","Sole proprietorship",2461680
-"1119",2011,"IT","Sole proprietorship",2425904
-"1120",2012,"IT","Sole proprietorship",2416616
-"1121",2013,"IT","Sole proprietorship",2353836
-"1122",2014,"IT","Sole proprietorship",2327932
-"1123",2015,"IT","Sole proprietorship",2306816
-"1124",2016,"IT","Sole proprietorship",2318892
-"1125",2017,"IT","Sole proprietorship",2309161
-"1126",2018,"IT","Sole proprietorship",2302422
-"1127",2019,"IT","Sole proprietorship",2223939
-"1128",2020,"IT","Sole proprietorship",2270614
-"1129",2008,"LT","Sole proprietorship",88942
-"1130",2009,"LT","Sole proprietorship",66879
-"1131",2010,"LT","Sole proprietorship",63733
-"1132",2011,"LT","Sole proprietorship",71613
-"1133",2012,"LT","Sole proprietorship",83944
-"1134",2013,"LT","Sole proprietorship",96275
-"1135",2014,"LT","Sole proprietorship",109586
-"1136",2015,"LT","Sole proprietorship",116255
-"1137",2016,"LT","Sole proprietorship",124740
-"1138",2017,"LT","Sole proprietorship",134510
-"1139",2018,"LT","Sole proprietorship",139997
-"1140",2019,"LT","Sole proprietorship",144848
-"1141",2020,"LT","Sole proprietorship",150919
-"1142",2008,"LU","Sole proprietorship",4473
-"1143",2009,"LU","Sole proprietorship",4415
-"1144",2010,"LU","Sole proprietorship",4500
-"1145",2011,"LU","Sole proprietorship",4494
-"1146",2012,"LU","Sole proprietorship",4449
-"1147",2013,"LU","Sole proprietorship",4656
-"1148",2014,"LU","Sole proprietorship",4602
-"1149",2015,"LU","Sole proprietorship",4591
-"1150",2016,"LU","Sole proprietorship",4539
-"1151",2017,"LU","Sole proprietorship",4882
-"1152",2018,"LU","Sole proprietorship",4880
-"1153",2019,"LU","Sole proprietorship",4935
-"1154",2020,"LU","Sole proprietorship",4415
-"1155",2008,"LV","Sole proprietorship",20339
-"1156",2009,"LV","Sole proprietorship",22788
-"1157",2010,"LV","Sole proprietorship",23678
-"1158",2011,"LV","Sole proprietorship",23258
-"1159",2012,"LV","Sole proprietorship",22824
-"1160",2013,"LV","Sole proprietorship",22032
-"1161",2014,"LV","Sole proprietorship",22050
-"1162",2015,"LV","Sole proprietorship",27139
-"1163",2016,"LV","Sole proprietorship",30803
-"1164",2017,"LV","Sole proprietorship",29376
-"1165",2018,"LV","Sole proprietorship",28306
-"1166",2019,"LV","Sole proprietorship",28025
-"1167",2020,"LV","Sole proprietorship",28910
-"1168",2009,"MK","Sole proprietorship",8011
-"1169",2010,"MK","Sole proprietorship",9483
-"1170",2011,"MK","Sole proprietorship",8177
-"1171",2012,"MK","Sole proprietorship",9015
-"1172",2013,"MK","Sole proprietorship",8348
-"1173",2014,"MK","Sole proprietorship",8462
-"1174",2015,"MK","Sole proprietorship",8637
-"1175",2016,"MK","Sole proprietorship",9066
-"1176",2017,"MK","Sole proprietorship",9174
-"1177",2018,"MK","Sole proprietorship",8724
-"1178",2019,"MK","Sole proprietorship",8649
-"1179",2020,"MK","Sole proprietorship",8454
-"1180",2010,"MT","Sole proprietorship",20364
-"1181",2011,"MT","Sole proprietorship",20128
-"1182",2012,"MT","Sole proprietorship",18509
-"1183",2013,"MT","Sole proprietorship",17933
-"1184",2014,"MT","Sole proprietorship",18525
-"1185",2015,"MT","Sole proprietorship",18224
-"1186",2016,"MT","Sole proprietorship",21282
-"1187",2017,"MT","Sole proprietorship",22392
-"1188",2018,"MT","Sole proprietorship",26564
-"1189",2019,"MT","Sole proprietorship",23923
-"1190",2020,"MT","Sole proprietorship",24444
-"1191",2007,"NL","Sole proprietorship",489178
-"1192",2009,"NL","Sole proprietorship",571649
-"1193",2010,"NL","Sole proprietorship",564350
-"1194",2011,"NL","Sole proprietorship",598783
-"1195",2012,"NL","Sole proprietorship",621094
-"1196",2013,"NL","Sole proprietorship",628234
-"1197",2014,"NL","Sole proprietorship",650688
-"1198",2015,"NL","Sole proprietorship",684429
-"1199",2016,"NL","Sole proprietorship",719488
-"1200",2017,"NL","Sole proprietorship",742340
-"1201",2018,"NL","Sole proprietorship",791307
-"1202",2019,"NL","Sole proprietorship",850750
-"1203",2020,"NL","Sole proprietorship",907977
-"1204",2008,"NO","Sole proprietorship",114870
-"1205",2009,"NO","Sole proprietorship",110349
-"1206",2010,"NO","Sole proprietorship",109205
-"1207",2011,"NO","Sole proprietorship",109116
-"1208",2012,"NO","Sole proprietorship",107829
-"1209",2013,"NO","Sole proprietorship",105655
-"1210",2014,"NO","Sole proprietorship",103842
-"1211",2015,"NO","Sole proprietorship",105835
-"1212",2016,"NO","Sole proprietorship",100468
-"1213",2017,"NO","Sole proprietorship",98640
-"1214",2018,"NO","Sole proprietorship",96869
-"1215",2019,"NO","Sole proprietorship",95091
-"1216",2020,"NO","Sole proprietorship",93968
-"1217",2008,"PL","Sole proprietorship",1678914
-"1218",2009,"PL","Sole proprietorship",1747794
-"1219",2010,"PL","Sole proprietorship",1792179
-"1220",2011,"PL","Sole proprietorship",1808011
-"1221",2012,"PL","Sole proprietorship",1803185
-"1222",2013,"PL","Sole proprietorship",1811856
-"1223",2014,"PL","Sole proprietorship",1811197
-"1224",2015,"PL","Sole proprietorship",1830896
-"1225",2016,"PL","Sole proprietorship",1776289
-"1226",2017,"PL","Sole proprietorship",1835418
-"1227",2018,"PL","Sole proprietorship",1761973
-"1228",2019,"PL","Sole proprietorship",1818922
-"1229",2020,"PL","Sole proprietorship",1855789
-"1230",2004,"PT","Sole proprietorship",558066
-"1231",2005,"PT","Sole proprietorship",580472
-"1232",2006,"PT","Sole proprietorship",589689
-"1233",2007,"PT","Sole proprietorship",622586
-"1234",2008,"PT","Sole proprietorship",633219
-"1235",2009,"PT","Sole proprietorship",598620
-"1236",2010,"PT","Sole proprietorship",557038
-"1237",2011,"PT","Sole proprietorship",528643
-"1238",2012,"PT","Sole proprietorship",496630
-"1239",2013,"PT","Sole proprietorship",481226
-"1240",2014,"PT","Sole proprietorship",479850
-"1241",2015,"PT","Sole proprietorship",496940
-"1242",2016,"PT","Sole proprietorship",515694
-"1243",2017,"PT","Sole proprietorship",538926
-"1244",2018,"PT","Sole proprietorship",550269
-"1245",2019,"PT","Sole proprietorship",562427
-"1246",2020,"PT","Sole proprietorship",537584
-"1247",2009,"RO","Sole proprietorship",0
-"1248",2010,"RO","Sole proprietorship",0
-"1249",2011,"RO","Sole proprietorship",203952
-"1250",2012,"RO","Sole proprietorship",218215
-"1251",2013,"RO","Sole proprietorship",257735
-"1252",2014,"RO","Sole proprietorship",263078
-"1253",2015,"RO","Sole proprietorship",258169
-"1254",2016,"RO","Sole proprietorship",247451
-"1255",2017,"RO","Sole proprietorship",245450
-"1256",2018,"RO","Sole proprietorship",241213
-"1257",2019,"RO","Sole proprietorship",231495
-"1258",2020,"RO","Sole proprietorship",242211
-"1259",2017,"RS","Sole proprietorship",219310
-"1260",2018,"RS","Sole proprietorship",233138
-"1261",2019,"RS","Sole proprietorship",261333
-"1262",2020,"RS","Sole proprietorship",264685
-"1263",2008,"SE","Sole proprietorship",285018
-"1264",2009,"SE","Sole proprietorship",295437
-"1265",2010,"SE","Sole proprietorship",299794
-"1266",2011,"SE","Sole proprietorship",316750
-"1267",2012,"SE","Sole proprietorship",319868
-"1268",2013,"SE","Sole proprietorship",305895
-"1269",2014,"SE","Sole proprietorship",300409
-"1270",2015,"SE","Sole proprietorship",298102
-"1271",2016,"SE","Sole proprietorship",296948
-"1272",2017,"SE","Sole proprietorship",291085
-"1273",2018,"SE","Sole proprietorship",284287
-"1274",2019,"SE","Sole proprietorship",282203
-"1275",2020,"SE","Sole proprietorship",279285
-"1276",2004,"SI","Sole proprietorship",56796
-"1277",2005,"SI","Sole proprietorship",57146
-"1278",2006,"SI","Sole proprietorship",60817
-"1279",2007,"SI","Sole proprietorship",63395
-"1280",2008,"SI","Sole proprietorship",67407
-"1281",2009,"SI","Sole proprietorship",70866
-"1282",2010,"SI","Sole proprietorship",72437
-"1283",2011,"SI","Sole proprietorship",72848
-"1284",2012,"SI","Sole proprietorship",73704
-"1285",2013,"SI","Sole proprietorship",78507
-"1286",2014,"SI","Sole proprietorship",79929
-"1287",2015,"SI","Sole proprietorship",82595
-"1288",2016,"SI","Sole proprietorship",84091
-"1289",2017,"SI","Sole proprietorship",83991
-"1290",2018,"SI","Sole proprietorship",87195
-"1291",2019,"SI","Sole proprietorship",89796
-"1292",2020,"SI","Sole proprietorship",91243
-"1293",2008,"SK","Sole proprietorship",265550
-"1294",2009,"SK","Sole proprietorship",268027
-"1295",2010,"SK","Sole proprietorship",259037
-"1296",2011,"SK","Sole proprietorship",283695
-"1297",2012,"SK","Sole proprietorship",275152
-"1298",2013,"SK","Sole proprietorship",263389
-"1299",2014,"SK","Sole proprietorship",292141
-"1300",2015,"SK","Sole proprietorship",281853
-"1301",2016,"SK","Sole proprietorship",280532
-"1302",2017,"SK","Sole proprietorship",298949
-"1303",2018,"SK","Sole proprietorship",311323
-"1304",2019,"SK","Sole proprietorship",322374
-"1305",2020,"SK","Sole proprietorship",321787
-"1306",2009,"TR","Sole proprietorship",1954352
-"1307",2010,"TR","Sole proprietorship",1986101
-"1308",2011,"TR","Sole proprietorship",2019782
-"1309",2012,"TR","Sole proprietorship",2073598
-"1310",2013,"TR","Sole proprietorship",2114278
-"1311",2014,"TR","Sole proprietorship",2138039
-"1312",2015,"TR","Sole proprietorship",2159527
-"1313",2016,"TR","Sole proprietorship",2174457
-"1314",2017,"TR","Sole proprietorship",2246164
-"1315",2018,"TR","Sole proprietorship",2249078
-"1316",2019,"TR","Sole proprietorship",2279686
-"1317",2020,"TR","Sole proprietorship",2322837
-"1318",2008,"GB","Sole proprietorship",506230
-"1319",2009,"GB","Sole proprietorship",489210
-"1320",2010,"GB","Sole proprietorship",461065
-"1321",2011,"GB","Sole proprietorship",455085
-"1322",2012,"GB","Sole proprietorship",440245
-"1323",2013,"GB","Sole proprietorship",435190
-"1324",2014,"GB","Sole proprietorship",422725
-"1325",2015,"GB","Sole proprietorship",401025
-"1326",2016,"GB","Sole proprietorship",393340
-"1327",2017,"GB","Sole proprietorship",385850
-"1328",2018,"GB","Sole proprietorship",372200
+"1",2004,"AT","private_limited_liability",62801
+"2",2005,"AT","private_limited_liability",65376
+"3",2006,"AT","private_limited_liability",68530
+"4",2007,"AT","private_limited_liability",79397
+"5",2008,"AT","private_limited_liability",82751
+"6",2009,"AT","private_limited_liability",85277
+"7",2010,"AT","private_limited_liability",87701
+"8",2011,"AT","private_limited_liability",87886
+"9",2012,"AT","private_limited_liability",89614
+"10",2013,"AT","private_limited_liability",93922
+"11",2014,"AT","private_limited_liability",96266
+"12",2015,"AT","private_limited_liability",98777
+"13",2016,"AT","private_limited_liability",99480
+"14",2017,"AT","private_limited_liability",100554
+"15",2018,"AT","private_limited_liability",102466
+"16",2019,"AT","private_limited_liability",104823
+"17",2020,"AT","private_limited_liability",110943
+"18",2017,"BA","private_limited_liability",32422
+"19",2018,"BA","private_limited_liability",32533
+"20",2019,"BA","private_limited_liability",32079
+"21",2008,"BE","private_limited_liability",306589
+"22",2009,"BE","private_limited_liability",354494
+"23",2010,"BE","private_limited_liability",365106
+"24",2011,"BE","private_limited_liability",376867
+"25",2012,"BE","private_limited_liability",382074
+"26",2013,"BE","private_limited_liability",380098
+"27",2014,"BE","private_limited_liability",382197
+"28",2015,"BE","private_limited_liability",386488
+"29",2016,"BE","private_limited_liability",399359
+"30",2017,"BE","private_limited_liability",409104
+"31",2018,"BE","private_limited_liability",398478
+"32",2019,"BE","private_limited_liability",416485
+"33",2020,"BE","private_limited_liability",430095
+"34",2008,"BG","private_limited_liability",140327
+"35",2009,"BG","private_limited_liability",183482
+"36",2010,"BG","private_limited_liability",193019
+"37",2011,"BG","private_limited_liability",200668
+"38",2012,"BG","private_limited_liability",214198
+"39",2013,"BG","private_limited_liability",226214
+"40",2014,"BG","private_limited_liability",237966
+"41",2015,"BG","private_limited_liability",250423
+"42",2016,"BG","private_limited_liability",264986
+"43",2017,"BG","private_limited_liability",271368
+"44",2018,"BG","private_limited_liability",281772
+"45",2019,"BG","private_limited_liability",285113
+"46",2020,"BG","private_limited_liability",282130
+"47",2013,"CH","private_limited_liability",195117
+"48",2014,"CH","private_limited_liability",200325
+"49",2015,"CH","private_limited_liability",206329
+"50",2016,"CH","private_limited_liability",210827
+"51",2017,"CH","private_limited_liability",216048
+"52",2018,"CH","private_limited_liability",219244
+"53",2019,"CH","private_limited_liability",224738
+"54",2020,"CH","private_limited_liability",228995
+"55",2008,"CY","private_limited_liability",31666
+"56",2009,"CY","private_limited_liability",31989
+"57",2010,"CY","private_limited_liability",31514
+"58",2011,"CY","private_limited_liability",32095
+"59",2012,"CY","private_limited_liability",31831
+"60",2013,"CY","private_limited_liability",30462
+"61",2014,"CY","private_limited_liability",30362
+"62",2015,"CY","private_limited_liability",30688
+"63",2016,"CY","private_limited_liability",31661
+"64",2017,"CY","private_limited_liability",33542
+"65",2018,"CY","private_limited_liability",32640
+"66",2019,"CY","private_limited_liability",37822
+"67",2020,"CY","private_limited_liability",38690
+"68",2008,"CZ","private_limited_liability",168102
+"69",2009,"CZ","private_limited_liability",180965
+"70",2010,"CZ","private_limited_liability",193475
+"71",2011,"CZ","private_limited_liability",204848
+"72",2012,"CZ","private_limited_liability",213828
+"73",2013,"CZ","private_limited_liability",220715
+"74",2014,"CZ","private_limited_liability",233057
+"75",2015,"CZ","private_limited_liability",235940
+"76",2016,"CZ","private_limited_liability",247160
+"77",2017,"CZ","private_limited_liability",257208
+"78",2018,"CZ","private_limited_liability",268640
+"79",2019,"CZ","private_limited_liability",279705
+"80",2020,"CZ","private_limited_liability",287537
+"81",2008,"DE","private_limited_liability",564821
+"82",2009,"DE","private_limited_liability",572633
+"83",2010,"DE","private_limited_liability",584036
+"84",2011,"DE","private_limited_liability",593856
+"85",2012,"DE","private_limited_liability",607263
+"86",2013,"DE","private_limited_liability",595151
+"87",2014,"DE","private_limited_liability",605659
+"88",2015,"DE","private_limited_liability",601645
+"89",2016,"DE","private_limited_liability",612705
+"90",2017,"DE","private_limited_liability",622831
+"91",2018,"DE","private_limited_liability",570711
+"92",2019,"DE","private_limited_liability",624689
+"93",2020,"DE","private_limited_liability",625719
+"94",2009,"DK","private_limited_liability",97546
+"95",2010,"DK","private_limited_liability",100864
+"96",2011,"DK","private_limited_liability",103806
+"97",2012,"DK","private_limited_liability",105440
+"98",2013,"DK","private_limited_liability",106566
+"99",2014,"DK","private_limited_liability",109795
+"100",2015,"DK","private_limited_liability",112205
+"101",2016,"DK","private_limited_liability",118142
+"102",2017,"DK","private_limited_liability",124483
+"103",2018,"DK","private_limited_liability",129060
+"104",2019,"DK","private_limited_liability",133122
+"105",2020,"DK","private_limited_liability",136331
+"106",2008,"EE","private_limited_liability",54442
+"107",2009,"EE","private_limited_liability",54838
+"108",2010,"EE","private_limited_liability",56295
+"109",2011,"EE","private_limited_liability",58987
+"110",2012,"EE","private_limited_liability",63328
+"111",2013,"EE","private_limited_liability",66043
+"112",2014,"EE","private_limited_liability",68200
+"113",2015,"EE","private_limited_liability",70712
+"114",2016,"EE","private_limited_liability",73882
+"115",2017,"EE","private_limited_liability",78464
+"116",2018,"EE","private_limited_liability",82570
+"117",2019,"EE","private_limited_liability",85026
+"118",2020,"EE","private_limited_liability",88010
+"119",2015,"GR","private_limited_liability",51334
+"120",2016,"GR","private_limited_liability",54478
+"121",2017,"GR","private_limited_liability",61705
+"122",2018,"GR","private_limited_liability",74625
+"123",2019,"GR","private_limited_liability",83658
+"124",2020,"GR","private_limited_liability",89861
+"125",2008,"ES","private_limited_liability",1262226
+"126",2009,"ES","private_limited_liability",1235074
+"127",2010,"ES","private_limited_liability",1213318
+"128",2011,"ES","private_limited_liability",1208308
+"129",2012,"ES","private_limited_liability",1209684
+"130",2013,"ES","private_limited_liability",1200936
+"131",2014,"ES","private_limited_liability",1202427
+"132",2015,"ES","private_limited_liability",1202576
+"133",2016,"ES","private_limited_liability",1217098
+"134",2017,"ES","private_limited_liability",1219112
+"135",2018,"ES","private_limited_liability",1192694
+"136",2019,"ES","private_limited_liability",1191693
+"137",2020,"ES","private_limited_liability",1169237
+"158",2008,"FI","private_limited_liability",127300
+"159",2009,"FI","private_limited_liability",130599
+"160",2010,"FI","private_limited_liability",132630
+"161",2011,"FI","private_limited_liability",135504
+"162",2012,"FI","private_limited_liability",138397
+"163",2013,"FI","private_limited_liability",146530
+"164",2014,"FI","private_limited_liability",151177
+"165",2015,"FI","private_limited_liability",153515
+"166",2016,"FI","private_limited_liability",155173
+"167",2017,"FI","private_limited_liability",166507
+"168",2018,"FI","private_limited_liability",170038
+"169",2019,"FI","private_limited_liability",175742
+"170",2020,"FI","private_limited_liability",181789
+"171",2008,"FR","private_limited_liability",1231727
+"172",2009,"FR","private_limited_liability",1271972
+"173",2010,"FR","private_limited_liability",1311570
+"174",2011,"FR","private_limited_liability",1355222
+"175",2012,"FR","private_limited_liability",1387492
+"176",2013,"FR","private_limited_liability",1766882
+"177",2014,"FR","private_limited_liability",1844187
+"178",2015,"FR","private_limited_liability",1923702
+"179",2016,"FR","private_limited_liability",2012871
+"180",2017,"FR","private_limited_liability",2118929
+"181",2018,"FR","private_limited_liability",2224029
+"182",2019,"FR","private_limited_liability",2344125
+"183",2020,"FR","private_limited_liability",2447796
+"184",2012,"HR","private_limited_liability",89242
+"185",2013,"HR","private_limited_liability",89787
+"186",2014,"HR","private_limited_liability",87360
+"187",2015,"HR","private_limited_liability",90793
+"188",2016,"HR","private_limited_liability",95523
+"189",2017,"HR","private_limited_liability",100596
+"190",2018,"HR","private_limited_liability",107153
+"191",2019,"HR","private_limited_liability",108636
+"192",2020,"HR","private_limited_liability",107136
+"193",2008,"HU","private_limited_liability",187906
+"194",2009,"HU","private_limited_liability",201596
+"195",2010,"HU","private_limited_liability",216762
+"196",2011,"HU","private_limited_liability",231175
+"197",2012,"HU","private_limited_liability",237839
+"198",2013,"HU","private_limited_liability",235766
+"199",2014,"HU","private_limited_liability",235959
+"200",2015,"HU","private_limited_liability",237318
+"201",2016,"HU","private_limited_liability",229597
+"202",2017,"HU","private_limited_liability",221687
+"203",2018,"HU","private_limited_liability",239231
+"204",2019,"HU","private_limited_liability",244028
+"205",2020,"HU","private_limited_liability",243563
+"206",2008,"IE","private_limited_liability",94498
+"207",2009,"IE","private_limited_liability",99270
+"208",2010,"IE","private_limited_liability",97103
+"209",2011,"IE","private_limited_liability",94830
+"210",2012,"IE","private_limited_liability",94721
+"211",2014,"IE","private_limited_liability",98911
+"212",2015,"IE","private_limited_liability",104564
+"213",2016,"IE","private_limited_liability",109431
+"214",2017,"IE","private_limited_liability",118769
+"215",2018,"IE","private_limited_liability",123691
+"216",2020,"IE","private_limited_liability",133457
+"217",2008,"IS","private_limited_liability",13741
+"218",2009,"IS","private_limited_liability",14300
+"219",2010,"IS","private_limited_liability",14568
+"220",2011,"IS","private_limited_liability",14803
+"221",2012,"IS","private_limited_liability",15065
+"222",2013,"IS","private_limited_liability",15476
+"223",2014,"IS","private_limited_liability",16181
+"224",2015,"IS","private_limited_liability",16681
+"225",2016,"IS","private_limited_liability",17872
+"226",2017,"IS","private_limited_liability",19027
+"227",2018,"IS","private_limited_liability",19531
+"228",2019,"IS","private_limited_liability",20128
+"229",2020,"IS","private_limited_liability",20824
+"230",2008,"IT","private_limited_liability",715796
+"231",2009,"IT","private_limited_liability",715527
+"232",2010,"IT","private_limited_liability",736604
+"233",2011,"IT","private_limited_liability",764623
+"234",2012,"IT","private_limited_liability",768836
+"235",2013,"IT","private_limited_liability",795435
+"236",2014,"IT","private_limited_liability",795083
+"237",2015,"IT","private_limited_liability",811477
+"238",2016,"IT","private_limited_liability",844242
+"239",2017,"IT","private_limited_liability",869919
+"240",2018,"IT","private_limited_liability",895173
+"241",2019,"IT","private_limited_liability",915602
+"242",2020,"IT","private_limited_liability",925805
+"243",2008,"LT","private_limited_liability",50110
+"244",2009,"LT","private_limited_liability",52973
+"245",2010,"LT","private_limited_liability",55453
+"246",2011,"LT","private_limited_liability",58729
+"247",2012,"LT","private_limited_liability",65171
+"248",2013,"LT","private_limited_liability",60429
+"249",2014,"LT","private_limited_liability",66641
+"250",2015,"LT","private_limited_liability",68137
+"251",2016,"LT","private_limited_liability",71009
+"252",2017,"LT","private_limited_liability",69080
+"253",2018,"LT","private_limited_liability",71890
+"254",2019,"LT","private_limited_liability",75918
+"255",2020,"LT","private_limited_liability",78358
+"256",2008,"LU","private_limited_liability",20438
+"257",2009,"LU","private_limited_liability",21276
+"258",2010,"LU","private_limited_liability",22095
+"259",2011,"LU","private_limited_liability",22957
+"260",2012,"LU","private_limited_liability",23600
+"261",2013,"LU","private_limited_liability",24510
+"262",2014,"LU","private_limited_liability",25589
+"263",2015,"LU","private_limited_liability",26233
+"264",2016,"LU","private_limited_liability",26753
+"265",2017,"LU","private_limited_liability",27610
+"266",2018,"LU","private_limited_liability",28603
+"267",2019,"LU","private_limited_liability",29469
+"268",2020,"LU","private_limited_liability",29798
+"269",2008,"LV","private_limited_liability",55211
+"270",2009,"LV","private_limited_liability",55799
+"271",2010,"LV","private_limited_liability",57721
+"272",2011,"LV","private_limited_liability",63503
+"273",2012,"LV","private_limited_liability",69593
+"274",2013,"LV","private_limited_liability",73719
+"275",2014,"LV","private_limited_liability",77640
+"276",2015,"LV","private_limited_liability",81128
+"277",2016,"LV","private_limited_liability",83332
+"278",2017,"LV","private_limited_liability",82063
+"279",2018,"LV","private_limited_liability",82924
+"280",2019,"LV","private_limited_liability",82432
+"281",2020,"LV","private_limited_liability",81072
+"282",2009,"MK","private_limited_liability",49545
+"283",2010,"MK","private_limited_liability",50276
+"284",2011,"MK","private_limited_liability",50789
+"285",2012,"MK","private_limited_liability",49184
+"286",2013,"MK","private_limited_liability",48123
+"287",2014,"MK","private_limited_liability",47840
+"288",2015,"MK","private_limited_liability",47101
+"289",2016,"MK","private_limited_liability",47874
+"290",2017,"MK","private_limited_liability",47690
+"291",2018,"MK","private_limited_liability",48116
+"292",2019,"MK","private_limited_liability",48711
+"293",2020,"MK","private_limited_liability",48923
+"294",2010,"MT","private_limited_liability",10375
+"295",2011,"MT","private_limited_liability",10506
+"296",2012,"MT","private_limited_liability",10811
+"297",2013,"MT","private_limited_liability",10557
+"298",2014,"MT","private_limited_liability",11307
+"299",2015,"MT","private_limited_liability",12087
+"300",2016,"MT","private_limited_liability",12953
+"301",2017,"MT","private_limited_liability",13432
+"302",2018,"MT","private_limited_liability",12945
+"303",2019,"MT","private_limited_liability",12765
+"304",2020,"MT","private_limited_liability",12994
+"305",2007,"NL","private_limited_liability",223295
+"306",2009,"NL","private_limited_liability",248222
+"307",2010,"NL","private_limited_liability",248326
+"308",2011,"NL","private_limited_liability",254847
+"309",2012,"NL","private_limited_liability",257479
+"310",2013,"NL","private_limited_liability",262525
+"311",2014,"NL","private_limited_liability",267546
+"312",2015,"NL","private_limited_liability",269373
+"313",2016,"NL","private_limited_liability",275222
+"314",2017,"NL","private_limited_liability",279378
+"315",2018,"NL","private_limited_liability",287706
+"316",2019,"NL","private_limited_liability",295787
+"317",2020,"NL","private_limited_liability",303548
+"318",2008,"NO","private_limited_liability",137404
+"319",2009,"NO","private_limited_liability",139815
+"320",2010,"NO","private_limited_liability",138614
+"321",2011,"NO","private_limited_liability",144563
+"322",2012,"NO","private_limited_liability",151680
+"323",2013,"NO","private_limited_liability",164993
+"324",2014,"NO","private_limited_liability",169095
+"325",2015,"NO","private_limited_liability",175253
+"326",2016,"NO","private_limited_liability",182576
+"327",2017,"NO","private_limited_liability",187324
+"328",2018,"NO","private_limited_liability",190079
+"329",2019,"NO","private_limited_liability",189964
+"330",2020,"NO","private_limited_liability",195363
+"331",2008,"PL","private_limited_liability",116279
+"332",2009,"PL","private_limited_liability",121360
+"333",2010,"PL","private_limited_liability",123207
+"334",2011,"PL","private_limited_liability",131906
+"335",2012,"PL","private_limited_liability",140880
+"336",2013,"PL","private_limited_liability",155002
+"337",2014,"PL","private_limited_liability",164195
+"338",2015,"PL","private_limited_liability",176573
+"339",2016,"PL","private_limited_liability",186763
+"340",2017,"PL","private_limited_liability",195813
+"341",2018,"PL","private_limited_liability",181644
+"342",2019,"PL","private_limited_liability",184941
+"343",2020,"PL","private_limited_liability",190593
+"344",2004,"PT","private_limited_liability",297622
+"345",2005,"PT","private_limited_liability",300304
+"346",2006,"PT","private_limited_liability",300353
+"347",2007,"PT","private_limited_liability",312165
+"348",2008,"PT","private_limited_liability",318887
+"349",2009,"PT","private_limited_liability",316408
+"350",2010,"PT","private_limited_liability",310650
+"351",2011,"PT","private_limited_liability",310356
+"352",2012,"PT","private_limited_liability",304169
+"353",2013,"PT","private_limited_liability",303491
+"354",2014,"PT","private_limited_liability",308235
+"355",2015,"PT","private_limited_liability",315050
+"356",2016,"PT","private_limited_liability",321977
+"357",2017,"PT","private_limited_liability",333360
+"358",2018,"PT","private_limited_liability",349252
+"359",2019,"PT","private_limited_liability",370978
+"360",2020,"PT","private_limited_liability",377670
+"361",2008,"RO","private_limited_liability",507685
+"362",2009,"RO","private_limited_liability",493434
+"363",2010,"RO","private_limited_liability",445868
+"364",2011,"RO","private_limited_liability",402048
+"365",2012,"RO","private_limited_liability",425309
+"366",2013,"RO","private_limited_liability",428611
+"367",2014,"RO","private_limited_liability",429611
+"368",2015,"RO","private_limited_liability",433603
+"369",2016,"RO","private_limited_liability",466683
+"370",2017,"RO","private_limited_liability",485212
+"371",2018,"RO","private_limited_liability",504007
+"372",2019,"RO","private_limited_liability",513921
+"373",2020,"RO","private_limited_liability",542204
+"374",2017,"RS","private_limited_liability",1455
+"375",2018,"RS","private_limited_liability",1485
+"376",2019,"RS","private_limited_liability",140908
+"377",2020,"RS","private_limited_liability",119281
+"378",2008,"SE","private_limited_liability",263978
+"379",2009,"SE","private_limited_liability",272186
+"380",2010,"SE","private_limited_liability",284463
+"381",2011,"SE","private_limited_liability",312293
+"382",2012,"SE","private_limited_liability",330449
+"383",2013,"SE","private_limited_liability",347015
+"384",2014,"SE","private_limited_liability",362135
+"385",2015,"SE","private_limited_liability",380007
+"386",2016,"SE","private_limited_liability",401667
+"387",2017,"SE","private_limited_liability",420421
+"388",2018,"SE","private_limited_liability",438427
+"389",2019,"SE","private_limited_liability",456366
+"390",2020,"SE","private_limited_liability",478737
+"391",2004,"SI","private_limited_liability",33028
+"392",2005,"SI","private_limited_liability",34613
+"393",2006,"SI","private_limited_liability",36450
+"394",2007,"SI","private_limited_liability",38906
+"395",2008,"SI","private_limited_liability",42511
+"396",2009,"SI","private_limited_liability",45573
+"397",2010,"SI","private_limited_liability",47974
+"398",2011,"SI","private_limited_liability",49743
+"399",2012,"SI","private_limited_liability",51763
+"400",2013,"SI","private_limited_liability",53633
+"401",2014,"SI","private_limited_liability",55188
+"402",2015,"SI","private_limited_liability",56365
+"403",2016,"SI","private_limited_liability",57193
+"404",2017,"SI","private_limited_liability",56824
+"405",2018,"SI","private_limited_liability",57225
+"406",2019,"SI","private_limited_liability",58047
+"407",2020,"SI","private_limited_liability",57881
+"408",2008,"SK","private_limited_liability",77271
+"409",2009,"SK","private_limited_liability",92548
+"410",2010,"SK","private_limited_liability",112399
+"411",2011,"SK","private_limited_liability",133494
+"412",2012,"SK","private_limited_liability",124693
+"413",2013,"SK","private_limited_liability",134049
+"414",2014,"SK","private_limited_liability",144215
+"415",2015,"SK","private_limited_liability",162703
+"416",2016,"SK","private_limited_liability",171699
+"417",2017,"SK","private_limited_liability",180428
+"418",2018,"SK","private_limited_liability",188748
+"419",2019,"SK","private_limited_liability",197370
+"420",2020,"SK","private_limited_liability",204124
+"421",2009,"TR","private_limited_liability",456256
+"422",2010,"TR","private_limited_liability",465482
+"423",2011,"TR","private_limited_liability",484362
+"424",2012,"TR","private_limited_liability",489502
+"425",2013,"TR","private_limited_liability",496269
+"426",2014,"TR","private_limited_liability",510708
+"427",2015,"TR","private_limited_liability",532754
+"428",2016,"TR","private_limited_liability",555501
+"429",2017,"TR","private_limited_liability",584773
+"430",2018,"TR","private_limited_liability",617580
+"431",2019,"TR","private_limited_liability",645018
+"432",2020,"TR","private_limited_liability",674751
+"433",2008,"GB","private_limited_liability",1422640
+"434",2009,"GB","private_limited_liability",1403980
+"435",2010,"GB","private_limited_liability",1350255
+"436",2011,"GB","private_limited_liability",1380415
+"437",2012,"GB","private_limited_liability",1434745
+"438",2013,"GB","private_limited_liability",1523665
+"439",2014,"GB","private_limited_liability",1640235
+"440",2015,"GB","private_limited_liability",1779175
+"441",2016,"GB","private_limited_liability",1935880
+"442",2017,"GB","private_limited_liability",2032440
+"443",2018,"GB","private_limited_liability",2082930
+"444",2004,"AT","partnerships",41404
+"445",2005,"AT","partnerships",42337
+"446",2006,"AT","partnerships",43060
+"447",2007,"AT","partnerships",47988
+"448",2008,"AT","partnerships",49019
+"449",2009,"AT","partnerships",49368
+"450",2010,"AT","partnerships",49790
+"451",2011,"AT","partnerships",49983
+"452",2012,"AT","partnerships",50332
+"453",2013,"AT","partnerships",54077
+"454",2014,"AT","partnerships",51341
+"455",2015,"AT","partnerships",46690
+"456",2016,"AT","partnerships",46921
+"457",2017,"AT","partnerships",46338
+"458",2018,"AT","partnerships",46576
+"459",2019,"AT","partnerships",46493
+"460",2020,"AT","partnerships",47346
+"461",2017,"BA","partnerships",924
+"462",2018,"BA","partnerships",937
+"463",2019,"BA","partnerships",914
+"464",2008,"BE","partnerships",30244
+"465",2009,"BE","partnerships",37933
+"466",2010,"BE","partnerships",39734
+"467",2011,"BE","partnerships",42170
+"468",2012,"BE","partnerships",44644
+"469",2013,"BE","partnerships",46281
+"470",2014,"BE","partnerships",48289
+"471",2015,"BE","partnerships",50639
+"472",2016,"BE","partnerships",54436
+"473",2017,"BE","partnerships",57994
+"474",2018,"BE","partnerships",61985
+"475",2019,"BE","partnerships",64081
+"476",2020,"BE","partnerships",63946
+"477",2008,"BG","partnerships",9683
+"478",2009,"BG","partnerships",11348
+"479",2010,"BG","partnerships",10914
+"480",2011,"BG","partnerships",10567
+"481",2012,"BG","partnerships",10931
+"482",2013,"BG","partnerships",11300
+"483",2014,"BG","partnerships",11429
+"484",2015,"BG","partnerships",11421
+"485",2016,"BG","partnerships",11065
+"486",2017,"BG","partnerships",10460
+"487",2018,"BG","partnerships",10031
+"488",2019,"BG","partnerships",8593
+"489",2020,"BG","partnerships",7808
+"490",2013,"CH","partnerships",16123
+"491",2014,"CH","partnerships",15721
+"492",2015,"CH","partnerships",15176
+"493",2016,"CH","partnerships",14631
+"494",2017,"CH","partnerships",14313
+"495",2018,"CH","partnerships",13751
+"496",2019,"CH","partnerships",13482
+"497",2020,"CH","partnerships",12739
+"498",2008,"CY","partnerships",1945
+"499",2009,"CY","partnerships",1730
+"500",2010,"CY","partnerships",1544
+"501",2011,"CY","partnerships",1404
+"502",2012,"CY","partnerships",1520
+"503",2013,"CY","partnerships",1480
+"504",2014,"CY","partnerships",1131
+"505",2015,"CY","partnerships",1067
+"506",2016,"CY","partnerships",1037
+"507",2017,"CY","partnerships",1068
+"508",2018,"CY","partnerships",877
+"509",2019,"CY","partnerships",999
+"510",2020,"CY","partnerships",368
+"511",2008,"CZ","partnerships",6864
+"512",2009,"CZ","partnerships",6823
+"513",2010,"CZ","partnerships",6832
+"514",2011,"CZ","partnerships",6718
+"515",2012,"CZ","partnerships",6695
+"516",2013,"CZ","partnerships",6618
+"517",2014,"CZ","partnerships",6648
+"518",2015,"CZ","partnerships",6173
+"519",2016,"CZ","partnerships",5673
+"520",2017,"CZ","partnerships",5526
+"521",2018,"CZ","partnerships",5473
+"522",2019,"CZ","partnerships",5354
+"523",2020,"CZ","partnerships",5224
+"524",2008,"DE","partnerships",481633
+"525",2009,"DE","partnerships",482360
+"526",2010,"DE","partnerships",493909
+"527",2011,"DE","partnerships",488448
+"528",2012,"DE","partnerships",476412
+"529",2013,"DE","partnerships",478603
+"530",2014,"DE","partnerships",418524
+"531",2015,"DE","partnerships",413886
+"532",2016,"DE","partnerships",412961
+"533",2017,"DE","partnerships",412790
+"534",2018,"DE","partnerships",365256
+"535",2019,"DE","partnerships",388477
+"536",2020,"DE","partnerships",381414
+"537",2009,"DK","partnerships",15764
+"538",2010,"DK","partnerships",15501
+"539",2011,"DK","partnerships",15508
+"540",2012,"DK","partnerships",15205
+"541",2013,"DK","partnerships",14685
+"542",2014,"DK","partnerships",14346
+"543",2015,"DK","partnerships",14616
+"544",2016,"DK","partnerships",14620
+"545",2017,"DK","partnerships",13981
+"546",2018,"DK","partnerships",13369
+"547",2019,"DK","partnerships",13010
+"548",2020,"DK","partnerships",12289
+"549",2008,"EE","partnerships",628
+"550",2009,"EE","partnerships",651
+"551",2010,"EE","partnerships",733
+"552",2011,"EE","partnerships",743
+"553",2012,"EE","partnerships",642
+"554",2013,"EE","partnerships",636
+"555",2014,"EE","partnerships",641
+"556",2015,"EE","partnerships",658
+"557",2016,"EE","partnerships",670
+"558",2017,"EE","partnerships",680
+"559",2018,"EE","partnerships",652
+"560",2019,"EE","partnerships",627
+"561",2020,"EE","partnerships",636
+"562",2015,"GR","partnerships",109260
+"563",2016,"GR","partnerships",107769
+"564",2017,"GR","partnerships",109427
+"565",2018,"GR","partnerships",117268
+"566",2019,"GR","partnerships",122456
+"567",2020,"GR","partnerships",128202
+"568",2008,"ES","partnerships",257327
+"569",2009,"ES","partnerships",257710
+"570",2010,"ES","partnerships",252891
+"571",2011,"ES","partnerships",253456
+"572",2012,"ES","partnerships",251468
+"573",2013,"ES","partnerships",243142
+"574",2014,"ES","partnerships",248410
+"575",2015,"ES","partnerships",245533
+"576",2016,"ES","partnerships",230631
+"577",2017,"ES","partnerships",207928
+"578",2018,"ES","partnerships",214356
+"579",2019,"ES","partnerships",216639
+"580",2020,"ES","partnerships",213459
+"601",2008,"FI","partnerships",38961
+"602",2009,"FI","partnerships",38685
+"603",2010,"FI","partnerships",40619
+"604",2011,"FI","partnerships",41513
+"605",2012,"FI","partnerships",40585
+"606",2013,"FI","partnerships",31974
+"607",2014,"FI","partnerships",30237
+"608",2015,"FI","partnerships",29034
+"609",2016,"FI","partnerships",27366
+"610",2017,"FI","partnerships",26281
+"611",2018,"FI","partnerships",25266
+"612",2019,"FI","partnerships",24232
+"613",2020,"FI","partnerships",22959
+"614",2008,"FR","partnerships",299947
+"615",2009,"FR","partnerships",312196
+"616",2010,"FR","partnerships",331541
+"617",2011,"FR","partnerships",339412
+"618",2012,"FR","partnerships",364944
+"619",2013,"FR","partnerships",37697
+"620",2014,"FR","partnerships",37990
+"621",2015,"FR","partnerships",37869
+"622",2016,"FR","partnerships",33997
+"623",2017,"FR","partnerships",36194
+"624",2018,"FR","partnerships",35708
+"625",2019,"FR","partnerships",35254
+"626",2020,"FR","partnerships",35077
+"627",2012,"HR","partnerships",1148
+"628",2013,"HR","partnerships",976
+"629",2014,"HR","partnerships",762
+"630",2015,"HR","partnerships",733
+"631",2016,"HR","partnerships",729
+"632",2017,"HR","partnerships",686
+"633",2018,"HR","partnerships",669
+"634",2019,"HR","partnerships",845
+"635",2020,"HR","partnerships",1450
+"636",2008,"HU","partnerships",133455
+"637",2009,"HU","partnerships",124565
+"638",2010,"HU","partnerships",117881
+"639",2011,"HU","partnerships",111385
+"640",2012,"HU","partnerships",103820
+"641",2013,"HU","partnerships",97789
+"642",2014,"HU","partnerships",94523
+"643",2015,"HU","partnerships",92323
+"644",2016,"HU","partnerships",86821
+"645",2017,"HU","partnerships",83751
+"646",2018,"HU","partnerships",86562
+"647",2019,"HU","partnerships",85446
+"648",2020,"HU","partnerships",82650
+"649",2008,"IE","partnerships",14820
+"650",2009,"IE","partnerships",15605
+"651",2010,"IE","partnerships",16210
+"652",2011,"IE","partnerships",16450
+"653",2012,"IE","partnerships",16304
+"654",2014,"IE","partnerships",9336
+"655",2015,"IE","partnerships",9311
+"656",2016,"IE","partnerships",8962
+"657",2017,"IE","partnerships",9361
+"658",2018,"IE","partnerships",9941
+"659",2020,"IE","partnerships",6464
+"660",2008,"IS","partnerships",895
+"661",2009,"IS","partnerships",896
+"662",2010,"IS","partnerships",1131
+"663",2011,"IS","partnerships",1279
+"664",2012,"IS","partnerships",1440
+"665",2013,"IS","partnerships",1586
+"666",2014,"IS","partnerships",1683
+"667",2015,"IS","partnerships",1678
+"668",2016,"IS","partnerships",1764
+"669",2017,"IS","partnerships",1832
+"670",2018,"IS","partnerships",1860
+"671",2019,"IS","partnerships",1897
+"672",2020,"IS","partnerships",1973
+"673",2008,"IT","partnerships",811555
+"674",2009,"IT","partnerships",793139
+"675",2010,"IT","partnerships",787150
+"676",2011,"IT","partnerships",780220
+"677",2012,"IT","partnerships",768262
+"678",2013,"IT","partnerships",754948
+"679",2014,"IT","partnerships",723644
+"680",2015,"IT","partnerships",701663
+"681",2016,"IT","partnerships",686460
+"682",2017,"IT","partnerships",659734
+"683",2018,"IT","partnerships",636484
+"684",2019,"IT","partnerships",612274
+"685",2020,"IT","partnerships",581035
+"686",2008,"LT","partnerships",1520
+"687",2009,"LT","partnerships",1552
+"688",2010,"LT","partnerships",1644
+"689",2011,"LT","partnerships",1644
+"690",2012,"LT","partnerships",1740
+"691",2013,"LT","partnerships",1486
+"692",2014,"LT","partnerships",1525
+"693",2015,"LT","partnerships",1562
+"694",2016,"LT","partnerships",1505
+"695",2017,"LT","partnerships",965
+"696",2018,"LT","partnerships",1006
+"697",2019,"LT","partnerships",986
+"698",2020,"LT","partnerships",914
+"699",2008,"LU","partnerships",987
+"700",2009,"LU","partnerships",995
+"701",2010,"LU","partnerships",1016
+"702",2011,"LU","partnerships",1065
+"703",2012,"LU","partnerships",1073
+"704",2013,"LU","partnerships",1057
+"705",2014,"LU","partnerships",1055
+"706",2015,"LU","partnerships",1082
+"707",2016,"LU","partnerships",1099
+"708",2017,"LU","partnerships",1102
+"709",2018,"LU","partnerships",1101
+"710",2019,"LU","partnerships",1088
+"711",2020,"LU","partnerships",1055
+"712",2008,"LV","partnerships",1749
+"713",2009,"LV","partnerships",1155
+"714",2010,"LV","partnerships",1251
+"715",2011,"LV","partnerships",1212
+"716",2012,"LV","partnerships",1247
+"717",2013,"LV","partnerships",1272
+"718",2014,"LV","partnerships",1289
+"719",2015,"LV","partnerships",2043
+"720",2016,"LV","partnerships",2258
+"721",2017,"LV","partnerships",2315
+"722",2018,"LV","partnerships",2409
+"723",2019,"LV","partnerships",2210
+"724",2020,"LV","partnerships",2200
+"725",2009,"MK","partnerships",1150
+"726",2010,"MK","partnerships",1158
+"727",2011,"MK","partnerships",1547
+"728",2012,"MK","partnerships",1528
+"729",2013,"MK","partnerships",2021
+"730",2014,"MK","partnerships",1460
+"731",2015,"MK","partnerships",1410
+"732",2016,"MK","partnerships",1437
+"733",2017,"MK","partnerships",1409
+"734",2018,"MK","partnerships",1378
+"735",2019,"MK","partnerships",1368
+"736",2020,"MK","partnerships",1316
+"737",2010,"MT","partnerships",2300
+"738",2011,"MT","partnerships",2190
+"739",2012,"MT","partnerships",2107
+"740",2013,"MT","partnerships",2004
+"741",2014,"MT","partnerships",2009
+"742",2015,"MT","partnerships",1832
+"743",2016,"MT","partnerships",1980
+"744",2017,"MT","partnerships",2029
+"745",2018,"MT","partnerships",2008
+"746",2019,"MT","partnerships",1753
+"747",2020,"MT","partnerships",1745
+"748",2007,"NL","partnerships",140075
+"749",2009,"NL","partnerships",141333
+"750",2010,"NL","partnerships",157782
+"751",2011,"NL","partnerships",159625
+"752",2012,"NL","partnerships",162178
+"753",2013,"NL","partnerships",160670
+"754",2014,"NL","partnerships",157300
+"755",2015,"NL","partnerships",158889
+"756",2016,"NL","partnerships",160546
+"757",2017,"NL","partnerships",159008
+"758",2018,"NL","partnerships",165397
+"759",2019,"NL","partnerships",169213
+"760",2020,"NL","partnerships",172299
+"761",2008,"NO","partnerships",19801
+"762",2009,"NO","partnerships",21044
+"763",2010,"NO","partnerships",21130
+"764",2011,"NO","partnerships",21097
+"765",2012,"NO","partnerships",19528
+"766",2013,"NO","partnerships",17744
+"767",2014,"NO","partnerships",15721
+"768",2015,"NO","partnerships",14116
+"769",2016,"NO","partnerships",13873
+"770",2017,"NO","partnerships",12143
+"771",2018,"NO","partnerships",10650
+"772",2019,"NO","partnerships",10127
+"773",2020,"NO","partnerships",9376
+"774",2008,"PL","partnerships",39767
+"775",2009,"PL","partnerships",41210
+"776",2010,"PL","partnerships",41727
+"777",2011,"PL","partnerships",43814
+"778",2012,"PL","partnerships",45814
+"779",2013,"PL","partnerships",48391
+"780",2014,"PL","partnerships",49878
+"781",2015,"PL","partnerships",52498
+"782",2016,"PL","partnerships",52454
+"783",2017,"PL","partnerships",52323
+"784",2018,"PL","partnerships",58309
+"785",2019,"PL","partnerships",60326
+"786",2020,"PL","partnerships",61512
+"787",2004,"PT","partnerships",8331
+"788",2005,"PT","partnerships",8308
+"789",2006,"PT","partnerships",7991
+"790",2007,"PT","partnerships",8114
+"791",2008,"PT","partnerships",8037
+"792",2009,"PT","partnerships",7796
+"793",2010,"PT","partnerships",7395
+"794",2011,"PT","partnerships",7014
+"795",2012,"PT","partnerships",6559
+"796",2013,"PT","partnerships",6384
+"797",2014,"PT","partnerships",6313
+"798",2015,"PT","partnerships",6130
+"799",2016,"PT","partnerships",6022
+"800",2017,"PT","partnerships",5927
+"801",2018,"PT","partnerships",5864
+"802",2019,"PT","partnerships",5921
+"803",2020,"PT","partnerships",8739
+"804",2008,"RO","partnerships",5068
+"805",2009,"RO","partnerships",4693
+"806",2010,"RO","partnerships",4300
+"807",2011,"RO","partnerships",3827
+"808",2012,"RO","partnerships",3801
+"809",2013,"RO","partnerships",3637
+"810",2014,"RO","partnerships",3453
+"811",2015,"RO","partnerships",3336
+"812",2016,"RO","partnerships",3254
+"813",2017,"RO","partnerships",3119
+"814",2018,"RO","partnerships",3006
+"815",2019,"RO","partnerships",2845
+"816",2020,"RO","partnerships",2820
+"817",2017,"RS","partnerships",119773
+"818",2018,"RS","partnerships",148925
+"819",2019,"RS","partnerships",1804
+"820",2020,"RS","partnerships",2296
+"821",2008,"SE","partnerships",87229
+"822",2009,"SE","partnerships",84294
+"823",2010,"SE","partnerships",83164
+"824",2011,"SE","partnerships",86836
+"825",2012,"SE","partnerships",85795
+"826",2013,"SE","partnerships",66595
+"827",2014,"SE","partnerships",64714
+"828",2015,"SE","partnerships",62073
+"829",2016,"SE","partnerships",60025
+"830",2017,"SE","partnerships",58406
+"831",2018,"SE","partnerships",56406
+"832",2019,"SE","partnerships",55135
+"833",2020,"SE","partnerships",53204
+"834",2004,"SI","partnerships",3815
+"835",2005,"SI","partnerships",3795
+"836",2006,"SI","partnerships",3689
+"837",2007,"SI","partnerships",3521
+"838",2008,"SI","partnerships",3395
+"839",2009,"SI","partnerships",3214
+"840",2010,"SI","partnerships",3056
+"841",2011,"SI","partnerships",2822
+"842",2012,"SI","partnerships",2621
+"843",2013,"SI","partnerships",2461
+"844",2014,"SI","partnerships",2321
+"845",2015,"SI","partnerships",2158
+"846",2016,"SI","partnerships",2167
+"847",2017,"SI","partnerships",2035
+"848",2018,"SI","partnerships",1983
+"849",2019,"SI","partnerships",1885
+"850",2020,"SI","partnerships",1791
+"851",2008,"SK","partnerships",3166
+"852",2009,"SK","partnerships",2353
+"853",2010,"SK","partnerships",2678
+"854",2011,"SK","partnerships",4720
+"855",2012,"SK","partnerships",4524
+"856",2013,"SK","partnerships",1457
+"857",2014,"SK","partnerships",1711
+"858",2015,"SK","partnerships",1915
+"859",2016,"SK","partnerships",1960
+"860",2017,"SK","partnerships",2012
+"861",2018,"SK","partnerships",1992
+"862",2019,"SK","partnerships",1909
+"863",2020,"SK","partnerships",1765
+"864",2009,"TR","partnerships",51473
+"865",2010,"TR","partnerships",51616
+"866",2011,"TR","partnerships",52911
+"867",2012,"TR","partnerships",55419
+"868",2013,"TR","partnerships",56599
+"869",2014,"TR","partnerships",55083
+"870",2015,"TR","partnerships",55763
+"871",2016,"TR","partnerships",56608
+"872",2017,"TR","partnerships",57390
+"873",2018,"TR","partnerships",56846
+"874",2019,"TR","partnerships",53901
+"875",2020,"TR","partnerships",53268
+"876",2008,"GB","partnerships",228960
+"877",2009,"GB","partnerships",216420
+"878",2010,"GB","partnerships",201895
+"879",2011,"GB","partnerships",192105
+"880",2012,"GB","partnerships",179945
+"881",2013,"GB","partnerships",167925
+"882",2014,"GB","partnerships",155990
+"883",2015,"GB","partnerships",145820
+"884",2016,"GB","partnerships",138145
+"885",2017,"GB","partnerships",131935
+"886",2018,"GB","partnerships",124910
+"887",2004,"AT","sole_proprietorships",199706
+"888",2005,"AT","sole_proprietorships",206173
+"889",2006,"AT","sole_proprietorships",211344
+"890",2007,"AT","sole_proprietorships",267306
+"891",2008,"AT","sole_proprietorships",276346
+"892",2009,"AT","sole_proprietorships",283273
+"893",2010,"AT","sole_proprietorships",289324
+"894",2011,"AT","sole_proprietorships",292427
+"895",2012,"AT","sole_proprietorships",292288
+"896",2013,"AT","sole_proprietorships",283681
+"897",2014,"AT","sole_proprietorships",272172
+"898",2015,"AT","sole_proprietorships",263732
+"899",2016,"AT","sole_proprietorships",266449
+"900",2017,"AT","sole_proprietorships",266271
+"901",2018,"AT","sole_proprietorships",268284
+"902",2019,"AT","sole_proprietorships",262583
+"903",2020,"AT","sole_proprietorships",260001
+"904",2017,"BA","sole_proprietorships",41588
+"905",2018,"BA","sole_proprietorships",42418
+"906",2019,"BA","sole_proprietorships",42021
+"907",2008,"BE","sole_proprietorships",184802
+"908",2009,"BE","sole_proprietorships",193155
+"909",2010,"BE","sole_proprietorships",193010
+"910",2011,"BE","sole_proprietorships",193106
+"911",2012,"BE","sole_proprietorships",193536
+"912",2013,"BE","sole_proprietorships",193813
+"913",2014,"BE","sole_proprietorships",203898
+"914",2015,"BE","sole_proprietorships",205003
+"915",2016,"BE","sole_proprietorships",205592
+"916",2017,"BE","sole_proprietorships",205902
+"917",2018,"BE","sole_proprietorships",207228
+"918",2019,"BE","sole_proprietorships",218518
+"919",2020,"BE","sole_proprietorships",222272
+"920",2008,"BG","sole_proprietorships",121262
+"921",2009,"BG","sole_proprietorships",132817
+"922",2010,"BG","sole_proprietorships",119939
+"923",2011,"BG","sole_proprietorships",108702
+"924",2012,"BG","sole_proprietorships",98616
+"925",2013,"BG","sole_proprietorships",89989
+"926",2014,"BG","sole_proprietorships",83405
+"927",2015,"BG","sole_proprietorships",77331
+"928",2016,"BG","sole_proprietorships",71911
+"929",2017,"BG","sole_proprietorships",65902
+"930",2018,"BG","sole_proprietorships",60606
+"931",2019,"BG","sole_proprietorships",55957
+"932",2020,"BG","sole_proprietorships",52438
+"933",2013,"CH","sole_proprietorships",170113
+"934",2014,"CH","sole_proprietorships",175016
+"935",2015,"CH","sole_proprietorships",173756
+"936",2016,"CH","sole_proprietorships",170886
+"937",2017,"CH","sole_proprietorships",168195
+"938",2018,"CH","sole_proprietorships",164370
+"939",2019,"CH","sole_proprietorships",164211
+"940",2020,"CH","sole_proprietorships",158755
+"941",2008,"CY","sole_proprietorships",25488
+"942",2009,"CY","sole_proprietorships",23659
+"943",2010,"CY","sole_proprietorships",18406
+"944",2011,"CY","sole_proprietorships",17515
+"945",2012,"CY","sole_proprietorships",17776
+"946",2013,"CY","sole_proprietorships",17503
+"947",2014,"CY","sole_proprietorships",17741
+"948",2015,"CY","sole_proprietorships",18861
+"949",2016,"CY","sole_proprietorships",19627
+"950",2017,"CY","sole_proprietorships",20619
+"951",2018,"CY","sole_proprietorships",18632
+"952",2019,"CY","sole_proprietorships",22015
+"953",2020,"CY","sole_proprietorships",23113
+"954",2008,"CZ","sole_proprietorships",665498
+"955",2009,"CZ","sole_proprietorships",745972
+"956",2010,"CZ","sole_proprietorships",769494
+"957",2011,"CZ","sole_proprietorships",778386
+"958",2012,"CZ","sole_proprietorships",767086
+"959",2013,"CZ","sole_proprietorships",741288
+"960",2014,"CZ","sole_proprietorships",782340
+"961",2015,"CZ","sole_proprietorships",784242
+"962",2016,"CZ","sole_proprietorships",785050
+"963",2017,"CZ","sole_proprietorships",773927
+"964",2018,"CZ","sole_proprietorships",785741
+"965",2019,"CZ","sole_proprietorships",789367
+"966",2020,"CZ","sole_proprietorships",790969
+"967",2008,"DE","sole_proprietorships",1925765
+"968",2009,"DE","sole_proprietorships",1882209
+"969",2010,"DE","sole_proprietorships",1880775
+"970",2011,"DE","sole_proprietorships",1903413
+"971",2012,"DE","sole_proprietorships",1914157
+"972",2013,"DE","sole_proprietorships",1898702
+"973",2014,"DE","sole_proprietorships",1794653
+"974",2015,"DE","sole_proprietorships",1780368
+"975",2016,"DE","sole_proprietorships",1775364
+"976",2017,"DE","sole_proprietorships",1766166
+"977",2018,"DE","sole_proprietorships",1757555
+"978",2019,"DE","sole_proprietorships",1719718
+"979",2020,"DE","sole_proprietorships",1598835
+"980",2009,"DK","sole_proprietorships",96935
+"981",2010,"DK","sole_proprietorships",96228
+"982",2011,"DK","sole_proprietorships",98768
+"983",2012,"DK","sole_proprietorships",97433
+"984",2013,"DK","sole_proprietorships",95046
+"985",2014,"DK","sole_proprietorships",93819
+"986",2015,"DK","sole_proprietorships",89637
+"987",2016,"DK","sole_proprietorships",92180
+"988",2017,"DK","sole_proprietorships",91717
+"989",2018,"DK","sole_proprietorships",90534
+"990",2019,"DK","sole_proprietorships",89985
+"991",2020,"DK","sole_proprietorships",88340
+"992",2008,"EE","sole_proprietorships",19542
+"993",2009,"EE","sole_proprietorships",17245
+"994",2010,"EE","sole_proprietorships",13274
+"995",2011,"EE","sole_proprietorships",12448
+"996",2012,"EE","sole_proprietorships",12032
+"997",2013,"EE","sole_proprietorships",12635
+"998",2014,"EE","sole_proprietorships",11632
+"999",2015,"EE","sole_proprietorships",11399
+"1000",2016,"EE","sole_proprietorships",11185
+"1001",2017,"EE","sole_proprietorships",10585
+"1002",2018,"EE","sole_proprietorships",9873
+"1003",2019,"EE","sole_proprietorships",9305
+"1004",2020,"EE","sole_proprietorships",8856
+"1005",2015,"GR","sole_proprietorships",616674
+"1006",2016,"GR","sole_proprietorships",603727
+"1007",2017,"GR","sole_proprietorships",597736
+"1008",2018,"GR","sole_proprietorships",608946
+"1009",2019,"GR","sole_proprietorships",620086
+"1010",2020,"GR","sole_proprietorships",629962
+"1011",2008,"ES","sole_proprietorships",1767298
+"1012",2009,"ES","sole_proprietorships",1701391
+"1013",2010,"ES","sole_proprietorships",1635807
+"1014",2011,"ES","sole_proprietorships",1594676
+"1015",2012,"ES","sole_proprietorships",1551291
+"1016",2013,"ES","sole_proprietorships",1507737
+"1017",2014,"ES","sole_proprietorships",1493071
+"1018",2015,"ES","sole_proprietorships",1522838
+"1019",2016,"ES","sole_proprietorships",1578508
+"1020",2017,"ES","sole_proprietorships",1607147
+"1021",2018,"ES","sole_proprietorships",1655939
+"1022",2019,"ES","sole_proprietorships",1688266
+"1023",2020,"ES","sole_proprietorships",1669945
+"1044",2008,"FI","sole_proprietorships",114327
+"1045",2009,"FI","sole_proprietorships",113920
+"1046",2010,"FI","sole_proprietorships",113183
+"1047",2011,"FI","sole_proprietorships",114063
+"1048",2012,"FI","sole_proprietorships",112428
+"1049",2013,"FI","sole_proprietorships",112274
+"1050",2014,"FI","sole_proprietorships",110516
+"1051",2015,"FI","sole_proprietorships",107405
+"1052",2016,"FI","sole_proprietorships",104964
+"1053",2017,"FI","sole_proprietorships",103810
+"1054",2018,"FI","sole_proprietorships",104828
+"1055",2019,"FI","sole_proprietorships",106173
+"1056",2020,"FI","sole_proprietorships",106638
+"1057",2008,"FR","sole_proprietorships",1138568
+"1058",2009,"FR","sole_proprietorships",1232685
+"1059",2010,"FR","sole_proprietorships",1304512
+"1060",2011,"FR","sole_proprietorships",1282965
+"1061",2012,"FR","sole_proprietorships",1286767
+"1062",2013,"FR","sole_proprietorships",1376493
+"1063",2014,"FR","sole_proprietorships",1532437
+"1064",2015,"FR","sole_proprietorships",1530481
+"1065",2016,"FR","sole_proprietorships",1511867
+"1066",2017,"FR","sole_proprietorships",1595037
+"1067",2018,"FR","sole_proprietorships",1721936
+"1068",2019,"FR","sole_proprietorships",1873315
+"1069",2020,"FR","sole_proprietorships",2027492
+"1070",2012,"HR","sole_proprietorships",57408
+"1071",2013,"HR","sole_proprietorships",55037
+"1072",2014,"HR","sole_proprietorships",58644
+"1073",2015,"HR","sole_proprietorships",54603
+"1074",2016,"HR","sole_proprietorships",50929
+"1075",2017,"HR","sole_proprietorships",47836
+"1076",2018,"HR","sole_proprietorships",47882
+"1077",2019,"HR","sole_proprietorships",72135
+"1078",2020,"HR","sole_proprietorships",70720
+"1079",2008,"HU","sole_proprietorships",254021
+"1080",2009,"HU","sole_proprietorships",233253
+"1081",2010,"HU","sole_proprietorships",228725
+"1082",2011,"HU","sole_proprietorships",215329
+"1083",2012,"HU","sole_proprietorships",183090
+"1084",2013,"HU","sole_proprietorships",182370
+"1085",2014,"HU","sole_proprietorships",191576
+"1086",2015,"HU","sole_proprietorships",201480
+"1087",2016,"HU","sole_proprietorships",219089
+"1088",2017,"HU","sole_proprietorships",250542
+"1089",2018,"HU","sole_proprietorships",279533
+"1090",2019,"HU","sole_proprietorships",311598
+"1091",2020,"HU","sole_proprietorships",358944
+"1092",2008,"IE","sole_proprietorships",93765
+"1093",2009,"IE","sole_proprietorships",84366
+"1094",2010,"IE","sole_proprietorships",82118
+"1095",2011,"IE","sole_proprietorships",77775
+"1096",2012,"IE","sole_proprietorships",74505
+"1097",2014,"IE","sole_proprietorships",130002
+"1098",2015,"IE","sole_proprietorships",134968
+"1099",2016,"IE","sole_proprietorships",131640
+"1100",2017,"IE","sole_proprietorships",143036
+"1101",2018,"IE","sole_proprietorships",136712
+"1102",2020,"IE","sole_proprietorships",138941
+"1103",2008,"IS","sole_proprietorships",8471
+"1104",2009,"IS","sole_proprietorships",8045
+"1105",2010,"IS","sole_proprietorships",8075
+"1106",2011,"IS","sole_proprietorships",7855
+"1107",2012,"IS","sole_proprietorships",7659
+"1108",2013,"IS","sole_proprietorships",7565
+"1109",2014,"IS","sole_proprietorships",7783
+"1110",2015,"IS","sole_proprietorships",7680
+"1111",2016,"IS","sole_proprietorships",8017
+"1112",2017,"IS","sole_proprietorships",7936
+"1113",2018,"IS","sole_proprietorships",7690
+"1114",2019,"IS","sole_proprietorships",7850
+"1115",2020,"IS","sole_proprietorships",7512
+"1116",2008,"IT","sole_proprietorships",2526956
+"1117",2009,"IT","sole_proprietorships",2489430
+"1118",2010,"IT","sole_proprietorships",2461680
+"1119",2011,"IT","sole_proprietorships",2425904
+"1120",2012,"IT","sole_proprietorships",2416616
+"1121",2013,"IT","sole_proprietorships",2353836
+"1122",2014,"IT","sole_proprietorships",2327932
+"1123",2015,"IT","sole_proprietorships",2306816
+"1124",2016,"IT","sole_proprietorships",2318892
+"1125",2017,"IT","sole_proprietorships",2309161
+"1126",2018,"IT","sole_proprietorships",2302422
+"1127",2019,"IT","sole_proprietorships",2223939
+"1128",2020,"IT","sole_proprietorships",2270614
+"1129",2008,"LT","sole_proprietorships",88942
+"1130",2009,"LT","sole_proprietorships",66879
+"1131",2010,"LT","sole_proprietorships",63733
+"1132",2011,"LT","sole_proprietorships",71613
+"1133",2012,"LT","sole_proprietorships",83944
+"1134",2013,"LT","sole_proprietorships",96275
+"1135",2014,"LT","sole_proprietorships",109586
+"1136",2015,"LT","sole_proprietorships",116255
+"1137",2016,"LT","sole_proprietorships",124740
+"1138",2017,"LT","sole_proprietorships",134510
+"1139",2018,"LT","sole_proprietorships",139997
+"1140",2019,"LT","sole_proprietorships",144848
+"1141",2020,"LT","sole_proprietorships",150919
+"1142",2008,"LU","sole_proprietorships",4473
+"1143",2009,"LU","sole_proprietorships",4415
+"1144",2010,"LU","sole_proprietorships",4500
+"1145",2011,"LU","sole_proprietorships",4494
+"1146",2012,"LU","sole_proprietorships",4449
+"1147",2013,"LU","sole_proprietorships",4656
+"1148",2014,"LU","sole_proprietorships",4602
+"1149",2015,"LU","sole_proprietorships",4591
+"1150",2016,"LU","sole_proprietorships",4539
+"1151",2017,"LU","sole_proprietorships",4882
+"1152",2018,"LU","sole_proprietorships",4880
+"1153",2019,"LU","sole_proprietorships",4935
+"1154",2020,"LU","sole_proprietorships",4415
+"1155",2008,"LV","sole_proprietorships",20339
+"1156",2009,"LV","sole_proprietorships",22788
+"1157",2010,"LV","sole_proprietorships",23678
+"1158",2011,"LV","sole_proprietorships",23258
+"1159",2012,"LV","sole_proprietorships",22824
+"1160",2013,"LV","sole_proprietorships",22032
+"1161",2014,"LV","sole_proprietorships",22050
+"1162",2015,"LV","sole_proprietorships",27139
+"1163",2016,"LV","sole_proprietorships",30803
+"1164",2017,"LV","sole_proprietorships",29376
+"1165",2018,"LV","sole_proprietorships",28306
+"1166",2019,"LV","sole_proprietorships",28025
+"1167",2020,"LV","sole_proprietorships",28910
+"1168",2009,"MK","sole_proprietorships",8011
+"1169",2010,"MK","sole_proprietorships",9483
+"1170",2011,"MK","sole_proprietorships",8177
+"1171",2012,"MK","sole_proprietorships",9015
+"1172",2013,"MK","sole_proprietorships",8348
+"1173",2014,"MK","sole_proprietorships",8462
+"1174",2015,"MK","sole_proprietorships",8637
+"1175",2016,"MK","sole_proprietorships",9066
+"1176",2017,"MK","sole_proprietorships",9174
+"1177",2018,"MK","sole_proprietorships",8724
+"1178",2019,"MK","sole_proprietorships",8649
+"1179",2020,"MK","sole_proprietorships",8454
+"1180",2010,"MT","sole_proprietorships",20364
+"1181",2011,"MT","sole_proprietorships",20128
+"1182",2012,"MT","sole_proprietorships",18509
+"1183",2013,"MT","sole_proprietorships",17933
+"1184",2014,"MT","sole_proprietorships",18525
+"1185",2015,"MT","sole_proprietorships",18224
+"1186",2016,"MT","sole_proprietorships",21282
+"1187",2017,"MT","sole_proprietorships",22392
+"1188",2018,"MT","sole_proprietorships",26564
+"1189",2019,"MT","sole_proprietorships",23923
+"1190",2020,"MT","sole_proprietorships",24444
+"1191",2007,"NL","sole_proprietorships",489178
+"1192",2009,"NL","sole_proprietorships",571649
+"1193",2010,"NL","sole_proprietorships",564350
+"1194",2011,"NL","sole_proprietorships",598783
+"1195",2012,"NL","sole_proprietorships",621094
+"1196",2013,"NL","sole_proprietorships",628234
+"1197",2014,"NL","sole_proprietorships",650688
+"1198",2015,"NL","sole_proprietorships",684429
+"1199",2016,"NL","sole_proprietorships",719488
+"1200",2017,"NL","sole_proprietorships",742340
+"1201",2018,"NL","sole_proprietorships",791307
+"1202",2019,"NL","sole_proprietorships",850750
+"1203",2020,"NL","sole_proprietorships",907977
+"1204",2008,"NO","sole_proprietorships",114870
+"1205",2009,"NO","sole_proprietorships",110349
+"1206",2010,"NO","sole_proprietorships",109205
+"1207",2011,"NO","sole_proprietorships",109116
+"1208",2012,"NO","sole_proprietorships",107829
+"1209",2013,"NO","sole_proprietorships",105655
+"1210",2014,"NO","sole_proprietorships",103842
+"1211",2015,"NO","sole_proprietorships",105835
+"1212",2016,"NO","sole_proprietorships",100468
+"1213",2017,"NO","sole_proprietorships",98640
+"1214",2018,"NO","sole_proprietorships",96869
+"1215",2019,"NO","sole_proprietorships",95091
+"1216",2020,"NO","sole_proprietorships",93968
+"1217",2008,"PL","sole_proprietorships",1678914
+"1218",2009,"PL","sole_proprietorships",1747794
+"1219",2010,"PL","sole_proprietorships",1792179
+"1220",2011,"PL","sole_proprietorships",1808011
+"1221",2012,"PL","sole_proprietorships",1803185
+"1222",2013,"PL","sole_proprietorships",1811856
+"1223",2014,"PL","sole_proprietorships",1811197
+"1224",2015,"PL","sole_proprietorships",1830896
+"1225",2016,"PL","sole_proprietorships",1776289
+"1226",2017,"PL","sole_proprietorships",1835418
+"1227",2018,"PL","sole_proprietorships",1761973
+"1228",2019,"PL","sole_proprietorships",1818922
+"1229",2020,"PL","sole_proprietorships",1855789
+"1230",2004,"PT","sole_proprietorships",558066
+"1231",2005,"PT","sole_proprietorships",580472
+"1232",2006,"PT","sole_proprietorships",589689
+"1233",2007,"PT","sole_proprietorships",622586
+"1234",2008,"PT","sole_proprietorships",633219
+"1235",2009,"PT","sole_proprietorships",598620
+"1236",2010,"PT","sole_proprietorships",557038
+"1237",2011,"PT","sole_proprietorships",528643
+"1238",2012,"PT","sole_proprietorships",496630
+"1239",2013,"PT","sole_proprietorships",481226
+"1240",2014,"PT","sole_proprietorships",479850
+"1241",2015,"PT","sole_proprietorships",496940
+"1242",2016,"PT","sole_proprietorships",515694
+"1243",2017,"PT","sole_proprietorships",538926
+"1244",2018,"PT","sole_proprietorships",550269
+"1245",2019,"PT","sole_proprietorships",562427
+"1246",2020,"PT","sole_proprietorships",537584
+"1247",2009,"RO","sole_proprietorships",0
+"1248",2010,"RO","sole_proprietorships",0
+"1249",2011,"RO","sole_proprietorships",203952
+"1250",2012,"RO","sole_proprietorships",218215
+"1251",2013,"RO","sole_proprietorships",257735
+"1252",2014,"RO","sole_proprietorships",263078
+"1253",2015,"RO","sole_proprietorships",258169
+"1254",2016,"RO","sole_proprietorships",247451
+"1255",2017,"RO","sole_proprietorships",245450
+"1256",2018,"RO","sole_proprietorships",241213
+"1257",2019,"RO","sole_proprietorships",231495
+"1258",2020,"RO","sole_proprietorships",242211
+"1259",2017,"RS","sole_proprietorships",219310
+"1260",2018,"RS","sole_proprietorships",233138
+"1261",2019,"RS","sole_proprietorships",261333
+"1262",2020,"RS","sole_proprietorships",264685
+"1263",2008,"SE","sole_proprietorships",285018
+"1264",2009,"SE","sole_proprietorships",295437
+"1265",2010,"SE","sole_proprietorships",299794
+"1266",2011,"SE","sole_proprietorships",316750
+"1267",2012,"SE","sole_proprietorships",319868
+"1268",2013,"SE","sole_proprietorships",305895
+"1269",2014,"SE","sole_proprietorships",300409
+"1270",2015,"SE","sole_proprietorships",298102
+"1271",2016,"SE","sole_proprietorships",296948
+"1272",2017,"SE","sole_proprietorships",291085
+"1273",2018,"SE","sole_proprietorships",284287
+"1274",2019,"SE","sole_proprietorships",282203
+"1275",2020,"SE","sole_proprietorships",279285
+"1276",2004,"SI","sole_proprietorships",56796
+"1277",2005,"SI","sole_proprietorships",57146
+"1278",2006,"SI","sole_proprietorships",60817
+"1279",2007,"SI","sole_proprietorships",63395
+"1280",2008,"SI","sole_proprietorships",67407
+"1281",2009,"SI","sole_proprietorships",70866
+"1282",2010,"SI","sole_proprietorships",72437
+"1283",2011,"SI","sole_proprietorships",72848
+"1284",2012,"SI","sole_proprietorships",73704
+"1285",2013,"SI","sole_proprietorships",78507
+"1286",2014,"SI","sole_proprietorships",79929
+"1287",2015,"SI","sole_proprietorships",82595
+"1288",2016,"SI","sole_proprietorships",84091
+"1289",2017,"SI","sole_proprietorships",83991
+"1290",2018,"SI","sole_proprietorships",87195
+"1291",2019,"SI","sole_proprietorships",89796
+"1292",2020,"SI","sole_proprietorships",91243
+"1293",2008,"SK","sole_proprietorships",265550
+"1294",2009,"SK","sole_proprietorships",268027
+"1295",2010,"SK","sole_proprietorships",259037
+"1296",2011,"SK","sole_proprietorships",283695
+"1297",2012,"SK","sole_proprietorships",275152
+"1298",2013,"SK","sole_proprietorships",263389
+"1299",2014,"SK","sole_proprietorships",292141
+"1300",2015,"SK","sole_proprietorships",281853
+"1301",2016,"SK","sole_proprietorships",280532
+"1302",2017,"SK","sole_proprietorships",298949
+"1303",2018,"SK","sole_proprietorships",311323
+"1304",2019,"SK","sole_proprietorships",322374
+"1305",2020,"SK","sole_proprietorships",321787
+"1306",2009,"TR","sole_proprietorships",1954352
+"1307",2010,"TR","sole_proprietorships",1986101
+"1308",2011,"TR","sole_proprietorships",2019782
+"1309",2012,"TR","sole_proprietorships",2073598
+"1310",2013,"TR","sole_proprietorships",2114278
+"1311",2014,"TR","sole_proprietorships",2138039
+"1312",2015,"TR","sole_proprietorships",2159527
+"1313",2016,"TR","sole_proprietorships",2174457
+"1314",2017,"TR","sole_proprietorships",2246164
+"1315",2018,"TR","sole_proprietorships",2249078
+"1316",2019,"TR","sole_proprietorships",2279686
+"1317",2020,"TR","sole_proprietorships",2322837
+"1318",2008,"GB","sole_proprietorships",506230
+"1319",2009,"GB","sole_proprietorships",489210
+"1320",2010,"GB","sole_proprietorships",461065
+"1321",2011,"GB","sole_proprietorships",455085
+"1322",2012,"GB","sole_proprietorships",440245
+"1323",2013,"GB","sole_proprietorships",435190
+"1324",2014,"GB","sole_proprietorships",422725
+"1325",2015,"GB","sole_proprietorships",401025
+"1326",2016,"GB","sole_proprietorships",393340
+"1327",2017,"GB","sole_proprietorships",385850
+"1328",2018,"GB","sole_proprietorships",372200

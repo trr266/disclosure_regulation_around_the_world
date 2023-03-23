@@ -20,9 +20,9 @@ names(number_firms_eurostat)[names(number_firms_eurostat) == 'OBS_VALUE']   <- '
 
 
 ###### Rename legal forms
-number_firms_eurostat$legal_form[number_firms_eurostat$legal_form %in% "ENT_LL"]   <- "Limited liability enterprise"
-number_firms_eurostat$legal_form[number_firms_eurostat$legal_form %in% "ENT_PA"]   <- "Partnership, co-operatives, associations, etc."
-number_firms_eurostat$legal_form[number_firms_eurostat$legal_form %in% "ENT_SOLE"] <- "Sole proprietorship"
+number_firms_eurostat$legal_form[number_firms_eurostat$legal_form %in% "ENT_LL"]   <- "private_limited_liability"
+number_firms_eurostat$legal_form[number_firms_eurostat$legal_form %in% "ENT_PA"]   <- "partnerships"
+number_firms_eurostat$legal_form[number_firms_eurostat$legal_form %in% "ENT_SOLE"] <- "sole_proprietorships"
 
 
 ###### We are interested in the active number of enterprises
@@ -48,3 +48,4 @@ number_firms_eurostat <- number_firms_eurostat[!number_firms_eurostat$iso2 %in% 
 
 ###### Save
 write.csv(number_firms_eurostat, "data/country_info/number_firms_eurostat.csv")
+saveRDS(number_firms_eurostat, "data/raw/generated/number_firms_eurostat.rds")

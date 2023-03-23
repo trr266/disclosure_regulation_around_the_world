@@ -45,11 +45,9 @@ disconnect_duckdb <- function(con){
 
 
 
-# Load firms with data from eurostat
-number_firms_eurostat <- read.csv("data/country_info/number_firms_eurostat.csv")
-ctries                <- unique(number_firms_eurostat$iso2)
-
-
+# Load OECD and EU countries
+ctries                <- read.csv("data/country_info/eu_oecd_ctries.csv")
+ctries                <- unique(ctries$iso2)
 
 #Initialize loop
 number_bs_orbis <- data.frame()
@@ -250,9 +248,10 @@ for(i in 1:length(ctries)){
 }
 
 
-########
+  ########
 # Process and save data
 #######
+
 
 ####### Get standardized legal form from matching table
 orbis_legal_forms <- read.csv("data/raw/country_info/orbis_legal_forms.csv")
@@ -262,16 +261,16 @@ number_is_orbis   <- merge(number_is_orbis, orbis_legal_forms, by=c("iso2", "nat
 
 ###### Rename legal forms
 number_bs_orbis$legal_form <- NA
-number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Private limited companies"]   <- "Limited liability enterprise"
-number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Public limited companies"]    <- "Limited liability enterprise"
-number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Partnerships"]                <- "Partnership, co-operatives, associations, etc."
-number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Sole traders/proprietorships"]<- "Sole proprietorship"
+number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Private limited companies"]   <- "private_limited_liability"
+number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Public limited companies"]    <- "public_limited_liability"
+number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Partnerships"]                <- "partnerships"
+number_bs_orbis$legal_form[number_bs_orbis$standardised_legal_form_orbis %in% "Sole traders/proprietorships"]<- "sole_proprietorships"
 
 number_is_orbis$legal_form <- NA
-number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Private limited companies"]   <- "Limited liability enterprise"
-number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Public limited companies"]    <- "Limited liability enterprise"
-number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Partnerships"]                <- "Partnership, co-operatives, associations, etc."
-number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Sole traders/proprietorships"]<- "Sole proprietorship"
+number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Private limited companies"]   <- "private_limited_liability"
+number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Public limited companies"]    <- "public_limited_liability"
+number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Partnerships"]                <- "partnerships"
+number_is_orbis$legal_form[number_is_orbis$standardised_legal_form_orbis %in% "Sole traders/proprietorships"]<- "sole_proprietorships"
 
 
 number_bs_orbis_natLegForm <- number_bs_orbis

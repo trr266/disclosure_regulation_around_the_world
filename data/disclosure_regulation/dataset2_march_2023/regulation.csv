@@ -1,0 +1,172 @@
+regulation_id,iso2,year,effect,description
+AT_1,AT,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet.
+AT_2,AT,2023,Income Statement disclosure,Mandates firms to disclose an income statement.
+AT_3,AT,2023,Audit,Mandates firms to have their annual financial statements audited.
+AT_4,AT,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+AT_5,AT,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+AT_6,AT,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+AU_1,AU,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet.
+AU_2,AU,2023,Income Statement disclosure,Mandates firms to disclose an income statement.
+AU_3,AU,2023,Audit,Mandates firms to have their annual financial statements audited.
+AU_4,AU,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+BE_1,BE,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet.
+BE_2,BE,2023,Income Statement disclosure,Mandates firms to disclose an income statement.
+BE_3,BE,2023,Audit,Mandates firms to have their annual financial statements audited.
+BE_4,BE,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+BE_5,BE,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+BG_1,BG,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet.
+BG_2,BG,2023,Income Statement disclosure,Mandates firms to disclose an income statement.
+BG_3,BG,2023,Audit,Mandates firms to have their annual financial statements audited.
+BG_4,BG,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+BG_5,BG,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+BG_6,BG,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+CA_1,CA,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet.
+CA_2,CA,2023,Income Statement disclosure,Mandates firms to disclose an income statement.
+CA_3,CA,2023,Audit,Mandates firms to have their annual financial statements audited.
+CH_1,CH,2023,Prepare Balance Sheet,Mandates firms to prepare and file a balance sheet. 
+CH_2,CH,2023,Prepare Income Statement,Mandates firms to prepare and file an income statement. 
+CH_3,CH,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+CH_4,CH,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+CH_5,CH,2023,Audit,Mandates firms to have their annual financial statements audited.
+CL_1,CL,2023,NA,NA
+CL_2,CL,2023,NA,NA
+CL_3,CL,2023,NA,NA
+CO_1,CO,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet.
+CO_2,CO,2023,Income Statement disclosure,Mandates firms to disclose an income statement.
+CZ_1,CZ,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet.
+CZ_2,CZ,2023,Income Statement disclosure,Mandates firms to disclose an income statement.
+CZ_3,CZ,2023,Audit,Mandates firms to have their annual financial statements audited.
+DE_1,DE,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+DE_2,DE,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+DE_3,DE,2023,Audit,Mandates firms to have their annual financial statements audited.
+DE_4,DE,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+DE_5,DE,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+DE_6,DE,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+DE_7,DE,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+DE_8,DE,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+DE_9,DE,2023,Audit,Mandates firms to have their annual financial statements audited.
+DK_1,DK,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+DK_2,DK,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+DK_3,DK ,2023,Audit,Mandates firms to have their annual financial statements audited.
+DK_4,DK,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+DK_5,DK ,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+EE_1,EE,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+EE_2,EE,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+EE_3,EE,2023,Audit,Mandates firms to have their annual financial statements audited.
+ES_1,ES,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+ES_2,ES,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+ES_3,ES,2023,Audit,Mandates firms to have their annual financial statements audited.
+FI_1,FI,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+FI_2,FI,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+FI_3,FI,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+FI_4,FI,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+FI_5,FI,2023,Large,Classifies firms as 'large'. 
+FI_6,FI,2023,Audit,Mandates firms to have their annual financial statements audited.
+FR_1,FR,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+FR_2,FR,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+FR_3,FR,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+FR_4,FR,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+FR_5,FR,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+FR_6,FR,2023,Audit,Mandates firms to have their annual financial statements audited.
+GB_1,GB,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+GB_2,GB,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+GB_3,GB,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+GB_4,GB,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+GB_5,GB,2023,Audit,Mandates firms to have their annual financial statements audited.
+GR_1,GR,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+GR_2,GR,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+GR_3,GR,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+GR_4,GR,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+GR_5,GR,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+GR_6,GR,2023,Audit,Mandates firms to have their annual financial statements audited.
+HR_1,HR,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+HR_2,HR,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+HR_3,HR,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+HR_4,HR,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+HR_5,HR,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+HR_6,HR,2023,Audit,Mandates firms to have their annual financial statements audited.
+HU_1,HU,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+HU_2,HU,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+HU_3,HU,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+HU_4,HU,2023,Audit,Mandates firms to have their annual financial statements audited.
+IE_1,IE,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+IE_2,IE,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+IE_3,IE,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+IE_4,IE,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+IE_5,IE,2023,Audit,Mandates firms to have their annual financial statements audited.
+IL_1,IL,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+IL_2,IL,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+IL_3,IL,2023,Audit,Mandates firms to have their annual financial statements audited.
+IS_1,IS,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+IS_2,IS,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+IS_3,IS,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+IS_4,IS,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+IS_5,IS,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+IS_6,IS,2023,Audit,Mandates firms to have their annual financial statements audited.
+IT_1,IT,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+IT_2,IT,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+IT_3,IT,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+IT_4,IT,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+IT_5,IT,2023,Audit,Mandates firms to have their annual financial statements audited.
+JP_1,JP,2023,Audit,Mandates firms to have their annual financial statements audited.
+KR_1,KR,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+KR_2,KR,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+KR_3,KR,2023,Audit,Mandates firms to have their annual financial statements audited.
+LT_1,LT,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+LT_2,LT,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+LT_3,LT,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+LT_4,LT,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+LT_5,LT,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+LT_6,LT,2023,Audit,Mandates firms to have their annual financial statements audited.
+LU_1,LU,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+LU_2,LU,2023,Audit,Mandates firms to have their annual financial statements audited.
+LV_1,LV,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+LV_2,LV,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+LV_3,LV,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+LV_4,LV,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+LV_5,LV,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+LV_6,LV,2023,Audit,Mandates firms to have their annual financial statements audited.
+MT_1,MT,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+MT_2,MT,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+MT_3,MT,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+MT_4,MT,2023,Audit,Mandates firms to have their annual financial statements audited.
+NL_1,NL,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+NL_2,NL,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+NL_3,NL,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+NL_4,NL,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+NL_5,NL,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+NL_6,NL,2023,Audit,Mandates firms to have their annual financial statements audited.
+NO_1,NO,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+NO_2,NO,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+NO_3,NO,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+NZ_1,NZ,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+NZ_2,NZ,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+NZ_3,NZ,2023,Large,Classifies firms as 'large'. This imposes certain disclosure and auditing requirements on firms.
+NZ_4,NZ,2023,Audit,Mandates firms to have their annual financial statements audited.
+PL_1,PL,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+PL_2,PL,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+PL_3,PL,2023,Audit,Mandates firms to have their annual financial statements audited.
+PT_1,PT,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+PT_2,PT,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+PT_3,PT,2023,Audit,Mandates firms to have their annual financial statements audited.
+RO_1,RO,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+RO_2,RO,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+RO_3,RO,2023,Audit,Mandates firms to have their annual financial statements audited.
+SE_1,SE,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+SE_2,SE,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+SE_3,SE,2023,Audit,Mandates firms to have their annual financial statements audited.
+SI_1,SE,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+SI_2,SE,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+SI_3,SE,2023,Micro,Classifies firms as 'micro'. This imposes lighter disclosure requirements on such firms.
+SI_4,SE,2023,Small,Classifies firms as 'small'. This imposes lighter disclosure requirements on such firms.
+SI_5,SE,2023,Medium,Classifies firms as 'medium'. This imposes lighter disclosure requirements on such firms.
+SI_6,SE,2023,Audit,Mandates firms to have their annual financial statements audited.
+SK_1,SK,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+SK_2,SK,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+SK_3,SK,2023,Audit,Mandates firms to have their annual financial statements audited.
+TR_1,TR,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+TR_2,TR,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+TR_3,TR,2023,Audit,Mandates firms to have their annual financial statements audited.
+US_1,US,2023,Balance Sheet disclosure,Mandates firms to disclose a balance sheet to the public.
+US_2,US,2023,Income Statement disclosure,Mandates firms to disclose an income statement to the public. 
+US_3,US,2023,Audit,Mandates firms to have their annual financial statements audited.
